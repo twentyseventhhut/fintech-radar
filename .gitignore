@@ -1,0 +1,53 @@
+.DS_Store
+**/.DS_Store
+.trash/
+# Obsidian UI/cache churn
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+# SECRET — Local REST API bearer key: NEVER commit
+.obsidian/plugins/obsidian-local-rest-api/data.json
+
+# local env secrets
+pipeline/.env
+.env
+
+# pipeline working caches / regenerable (kept local, not bloating the repo)
+pipeline/__pycache__/
+pipeline/**/__pycache__/
+pipeline/state/source_cache.jsonl
+pipeline/backups/
+pipeline/months/*/clusters.json
+pipeline/months/*/deduped.csv
+pipeline/data/*.csv
+pipeline/state/daily/*/run.log
+pipeline/state/*.log
+pipeline/data/items.jsonl
+pipeline/semsearch/.venv/
+pipeline/semsearch/__pycache__/
+pipeline/state/newsdb/
+pipeline/state/irdb/
+pipeline/state/ir_cache/
+pipeline/state/ir_work/
+pipeline/ir/ir_discovery.json
+
+# --- Fintech Radar template: keep runtime data & secrets OUT of git ---
+pipeline/.env
+pipeline/state/
+pipeline/data/
+pipeline/months/
+pipeline/digests/
+News/
+raw_news/
+digest/
+Posts/
+historical updates/
+research/results/
+research/log/
+research/state.json
+.obsidian/
+pipeline/ir/ir_coverage.json
+pipeline/ir/ir_latest.json
+pipeline/ir/edgar_seen.json
+pipeline/ir/drive_map.json
+pipeline/ir/registry/manifest*.csv

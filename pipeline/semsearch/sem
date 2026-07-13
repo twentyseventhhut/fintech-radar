@@ -1,0 +1,15 @@
+#!/usr/bin/env bash
+# Convenience wrapper for the semantic-search engine. Portable: works locally (uses the
+# .venv if present) and in CI/cloud (falls back to python3 with deps pip-installed).
+#   ./sem check                         # verify embedder connectivity + dim
+#   ./sem index [--full] [--limit N]    # build / sync the index (incremental by default)
+#   ./sem search "query" --k 20 [--type earnings] [--region us] [--company stripe] [--json]
+set -e
+DIR="$(cd "$(dirname "$0")" && pwd)"
+if [ -n "$SEM_PYTHON" ]; then PY="$SEM_PYTHON"
+elif [ -x "$DIR/.venv/bin/python" ]; then PY="$DIR/.venv/bin/python"
+else PY="python3"; fi
+case "$1" in
+  search) shift; exec "$PY" "$DIR/search.py" "$@" ;;
+  *)      exec "$PY" "$DIR/index.py" "$@" ;;
+esac

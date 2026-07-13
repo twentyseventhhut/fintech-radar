@@ -1,0 +1,151 @@
+name: ir-refresh
+
+# Monthly (last calendar day): lightweight discovery of NEW investor-relations reports, then — only if any —
+# download + Drive mirror (job "discover"), and a SEPARATE job "index" embeds just the delta into irdb.
+# Splitting keeps the heavy `claude -p` private discovery in its own 180-min budget and the embedding in
+# another, so neither blows a single job timeout. EDGAR (66 SEC filers) is deterministic; private/non-EDGAR
+# companies flagged "due" by cadence trigger the deep discovery (claude -p + ir-discovery skill, capped).
+# Never pulls the 13GB raw — canonical registry lives in pipeline/ir/registry, raw in Google Drive (cold);
+# only the delta is embedded into irdb (the `irindex` Release that ingest-enrich restores for [2]).
+
+on:
+  schedule:
+    - cron: "0 6 28-31 * *"     # fires 28–31; the gate job keeps only the true last day of the month
+  workflow_dispatch: {}          # manual dispatch always runs (bypasses the month-end gate)
+
+permissions:
+  contents: write
+
+concurrency:
+  group: fintech-write     # shared with ingest-enrich + publish — serializes all repo-writers (no add/add races)
+  cancel-in-progress: false
+
+jobs:
+  # ---- gate: run the pipeline only on the last day of the month (or any manual dispatch) ----
+  gate:
+    runs-on: [self-hosted, fly]
+    outputs:
+      run: ${{ steps.g.outputs.run }}
+    steps:
+      - id: g
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "manual dispatch — run"; echo "run=true" >> "$GITHUB_OUTPUT"; exit 0
+          fi
+          if [ "$(date -u -d tomorrow +%d)" = "01" ]; then
+            echo "last day of the month — run"; echo "run=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "not month-end ($(date -u +%F)) — skip"; echo "run=false" >> "$GITHUB_OUTPUT"
+          fi
+
+  # ---- discover: find + download new filings, mirror raw to Drive, commit registry, hand the delta off ----
+  discover:
+    needs: gate
+    if: needs.gate.outputs.run == 'true'
+    runs-on: [self-hosted, fly]
+    timeout-minutes: 180
+    outputs:
+      has_delta: ${{ steps.collect.outputs.has_delta }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install deps (no pymupdf — this job does not index)
+        run: |
+          pip install -r pipeline/semsearch/requirements.txt
+          curl -fsSL https://rclone.org/install.sh | sudo bash || sudo apt-get -y install rclone
+          npm install -g @anthropic-ai/claude-code   # for the private ir-discovery (claude -p)
+
+      - name: Configure rclone (Drive via OAuth — no service-account key)
+        env:
+          RCLONE_CONFIG_CONTENT: ${{ secrets.RCLONE_CONFIG }}   # secrets are NOT allowed in if: — gate inside run
+        run: |
+          if [ -z "$RCLONE_CONFIG_CONTENT" ]; then echo "no RCLONE_CONFIG secret — skipping rclone"; exit 0; fi
+          mkdir -p ~/.config/rclone
+          printf '%s' "$RCLONE_CONFIG_CONTENT" > ~/.config/rclone/rclone.conf
+          echo "rclone configured"
+
+      - name: Discover + replenish (download raw, mirror to Drive — NO indexing)
+        id: collect
+        env:
+          RCLONE_REMOTE: ${{ vars.RCLONE_REMOTE }}          # e.g. "irdrive:" — enables Drive mirror + link map (OAuth)
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}   # private ir-discovery (claude -p)
+          ANTHROPIC_MODEL: "claude-opus-4-8[1m]"
+          IR_DUE_CAP: ${{ vars.IR_DUE_CAP || '20' }}         # max due companies to deep-discover per run
+          IR_DISC_TIMEOUT: "6000"                            # per-subprocess cap (~100 min) inside the 180-min job
+        run: python3 pipeline/ir/ir_refresh.py --skip-index
+
+      - name: Commit registry/state (race-proof)
+        run: |
+          git config user.name  "fintech-ir-bot"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add pipeline/ir/registry pipeline/ir/ir_coverage.json pipeline/ir/ir_latest.json \
+                  pipeline/ir/edgar_seen.json pipeline/ir/drive_map.json 2>/dev/null || true
+          if git diff --cached --quiet; then
+            echo "nothing new this month"
+          else
+            git commit -m "ir-refresh discover $(date -u +%F): new filings collected (cloud)"
+            for i in 1 2 3 4 5; do
+              git pull --rebase --autostash && git push && break
+              echo "push race, retry $i"; git rebase --abort 2>/dev/null || true; sleep $((RANDOM % 8 + 3))
+              [ "$i" = 5 ] && { echo "push failed after 5 retries"; exit 1; }
+            done
+          fi
+
+      - name: Hand new raw + delta to the index job
+        if: steps.collect.outputs.has_delta == 'true'
+        uses: actions/upload-artifact@v4
+        with:
+          name: ir-delta
+          path: |
+            pipeline/state/ir_work/data
+            pipeline/state/ir_work/manifest_delta.csv
+          if-no-files-found: ignore
+          retention-days: 2
+
+  # ---- index: embed ONLY the delta into irdb, upload the irindex Release (its own timeout budget) ----
+  index:
+    needs: discover
+    if: needs.discover.outputs.has_delta == 'true'
+    runs-on: [self-hosted, fly]
+    timeout-minutes: 150
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install deps (+ pymupdf for PDF text)
+        run: pip install -r pipeline/semsearch/requirements.txt pymupdf
+
+      - name: Restore IR index (irindex release, split-aware)
+        continue-on-error: true
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: bash pipeline/relidx.sh restore irindex pipeline/state/irdb
+
+      - name: Download new raw + delta (from the discover job)
+        uses: actions/download-artifact@v4
+        with:
+          name: ir-delta
+          path: pipeline/state/ir_work
+
+      - name: Index the delta into irdb
+        env:
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+          EMBED_MODEL: "qwen/qwen3-embedding-8b"
+          EMBED_DIM: "1024"
+        run: |
+          python3 pipeline/ir/index_ir.py --full-corpus \
+            --manifest pipeline/state/ir_work/manifest_delta.csv \
+            --dataset pipeline/state/ir_work --group 200
+
+      - name: Upload irindex (split-aware, <2GB asset)
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: bash pipeline/relidx.sh upload irindex pipeline/state/irdb "IR index"

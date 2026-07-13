@@ -1,0 +1,22 @@
+# Always-on tiny Machine that receives Telegram webhooks and dispatches research.yml instantly.
+app = "fintech-tg-webhook"
+primary_region = "fra"
+
+[build]
+  dockerfile = "Dockerfile"
+
+[env]
+  GH_OWNER = "YOUR_GH_OWNER"
+  GH_REPO  = "YOUR_REPO"
+
+[http_service]
+  internal_port      = 8080
+  force_https        = true
+  auto_stop_machines = false     # must stay up so Telegram can POST the instant a message arrives
+  auto_start_machines = true
+  min_machines_running = 1
+
+[[vm]]
+  cpu_kind  = "shared"
+  cpus      = 1
+  memory_mb = 256

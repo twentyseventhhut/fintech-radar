@@ -1,0 +1,10 @@
+{
+  "_comment": "Public Telegram channels scraped via https://t.me/s/<username> by tg_ingest.py (every 4h). Add/remove usernames here; entries may be a bare \"username\" or {\"username\":\"x\",\"slug\":\"y\",\"name\":\"Friendly\"}.",
+  "channels": [
+    "sbmarketing",
+    "mergersrussia",
+    "fintexno",
+    "rusven",
+    "ftsec"
+  ]
+}

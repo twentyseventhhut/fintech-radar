@@ -1,0 +1,16 @@
+{
+  "slug": "example-co",
+  "company": "Example Co",
+  "found": true,
+  "current_ir_site": "https://investors.example.com",
+  "ir_pages": ["https://investors.example.com/financials", "https://investors.example.com/presentations"],
+  "cadence": "quarterly",
+  "periods_found": ["Q1 2026"],
+  "periods_missing": [],
+  "materials": [
+    {"title": "Q1 2026 Investor Presentation", "doc_type": "investor_presentation",
+     "period": "Q1 2026", "date": "2026-04-30", "url": "https://investors.example.com/q1-2026-deck.pdf"},
+    {"title": "Q1 2026 Results", "doc_type": "quarterly_results",
+     "period": "Q1 2026", "date": "2026-04-30", "url": "https://investors.example.com/q1-2026-results.pdf"}
+  ]
+}

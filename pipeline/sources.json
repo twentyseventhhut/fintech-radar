@@ -1,0 +1,81 @@
+{
+  "_comment": "Fintech Radar sources. type: sitemap | substack | wp_api | gnews. host = own domain (for self-link filtering).",
+  "sources": [
+    {
+      "id": "twif",
+      "name": "This Week in Fintech",
+      "type": "sitemap",
+      "sitemaps": ["https://www.thisweekinfintech.com/sitemap.xml"],
+      "post_match": "/p/",
+      "container_id": "content-blocks",
+      "host": "thisweekinfintech.com",
+      "author": "This Week in Fintech",
+      "homepage": "https://www.thisweekinfintech.com/"
+    },
+    {
+      "id": "brainfood",
+      "name": "Fintech Brainfood (Simon Taylor)",
+      "type": "sitemap",
+      "sitemaps": ["https://www.fintechbrainfood.com/sitemap.xml"],
+      "post_match": "/p/",
+      "container_id": "content-blocks",
+      "host": "fintechbrainfood.com",
+      "author": "Simon Taylor",
+      "homepage": "https://www.fintechbrainfood.com/",
+      "linkedin": "https://www.linkedin.com/in/sytaylor/",
+      "note": "Newsletter proxy for requested LinkedIn /in/sytaylor (Simon Taylor)."
+    },
+    {
+      "id": "ctd",
+      "name": "Connecting the Dots in Fintech (Siroj Boboev)",
+      "type": "sitemap",
+      "sitemaps": ["https://www.connectingthedotsinfin.tech/sitemap-posts.xml"],
+      "container_class": "gh-content",
+      "host": "connectingthedotsinfin.tech",
+      "author": "Siroj Boboev",
+      "homepage": "https://www.connectingthedotsinfin.tech/",
+      "linkedin": "https://www.linkedin.com/in/sirojboboev/",
+      "note": "Ghost site; RSS body is empty so we crawl the sitemap and fetch each post. Same author as requested LinkedIn /in/sirojboboev."
+    },
+    {
+      "id": "wrapup",
+      "name": "Fintech Wrap Up (Sam Boboev)",
+      "type": "substack",
+      "base": "https://www.fintechwrapup.com",
+      "host": "fintechwrapup.com",
+      "author": "Sam Boboev",
+      "homepage": "https://www.fintechwrapup.com/"
+    },
+    {
+      "id": "lex",
+      "name": "The Fintech Blueprint (Lex Sokolin)",
+      "type": "substack",
+      "base": "https://lex.substack.com",
+      "host": "lex.substack.com",
+      "author": "Lex Sokolin",
+      "homepage": "https://lex.substack.com/",
+      "note": "Some posts are paid (audience=only_paid); for those only the public preview text is available."
+    },
+    {
+      "id": "techcrunch",
+      "name": "TechCrunch — Fintech",
+      "type": "wp_api",
+      "base": "https://techcrunch.com",
+      "category_slug": "fintech",
+      "host": "techcrunch.com",
+      "homepage": "https://techcrunch.com/category/fintech/",
+      "exclude_keywords": ["disrupt", "ticket", "apply to speak", "battlefield",
+                           "save up to", "last chance", "early bird", "save $", "off your"],
+      "note": "Full coverage via WordPress REST API (not the 20-item RSS cap). Event/promo posts filtered out."
+    },
+    {
+      "id": "fintechfutures",
+      "name": "Fintech Futures",
+      "type": "gnews",
+      "url": "https://news.google.com/rss/search?q=site:fintechfutures.com+when:{days}d&hl=en-US&gl=US&ceid=US:en",
+      "host": "fintechfutures.com",
+      "homepage": "https://www.fintechfutures.com/",
+      "note": "Site is behind Incapsula (403 to curl, WebFetch and r.jina.ai). Headlines+links via Google News RSS; full body text is NOT available headlessly."
+    }
+  ]
+}

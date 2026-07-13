@@ -1,0 +1,2 @@
+lancedb>=0.33
+python-frontmatter

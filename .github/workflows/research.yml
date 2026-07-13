@@ -1,0 +1,102 @@
+name: research
+
+# Personal Telegram researcher. WEBHOOK-DRIVEN: the fly-webhook Machine dispatches this per message, so
+# there's no poll lag — the runner starts within seconds of the query. This job restores the indexes +
+# runs `claude -p` (researcher skill: semantic search over news + IR + parallel web, market-researcher /
+# earnings-reviewer plugins, no xlsx/pptx) for the passed query and replies to the passed chat.
+# Uses the Max OAuth token. No schedule cron — getUpdates polling is mutually exclusive with a webhook.
+
+on:
+  schedule:
+    - cron: "*/10 * * * *"     # TEMP fallback: keeps polling alive until fly-webhook is live (then remove)
+  workflow_dispatch:
+    inputs:
+      query:
+        description: "Research query to run (from the webhook, or manual)"
+        required: false
+        default: ""
+      deep:
+        description: "deep mode (vendor plugins)"
+        type: boolean
+        default: false
+      chat:
+        description: "Telegram chat id to reply to"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  group: research
+  cancel-in-progress: false
+
+jobs:
+  research:
+    runs-on: [self-hosted, fly]
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Poll Telegram (cheap)
+        id: poll
+        env:
+          RESEARCH_BOT_TOKEN: ${{ secrets.RESEARCH_BOT_TOKEN }}
+          RESEARCH_ALLOWED_CHATS: ${{ vars.RESEARCH_ALLOWED_CHATS }}
+          QUERY_OVERRIDE: ${{ github.event.inputs.query }}
+          DEEP_OVERRIDE: ${{ github.event.inputs.deep }}
+          CHAT_OVERRIDE: ${{ github.event.inputs.chat }}
+        run: python3 pipeline/research/research_bot.py --poll
+
+      - uses: actions/setup-node@v4
+        if: steps.poll.outputs.has_work == 'true'
+        with:
+          node-version: "20"
+
+      - name: Install + restore indexes + vendor plugins (only on a real query)
+        if: steps.poll.outputs.has_work == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+        run: |
+          pip install -r pipeline/semsearch/requirements.txt
+          npm install -g @anthropic-ai/claude-code
+          # the REAL vendor plugins from the official marketplace (so market-researcher / earnings-reviewer run for real)
+          claude plugin marketplace add anthropics/financial-services || echo "marketplace add failed"
+          claude plugin install market-researcher@claude-for-financial-services || echo "MR install failed"
+          claude plugin install earnings-reviewer@claude-for-financial-services || echo "ER install failed"
+          claude plugin list || true
+          bash pipeline/relidx.sh restore semindex pipeline/state/newsdb || echo "no semindex"
+          bash pipeline/relidx.sh restore irindex  pipeline/state/irdb   || echo "no irindex"
+
+      - name: Research + reply (only on a real query)
+        if: steps.poll.outputs.has_work == 'true'
+        env:
+          RESEARCH_BOT_TOKEN: ${{ secrets.RESEARCH_BOT_TOKEN }}
+          RESEARCH_ALLOWED_CHATS: ${{ vars.RESEARCH_ALLOWED_CHATS }}
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          ANTHROPIC_MODEL: "claude-opus-4-8[1m]"
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+          EMBED_MODEL: "qwen/qwen3-embedding-8b"
+          EMBED_DIM: "1024"
+          TELEGRAPH_TOKEN: ${{ secrets.TELEGRAPH_TOKEN }}   # publish the 1-pager as a telegra.ph article
+        run: python3 pipeline/research/research_bot.py --process
+
+      - name: Commit offset + results (race-proof; no-op on empty poll)
+        run: |
+          git config user.name  "fintech-research-bot"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add research/ 2>/dev/null || true
+          if git diff --cached --quiet; then
+            echo "nothing to commit"
+          else
+            git commit -m "research: offset/results $(date -u +%FT%TZ)"
+            for i in 1 2 3 4 5; do
+              git pull --rebase --autostash && git push && break
+              echo "push race, retry $i"; git rebase --abort 2>/dev/null || true; sleep $((RANDOM % 8 + 3))
+              [ "$i" = 5 ] && { echo "push failed after 5 retries"; exit 1; }
+            done
+          fi

@@ -1,0 +1,22 @@
+# Fly.io app = one always-on Machine hosting a self-hosted GitHub Actions runner.
+# Sized for the heaviest job (ingest-enrich claude -p + IR index restore/embed): 4 GB RAM, 2 shared vCPU.
+# No [http_service] → the runner is outbound-only (long-polls GitHub), so Fly never auto-stops it.
+app = "fintech-runner"
+primary_region = "fra"          # change to your nearest Fly region
+
+[build]
+  dockerfile = "Dockerfile"
+
+[env]
+  GH_OWNER = "YOUR_GH_OWNER"
+  GH_REPO  = "YOUR_REPO"
+
+# working dir (repo checkouts + restored semindex/irindex ~3 GB) on a persistent volume
+[[mounts]]
+  source      = "runner_work"
+  destination = "/home/runner/actions-runner/_work"
+
+[[vm]]
+  cpu_kind   = "shared"
+  cpus       = 2
+  memory_mb  = 4096          # bump to 8192 if IR indexing ever OOMs; drop to 2048 to save cost
