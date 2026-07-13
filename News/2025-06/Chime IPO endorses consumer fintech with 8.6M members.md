@@ -1,0 +1,109 @@
+---
+title: "Chime IPO endorses consumer fintech with 8.6M members"
+date: 2025-06-15
+tags:
+  - company/chime
+  - industry/neobank
+  - region/us
+  - type/ipo
+sources:
+  - https://www.cnbc.com/2025/06/12/chime-opens-at-43-in-nasdaq-debut-after-pricing-ipo-above-range.html
+  - https://www.theglobaleconomics.com/2025/06/13/chime-shares-nasdaq/
+  - https://www.pymnts.com/news/ipo/2025/chime-gets-a-ringing-endorsement-on-wall-street-as-ipo-valuation-hits-11-6b
+  - https://www.theglobaleconomics.com/2025/06/13/chime-shares-nasdaq
+status: tagged
+n_mentions: 1
+channels:
+  - "This Week in Fintech"
+story_id: scfd97391
+month: 2025-06
+enriched: false
+---
+
+# Chime IPO endorses consumer fintech with 8.6M members
+
+> [!info] 2025-06-15 · 1 упоминаний · 2 источника(ов) с текстом
+> Каналы: This Week in Fintech
+
+## Агрегированный текст (из дайджестов)
+
+[This Week in Fintech] This is exciting for anyone who has been tracking consumer fintech, which has been a bit of a riddle in public markets and a category that venture investors avoided. Chime's IPO was a ringing endorsement of fintech providers that learned the difficult lessons of 2022. Chime disclosed in their S-1 that the bank has 8.6 million active members — up 23% from 2024 — where 67% of them use Chime as their primary financial provider, which is a key detail.
+
+## Первоисточники
+
+### cnbc.com
+<https://www.cnbc.com/2025/06/12/chime-opens-at-43-in-nasdaq-debut-after-pricing-ipo-above-range.html>
+*776 слов · direct*
+
+Chime began trading Thursday on the Nasdaq under the ticker symbol CHYM, marking one of the most closely watched fintech debuts in recent years.
+The online banking provider priced its IPO at $27 per share, above the expected range.
+Chime raised approximately $700 million in new capital in a deal valuing the company at about $11.6 billion.
+In this article
+ CHYM 
+ Chime shares jumped 37% in their Nasdaq debut on Thursday after the provider of online banking services sold shares in an IPO that valued the company at $11.6 billion.
+Late Wednesday, Chime raised about $700 million in its offering, and existing investors sold an additional $165 million worth of shares. The stock, trading under the ticker symbol CHYM, closed on Thursday at $37.11, up from its IPO price of $27. It's market cap climbed to $13.5 billion. 
+Chime's IPO, from a valuation perspective, represents a big step down from where venture investors like Sequoia Capital valued the company in its last fundraising round in 2021, when private tech markets were raging. The valuation at the time was $25 billion .
+Still, Chime's offering is the latest sign that the fintech IPO market is opening up after a multi-year freeze brought on by rising interest rates and valuation resets. Recent debuts from eToro and crypto company Circle have rekindled optimism in the sector, with both stocks seeing strong initial pops.
+Chime reported $518.7 million in revenue for the most recent quarter, a 32% increase from a year earlier. Net income narrowed slightly to $12.9 million, down from $15.9 million in the same period last year.
+CEO Chris Britt said Chime has built a loyal user base by serving Americans earning $100,000 a year or less, a group often overlooked by traditional banks.
+"Two-thirds of our customer base use us as their direct deposit account and primary account relationship," Britt told CNBC's David Faber. "We help our members avoid fees, get access to short-term liquidity, build their credit and build their savings — and it's that combination of services that really resonates and matters most to the everyday consumer."
+Britt said the company reached $25 million in adjusted profitability in the first quarter and has improved its adjusted profit margin by 40 points over the past two years.
+The company's top institutional shareholders are DST Global and Crosslink Capital. Iconiq was one of the firms that invested six years ago, when Chime raised money at a $1.5 billion valuation.
+"We first invested in Chime in 2019 and continued to invest through subsequent rounds because of their singular, unwavering focus on serving everyday Americans — and the trust they've built with that core customer base," Yoonkee Sull, general partner at Iconiq, said in an interview.
+The average Chime customer completes more than 55 transactions per month using the Chime card and interacts with the app four to five times a day. Active member growth rose 23% in the first quarter from a year earlier, Britt said, with 8.6 million monthly active users and an increasing number turning to Chime to serve as their primary banking relationship.
+Customer acquisition doesn't come cheap. Chime disclosed in its prospectus that it spent $1.4 billion on marketing between 2022 and 2024. Britt said the retention rate is above 90% once users set up direct deposit.
+"Sometimes for people, it takes a change in life — a change in their career, a job change — to be the point in time when they actually make the switch and use us as a primary bank account," he said.
+The company's core revenue comes from interchange fees, the charges merchants pay when consumers swipe Chime-issued debit or credit cards. Britt said 72% of Chime's revenue is payments driven, versus traditional banks that rely heavily on fees from overdrafts and minimum balances.
+"It's pretty simplistic," said Dan Dolev, an analyst at Mizuho. "I'm actually surprised by how unsophisticated that business model is."
+Chime's performance in the public markets may set the tone for what comes next. Several other fintech players, including Klarna, Gemini and Bullish, have already filed for IPOs publicly or confidentially.
+"If it goes well — and you'll know that in the next two to three months — I think you'll see much more receptivity" from other companies in the pipeline, said David Golden, partner at Revolution Ventures and former head of tech investment banking at JPMorgan Chase.
+"If it doesn't go well," Golden added, "I think they'll continue just to sit on their hands and wait it out."
+Chime is a five-time CNBC Disruptor 50 company, having made the annual list from 2020-2024.
+ WATCH: What happens now that the IPO window is open
+
+### theglobaleconomics.com
+<https://www.theglobaleconomics.com/2025/06/13/chime-shares-nasdaq/>
+*679 слов · jina*
+
+#### **Chime’s stock opened at $43, compared with the IPO price of $27, and last traded at $39.90. The digital bank and some of its investors sold 32 million shares to raise $864 million in the IPO.**
+
+San Francisco-based company Chime Financial made its highly anticipated Nasdaq debut on Thursday, catapulting its valuation to $18.4 billion, with the digital bank’s shares surging 59%. Chime’s stock opened at $43, compared with the IPO price of $27, and last traded at $39.90.
+
+Due to the precarious economic conditions currently prevailing in the market, investor confidence hit rock bottom, particularly after US President Donald Trump announced his barrage of tariffs on all other countries. The situation appears to be slowly improving, with investors moving cautiously due to the 90-day tariff pause.
+
+Markets are slowly gaining momentum, with more companies from across sectors floating their IPOs after a short period of hesitancy. However, for this momentum to be maintained, while favourable conditions are necessary, confidence can be retained when more companies are willing to take the plunge and engage more actively in the capital markets.
+
+If the present market situation prevails, Chime could reignite confidence among its peers in the fintech industry, which has currently recorded declining pre-pandemic valuations. Market analysts have reiterated that Chime’s strong launch could cause a domino effect, prompting other high-growth firms to hasten their IPO listings.
+
+The digital bank and some of its investors sold 32 million shares to raise $864 million in the IPO. According to Reuters, having raised $750 million in a funding round led by Sequoia Capital Global Equities in 2021, Chime’s last valuation was at $25 billion. Yuri Milner’s DST Global and investment firms General Atlantic and ICONIQ are some of the company’s primary backers.
+
+Major financial service providers like Morgan Stanley, Goldman Sachs and JP Morgan served as the lead underwriters for Chime’s IPO. PitchBook data reveals that the company has raised $2.65 billion from private investors since its inception in 2012.
+
+Financial services companies like Chime have gained popularity, rapidly growing over the past few years, as they offer low-cost, mobile-first financial services, which are appealing to younger customers and underserved consumers. These digital banks have set themselves apart from traditional banks by offering an array of user-friendly services like no-fee accounts, early access to direct deposits and easy-access apps.
+
+These fintech firms earn their revenues mainly through the interchange fees they collect when customers swipe their debit cards. In an interview with Reuters, Chime CEO Chris Britt described the venture as just the surface level of an enormous business opportunity. He added that the company only caters to less than 5% of the 200 million users in the US who earn $100,000 or less a year, which is a portion of the market Chime has targeted, spending close to $520 million last year on marketing.
+
+While the IPO market boomed in 2021, that momentum has since been lost, due to recession fears and surging interest rates. Companies have been delaying their IPO plans as a consequence of plummeting valuations and shrunken investor demand for new issues, causing further jitters in the capital market.
+
+However, that trepidation is slowly waning, with high-growth companies, particularly in crypto and fintech sectors, re-engaging with the market, albeit with much caution. There has been much good news for these companies, as just this week, Stablecoin issuer, Circle debuted went public and enjoyed instant success. Similarly, the space tech firm, Voyager, also made its entry into the IPO market on Wednesday; both companies’ shares more than doubled.
+
+Despite these success stories, IPO and market analysts are signalling caution. Despite the IPO window looking strong for now, Trump’s protectionist policies could hamper its recovery, causing significant losses to these firms. While the tariff pause has pushed investors and private companies to complete their deals, at the end of three months, if Trump tariffs are reinstated, markets could be sent reeling yet again.
+
+Therefore, since crypto exchange Gemini, buy-now-pay-later firm Klarna, and other companies are in the IPO pipelines, their debuts are being monitored closely to assess market responses.
+
+### Прочие ссылки (без извлечённого текста)
+
+- <https://www.pymnts.com/news/ipo/2025/chime-gets-a-ringing-endorsement-on-wall-street-as-ipo-valuation-hits-11-6b>
+- <https://www.theglobaleconomics.com/2025/06/13/chime-shares-nasdaq>
+
+## Контекст
+<!-- enrichment:context -->
+_(пусто — заполняется при обогащении)_
+
+## Челлендж / ред-тим
+<!-- enrichment:challenge -->
+_(пусто)_
+
+## Связь с постом
+<!-- enrichment:post -->
+_(пусто)_

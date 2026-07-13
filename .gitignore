@@ -37,7 +37,6 @@ pipeline/state/
 pipeline/data/
 pipeline/months/
 pipeline/digests/
-News/
 raw_news/
 digest/
 Posts/

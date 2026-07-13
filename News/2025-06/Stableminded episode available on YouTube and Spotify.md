@@ -1,0 +1,46 @@
+---
+title: "Stableminded episode available on YouTube and Spotify"
+date: 2025-06-13
+tags:
+  - industry/stablecoins
+  - region/global
+  - type/commentary
+sources:
+  - https://open.spotify.com/episode/3gfwO4gGfjGtOkyKYYOrYj
+status: tagged
+n_mentions: 1
+channels:
+  - "This Week in Fintech"
+story_id: s578d9283
+month: 2025-06
+enriched: false
+---
+
+# Stableminded episode available on YouTube and Spotify
+
+> [!info] 2025-06-13 · 1 упоминаний · 0 источника(ов) с текстом
+> Каналы: This Week in Fintech
+
+## Агрегированный текст (из дайджестов)
+
+[This Week in Fintech] Watch the full episode on YouTube below, or Spotify!
+
+## Первоисточники
+
+_(нет загруженного полного текста первоисточника)_
+
+### Прочие ссылки (без извлечённого текста)
+
+- <https://open.spotify.com/episode/3gfwO4gGfjGtOkyKYYOrYj>
+
+## Контекст
+<!-- enrichment:context -->
+_(пусто — заполняется при обогащении)_
+
+## Челлендж / ред-тим
+<!-- enrichment:challenge -->
+_(пусто)_
+
+## Связь с постом
+<!-- enrichment:post -->
+_(пусто)_

@@ -1,0 +1,64 @@
+---
+title: "Newly public Webull secures $1bn standby equity agreement"
+date: 2025-07-08
+tags:
+  - company/webull
+  - industry/trading
+  - region/us
+  - type/funding
+sources:
+  - https://www.prnewswire.com/news-releases/webull-announces-1-billion-standby-equity-agreement-302497054.html
+  - https://www.fintechfutures.com/alternative-investment-platforms/newly-public-webull-obtains-1bn-capital-access-agreement
+status: tagged
+n_mentions: 1
+channels:
+  - "Connecting the Dots in Fintech"
+story_id: s9449672f
+month: 2025-07
+enriched: false
+---
+
+# Newly public Webull secures $1bn standby equity agreement
+
+> [!info] 2025-07-08 · 1 упоминаний · 1 источника(ов) с текстом
+> Каналы: Connecting the Dots in Fintech
+
+## Агрегированный текст (из дайджестов)
+
+[Connecting the Dots in Fintech] 🇺🇸 Newly public Webull obtains a $1bn capital access agreement. Group president Anthony Denier says the funds will help Webull "pursue new growth opportunities, such as product expansion, new asset classes, and geographic expansion". Read more
+
+## Первоисточники
+
+### prnewswire.com
+<https://www.prnewswire.com/news-releases/webull-announces-1-billion-standby-equity-agreement-302497054.html>
+*1370 слов · direct*
+
+Company intends on opportunistically using capital for key growth initiatives
+ ST. PETERSBURG, Fla. , July 3, 2025 /PRNewswire/ --  Webull Corporation (Nasdaq: BULL ) ("Webull" or the "Company"), the owner of the Webull online investment platform, announced today that it has secured an important financing option by entering into a standby equity purchase agreement ("Purchase Agreement") with YA II PN, Ltd., an investment fund managed by Yorkville Advisors ("Yorkville"). Subject to certain customary conditions, the Purchase Agreement grants Webull the option, at its sole discretion, to issue up to $1.0 billion in Class A ordinary shares to Yorkville over three years. The per share subscription price Yorkville will pay for the shares will be a 2.5% discount to the Market Price (as that term is defined in the Purchase Agreement) during each one-day pricing period elected by the Company. Webull intends to use the Purchase Agreement strategically to raise and deploy capital, using as little or as much as circumstances warrant, when market conditions and business opportunities justify doing so.
+"With access to capital available through the Purchase Agreement, Webull is well positioned to pursue new growth opportunities, such as product expansion, new asset classes, and geographic expansion," said Anthony Denier , Group President and U.S. CEO of Webull. "As we survey the evolving market landscape and consider next-generation technologies in the space such as stable coins and real-world asset tokenization, access to capital will be critical to our ability to innovate and compete on the cutting edge going forward."
+ About  Webull Corporation  
+Webull Corporation (N ASDAQ :  BULL ) owns and operates Webull, a leading digital investment platform built on next-generation global infrastructure. Through its global network of licensed brokerages, Webull offers investment services in 14 markets across North America , Asia Pacific , Europe , and Latin America . Webull serves more than 24 million registered users globally, providing retail investors with 24/7 access to global financial markets. Users can put investment strategies to work by trading global stocks, ETFs, options, futures, fractional shares, and digital assets through Webull's trading platform, which seamlessly integrates market data and information, its user community, and investor education resources. Learn more at  www.webullcorp.com . You may also access certain information on Webull and its securities on the website of the SEC at  http://www.sec.gov , where Webull will, among others, be filing reports, such as Reports on Form 6-K and its Annual Report on Form 20-F.  
+ Cautionary Note Regarding Forward-Looking Statements  
+This press release includes "forward-looking statements" within the meaning of the "safe harbor" provisions of the United States Private Securities Litigation Reform Act of 1995. All statements other than statements of historical fact contained in this press release or other statements of the Company are forward-looking statements. Some of these forward-looking statements can be identified by the use of forward-looking words, including "anticipate," "expect," "suggests," "plan," "believe," "predict," "potential," "seek," "future," "propose," "continue," "intend," "estimates," "targets," "projects," "should," "could," "would," "may," "will," "forecast" or the negatives of these terms or variations of them or similar terminology although not all forward-looking statements contain such terminology. 
+All forward-looking statements are based upon current estimates and forecasts and reflect the reasonable views, assumptions, expectations, and opinions of the Company and its management as of the date of this press release, and are therefore subject to a number of factors, risks and uncertainties, some of which are not currently known to the Company and its management and could cause actual results to differ materially from those expressed or implied by such forward-looking statements. Some of these factors include, but are not limited to: (1) the ability of the Company to grow and manage growth profitably, maintain relationships and deepen engagement with users, customers and suppliers, and retain its management and key employees; (2) the reliance of key functions of the Company's business on third-parties and the risk that the Company's platform and systems rely on software and applications that are highly technical and may contain undetected errors that could result in unexpected network interruptions, failures, security breaches, or computer virus attacks; (3) the risks associated with the Company's global operations and continued global expansion, including, but not limited to, the risks related to complex or constantly evolving political or regulatory environments that may result in substantial costs or require adverse changes to the Company's business practices; (4) the Company's estimates of expenses and costs, of profitability or of other operational and financial metrics as well as the Company's expectations regarding demand for and market acceptance of its products and service; (5) the Company's reliance on trading related income, including payment for order flow ("PFOF"), and the risk of new regulation or bans on PFOF and similar practices; (6) the Company's exposure to fluctuations in interest rates, rapidly changing interest rate environments, volatile prices of securities and digital assets and their respective trading volumes; (7) the Company's reliance on a limited number of market makers and liquidity providers to generate a large portion of its revenues, and the negative impact of the loss of any of those market makers or liquidity providers; (8) the effects of competition in the Company's industry and the Company's need to constantly innovate and invest in new markets, products, technologies or services to retain, attract and deepen engagement with users; (9) changes in international trade policies and trade disputes that could result in tariffs, taxes or other protectionist measures adversely affecting our business; (10) risks related to general political, economic and business conditions globally and in jurisdictions where the Company operates; (11) risk of further actions taken by various government bodies in the United States that have made the Company the subject of inquiries and investigations relating to concerns about our connections to China; (12) the risk that the failure to protect customer data and privacy or to prevent security breaches relating to the Company's platform could result in economic loss, damage to its reputation, deter customers from using its products and services, and expose it to legal penalties and liability; (13) risks related to the Company's need as a regulated financial services company to develop and maintain effective compliance and risk management infrastructures as well as to maintain capital levels required by regulators and self-regulatory organizations; (14) the ability to meet, or continue to meet, stock exchange listing standards; (15) the possibility of adverse developments in pending or new litigation and regulatory investigations; (16) our ability to meet conditions precedents to issue Class A ordinary shares to Yorkville under the Purchase Agreement and the fact that there can be no guarantee of how many Class A ordinary shares will be sold under the Purchase Agreement, if any at all; (17) risks related to significant disruptions in the cryptocurrency market that negatively impacts user engagement with cryptocurrency trading on our platform; (18) political, regulatory or economic changes that affect cryptocurrencies , including changes in the governance of a cryptocurrency ; and (19) other risks and uncertainties that are more fully described in filings made, or to be made, by the Company with the SEC, including in the sections entitled "Risk Factors" and "Cautionary Note Regarding Forward-Looking Statements" in the Company's filings with the SEC. The foregoing list of factors is not exhaustive. Reported results should not be considered an indication of future performance. There may be additional risks that the Company and its management presently do not know about or that the Company and its management currently believe are immaterial that could also cause actual results to differ materially from those contained in the forward-looking statements. In light of these factors, risks and uncertainties, the forward-looking events and circumstances discussed in this press release may not occur, and any estimates, assumptions, expectations, forecasts, views or opinions set forth in this press release should be regarded as preliminary and for illustrative purposes only and accordingly, undue reliance should not be placed upon the forward-looking statements. The Company assumes no obligation and does not intend to update or revise these forward-looking statements, whether as a result of new information, future events, or otherwise, except as required by law. 
+ Webull Investor Relations [email protected] 
+ Webull Media Relations 5W Public Relations Nicholas Koulermos [email protected] (212) 999 - 5585 
+SOURCE Webull Corporation
+21 % 
+Modal title
+
+### Прочие ссылки (без извлечённого текста)
+
+- <https://www.fintechfutures.com/alternative-investment-platforms/newly-public-webull-obtains-1bn-capital-access-agreement>
+
+## Контекст
+<!-- enrichment:context -->
+_(пусто — заполняется при обогащении)_
+
+## Челлендж / ред-тим
+<!-- enrichment:challenge -->
+_(пусто)_
+
+## Связь с постом
+<!-- enrichment:post -->
+_(пусто)_
