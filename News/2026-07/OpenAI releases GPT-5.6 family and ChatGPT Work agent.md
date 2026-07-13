@@ -11,7 +11,7 @@ sources:
   - https://9to5mac.com/2026/07/09/openai-announcing-the-next-chapter-for-chatgpt-today-watch-here
   - https://openai.com/ru-RU/index/chatgpt-for-your-most-ambitious-work
   - https://openai.com/index/gpt-5-6
-status: enriched
+status: published
 n_mentions: 3
 channels:
   - "News & Trends by Sber"
@@ -139,7 +139,7 @@ Importance: 3/5 — The **model is a GA follow-through of an already-covered rel
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-07-13]] (2026-07-13).
 <!-- /enrichment:post -->
 
 ## Market Research

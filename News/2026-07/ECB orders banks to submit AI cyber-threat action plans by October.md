@@ -10,7 +10,7 @@ tags:
   - type/regulation
 sources:
   - https://substack.com/redirect/f6ef9c73-3623-46c1-8fee-96afbc57c4fc
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Linas Newsletter"
@@ -140,7 +140,7 @@ Fits the ECB's multi-year cyber-resilience escalation:
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-07-13]] (2026-07-13).
 <!-- /enrichment:post -->
 
 ## Market Research

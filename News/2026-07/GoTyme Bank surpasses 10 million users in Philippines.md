@@ -9,7 +9,7 @@ tags:
   - type/expansion
 sources:
   - https://www.connectingthedotsinfin.tech/r/949101ff
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -83,7 +83,7 @@ So this note (10M PH users, P53B deposits) is the **next milestone up the same c
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-07-13]] (2026-07-13).
 <!-- /enrichment:post -->
 
 ## Market Research

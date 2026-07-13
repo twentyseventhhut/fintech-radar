@@ -9,7 +9,7 @@ tags:
   - type/m-and-a
 sources:
   - https://mergers.ru/news/Set-366-vykupila-farmritejlera-Trika-87179
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Mergers.ru"
@@ -192,7 +192,7 @@ Importance: 2/5 — rationale: A **fresh, cleanly non-duplicative** deal (no pri
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-07-13]] (2026-07-13).
 <!-- /enrichment:post -->
 
 ## Market Research

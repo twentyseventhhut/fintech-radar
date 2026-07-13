@@ -10,7 +10,7 @@ tags:
   - type/commentary
 sources:
   - https://substack.com/app-link/post
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Linas Newsletter"
@@ -118,7 +118,7 @@ Expect: (a) OpenAI to convert Mercury data into finance-specific agents/Codex pl
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-07-13]] (2026-07-13).
 <!-- /enrichment:post -->
 
 ## Market Research

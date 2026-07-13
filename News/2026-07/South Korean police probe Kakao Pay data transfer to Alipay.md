@@ -10,7 +10,7 @@ tags:
   - type/regulation
 sources:
   - https://www.connectingthedotsinfin.tech/r/ae835357
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -105,7 +105,7 @@ Path: police investigation → possible referral to prosecutors → potential in
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-07-13]] (2026-07-13).
 <!-- /enrichment:post -->
 
 ## Market Research

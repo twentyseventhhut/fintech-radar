@@ -10,7 +10,7 @@ tags:
   - type/funding
 sources:
   - https://www.connectingthedotsinfin.tech/r/944fcbda
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -82,7 +82,7 @@ Sources: [Bloomberg](https://www.bloomberg.com/news/articles/2026-07-09/uk-finte
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-07-13]] (2026-07-13).
 <!-- /enrichment:post -->
 
 ## Market Research

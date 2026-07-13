@@ -13,7 +13,7 @@ sources:
   - https://substack.com/redirect/82332022-2131-42d0-9278-4535bba1f879
   - https://substack.com/redirect/7e9f6f68-305c-4181-9f75-62e8f5d15f45
   - https://substack.com/redirect/d4277a83-c918-41f0-89b9-0c4e2654e4da
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Linas Newsletter"
@@ -119,7 +119,7 @@ Real, well-sourced event underneath (Codex finance plugins are live) and a genui
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-07-13]] (2026-07-13).
 <!-- /enrichment:post -->
 
 ## Market Research

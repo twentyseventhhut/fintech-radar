@@ -10,7 +10,7 @@ tags:
   - type/product
 sources:
   - https://link.techcrunch.com/click/46530545.56191/aHR0cHM6Ly90ZWNoY3J1bmNoLmNvbS8yMDI2LzA3LzA5L29wZW5haS1zYXlzLWdwdC01LTYtaXMtdGhlLXByZWZlcnJlZC1tb2RlbC1mb3ItbWljcm9zb2Z0LWNvcGlsb3QtYW1pZC1icmVha3VwLWNoYXR0ZXI_dXRtX2NhbXBhaWduPWRhaWx5X3Bt/6a347703be04c47cab07526aCa626a95f
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "TechCrunch"
@@ -318,7 +318,7 @@ Importance: 3/5 — Real, dated, and strategically informative: it marks the Ope
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-07-13]] (2026-07-13).
 <!-- /enrichment:post -->
 
 ## Market Research

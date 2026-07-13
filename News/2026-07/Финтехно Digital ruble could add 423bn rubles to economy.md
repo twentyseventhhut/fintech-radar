@@ -9,7 +9,7 @@ tags:
   - type/research-report
 sources:
   - https://max.ru/fintexno
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Финтехно"
@@ -90,7 +90,7 @@ Consumer *usage stays voluntary*; only *acceptance* is mandated. CBR is also flo
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-07-13]] (2026-07-13).
 <!-- /enrichment:post -->
 
 ## Market Research

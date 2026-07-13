@@ -113,7 +113,7 @@ Importance: 3/5 — A credible, well-sourced thesis from a respected analyst (So
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+
 <!-- /enrichment:post -->
 
 ## Market Research

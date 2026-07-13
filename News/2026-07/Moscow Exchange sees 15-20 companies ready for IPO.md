@@ -9,7 +9,7 @@ tags:
   - type/ipo
 sources:
   - https://preqveca.ru/news/57277
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Mergers.ru"
@@ -87,7 +87,7 @@ _(нет загруженного полного текста первоисто
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-07-13]] (2026-07-13).
 <!-- /enrichment:post -->
 
 ## Market Research

@@ -10,7 +10,7 @@ tags:
 sources:
   - https://link.techcrunch.com/click/46519748.39485/aHR0cHM6Ly90ZWNoY3J1bmNoLmNvbS8yMDI2LzA3LzA5L21lcmNvci1pcy1pbi10YWxrcy1mb3ItYS0yMGItdmFsdWF0aW9uP3V0bV9jYW1wYWlnbj1kYWlseV9wbQ/6a347703be04c47cab07526aBfd1a7588
   - https://substack.com/redirect/f7d9eed0-5f2f-43cd-b136-53e20e587d21
-status: enriched
+status: published
 n_mentions: 2
 channels:
   - "MTS"
@@ -300,7 +300,7 @@ Importance: 4/5 — A marquee AI-infrastructure name doubling its valuation to $
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-07-13]] (2026-07-13).
 <!-- /enrichment:post -->
 
 ## Market Research

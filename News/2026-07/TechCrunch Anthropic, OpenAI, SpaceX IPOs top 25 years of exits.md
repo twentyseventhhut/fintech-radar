@@ -10,7 +10,7 @@ tags:
   - type/commentary
 sources:
   - https://link.techcrunch.com/click/46493864.50833/aHR0cHM6Ly90ZWNoY3J1bmNoLmNvbS8yMDI2LzA3LzA5L2FudGhyb3BpYy1vcGVuYWktYW5kLXNwYWNleC1hcmUtYmlnZ2VyLXRoYW4tdGhlLWxhc3QtMjUteWVhcnMtb2YtdGVjaC1leGl0cz91dG1fY2FtcGFpZ249ZGFpbHlfYW0/6a347703be04c47cab07526aBdd7bad91
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "TechCrunch"
@@ -141,7 +141,7 @@ Together these establish that mid-2026 is a genuine liquidity-unlock moment, and
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-07-13]] (2026-07-13).
 <!-- /enrichment:post -->
 
 ## Market Research

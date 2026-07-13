@@ -10,7 +10,7 @@ tags:
   - type/funding
 sources:
   - https://www.connectingthedotsinfin.tech/r/3b4495db
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -100,7 +100,7 @@ Digitt, a Guadalajara-based Mexican fintech (founded 2019), secured a **US$50M d
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-07-13]] (2026-07-13).
 <!-- /enrichment:post -->
 
 ## Market Research

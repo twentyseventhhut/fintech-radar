@@ -11,7 +11,7 @@ tags:
   - type/commentary
 sources:
   - https://substack.com/redirect/817beac3-877f-4266-8382-8510e69f3e03
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "lex"
@@ -108,7 +108,7 @@ Rationale: Foundational, frequently-cited framing story for the tokenized-privat
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-07-13]] (2026-07-13).
 <!-- /enrichment:post -->
 
 ## Market Research

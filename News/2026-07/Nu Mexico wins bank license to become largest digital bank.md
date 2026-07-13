@@ -10,7 +10,7 @@ tags:
   - type/regulation
 sources:
   - https://www.connectingthedotsinfin.tech/r/822d65fb
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -93,7 +93,7 @@ _(нет загруженного полного текста первоисто
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-07-13]] (2026-07-13).
 <!-- /enrichment:post -->
 
 ## Market Research

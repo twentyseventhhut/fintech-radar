@@ -9,7 +9,7 @@ tags:
   - type/commentary
 sources:
   - https://substack.com/app-link/post
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "richturrin"
@@ -115,7 +115,7 @@ The thesis: with the **GENIUS Act (July 2025) barring US stablecoin issuers from
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-07-13]] (2026-07-13).
 <!-- /enrichment:post -->
 
 ## Market Research

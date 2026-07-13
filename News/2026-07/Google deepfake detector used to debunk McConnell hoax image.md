@@ -10,7 +10,7 @@ tags:
   - type/product
 sources:
   - https://link.techcrunch.com/click/46493864.50833/aHR0cHM6Ly90ZWNoY3J1bmNoLmNvbS8yMDI2LzA3LzA4L2dvb2dsZXMtZGVlcGZha2UtZGV0ZWN0b3Itc3lzdGVtLXVzZWQtdG8tZGVidW5rLW1jY29ubmVsbC1ob2F4LXBpYz91dG1fY2FtcGFpZ249ZGFpbHlfYW0/6a347703be04c47cab07526aC16dffe50
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "TechCrunch"
@@ -287,7 +287,7 @@ Importance: 3/5 — A genuine, independently-verified first real-world win for A
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-07-13]] (2026-07-13).
 <!-- /enrichment:post -->
 
 ## Market Research

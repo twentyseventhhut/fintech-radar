@@ -9,7 +9,7 @@ tags:
   - type/commentary
 sources:
   - https://www.connectingthedotsinfin.tech/r/d7e12e4a
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -136,7 +136,7 @@ _Аналитические заметки (не пост). Важность: 3/
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-07-13]] (2026-07-13).
 <!-- /enrichment:post -->
 
 ## Market Research

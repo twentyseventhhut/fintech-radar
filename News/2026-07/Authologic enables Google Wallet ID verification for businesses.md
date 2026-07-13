@@ -11,7 +11,7 @@ tags:
   - type/product
 sources:
   - https://newsletter.thepaypers.com/i/Ua0FbSsE-EU-5soGG3Smel_rawMqag5c4HHLx6IEJJ_rjnwl31di6L__XAE2GkBNdJZQLoA8Ax5Z_ntjAdG_ufF3q-szucRTz9LW9gTceGvu0I3z_Tks6WvSVeXUZicsx3tu6nQ9yVk0zsfF1mKCrkqpPUdRJODKBCD86KWSiXIUOjIIwOI_iLwBY-fQWWZg
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "The Paypers"
@@ -160,7 +160,7 @@ _Analytical notes (not a post). Importance: 3/5._
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-07-13]] (2026-07-13).
 <!-- /enrichment:post -->
 
 ## Market Research

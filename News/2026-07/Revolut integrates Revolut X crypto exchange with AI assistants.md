@@ -10,7 +10,7 @@ tags:
   - type/product
 sources:
   - https://www.connectingthedotsinfin.tech/r/aa3a7495
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -83,7 +83,7 @@ External corroboration: **Robinhood** opened agentic stock trading + card via MC
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-07-13]] (2026-07-13).
 <!-- /enrichment:post -->
 
 ## Market Research

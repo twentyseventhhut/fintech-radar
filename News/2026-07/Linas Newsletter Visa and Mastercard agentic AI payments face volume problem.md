@@ -12,7 +12,7 @@ tags:
 sources:
   - https://substack.com/redirect/675a9220-cf6f-4726-9d0c-b600e0e4bbc1
   - https://substack.com/redirect/998b13ab-1398-45e9-9ae2-091ceb7c4550
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Linas Newsletter"
@@ -118,7 +118,7 @@ Importance: 3/5 — Sharp, well-evidenced reframe (rails built, volume absent; O
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-07-13]] (2026-07-13).
 <!-- /enrichment:post -->
 
 ## Market Research
