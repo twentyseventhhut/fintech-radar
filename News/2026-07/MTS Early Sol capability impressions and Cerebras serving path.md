@@ -10,7 +10,7 @@ tags:
   - type/commentary
 sources:
   - https://substack.com/redirect/fb14d104-9873-47c4-8781-31b5ee52b394
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "MTS"
@@ -124,7 +124,7 @@ Importance: 3/5 — A genuinely fresh, well-connected commentary sitting at the 
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-07-14]] (2026-07-14).
 <!-- /enrichment:post -->
 
 ## Market Research

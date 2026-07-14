@@ -9,7 +9,7 @@ tags:
   - type/commentary
 sources:
   - https://substack.com/redirect/093ee4d4-0d62-4d17-b8c2-1722ecfd396f
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Fintech Blueprint"
@@ -109,7 +109,7 @@ A Lex Sokolin / Fintech Blueprint commentary essay whose in-corpus digest line r
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-07-14]] (2026-07-14).
 <!-- /enrichment:post -->
 
 ## Market Research

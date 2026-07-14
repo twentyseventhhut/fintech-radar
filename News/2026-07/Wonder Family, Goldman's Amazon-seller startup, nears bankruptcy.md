@@ -11,7 +11,7 @@ sources:
   - https://vc.ru/legal/3024687-servis-wonder-family-gotovitsya-k-bankrotstvu
   - https://www.vedomosti.ru/business/articles/2026/07/13/1213078-servis-po-prodvizheniyu-tovarov-amazon-gotovitsya-k-bankrotstvu
   - http://YellowRocks.vc
-status: enriched
+status: published
 n_mentions: 3
 channels:
   - "Русский венчур"
@@ -302,7 +302,7 @@ _Analytical notes (not a post). Importance: 2/5._
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-07-14]] (2026-07-14).
 <!-- /enrichment:post -->
 
 ## Market Research

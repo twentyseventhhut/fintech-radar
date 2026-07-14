@@ -12,7 +12,7 @@ sources:
   - https://www.connectingthedotsinfin.tech/r/5246434b
   - https://www.connectingthedotsinfin.tech/r/ae335414
   - https://www.connectingthedotsinfin.tech/r/1f02e057
-status: enriched
+status: published
 n_mentions: 3
 channels:
   - "Connecting the Dots in Fintech"
@@ -111,7 +111,7 @@ Founded **2015** by Ben Stanway & Charlie Mortimer; round-ups + ISAs/LISA, pensi
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-07-14]] (2026-07-14).
 <!-- /enrichment:post -->
 
 ## Market Research

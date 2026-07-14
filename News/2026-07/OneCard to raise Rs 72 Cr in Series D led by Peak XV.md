@@ -10,7 +10,7 @@ tags:
   - type/funding
 sources:
   - https://www.connectingthedotsinfin.tech/r/2c5892b2
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -118,7 +118,7 @@ Importance: 3/5 — A once-$1.4bn unicorn's funding news is notable and it sits 
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-07-14]] (2026-07-14).
 <!-- /enrichment:post -->
 
 ## Market Research

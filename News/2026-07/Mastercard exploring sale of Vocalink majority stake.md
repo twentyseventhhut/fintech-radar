@@ -11,7 +11,7 @@ tags:
   - type/m-and-a
 sources:
   - https://app.go.informamail01.com/e/er
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "FinTech Futures"
@@ -115,7 +115,7 @@ Importance: 4/5 — A credible FT-sourced report that Mastercard may reverse its
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-07-14]] (2026-07-14).
 <!-- /enrichment:post -->
 
 ## Market Research

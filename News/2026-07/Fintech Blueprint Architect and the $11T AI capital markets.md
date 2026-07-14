@@ -10,7 +10,7 @@ tags:
   - type/commentary
 sources:
   - https://substack.com/app-link/post
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Fintech Blueprint"
@@ -113,7 +113,7 @@ Importance: 3/5 — A credible, well-sourced thesis from a respected analyst (So
 ## Связь с постом
 
 <!-- enrichment:post -->
-
+Опубликовано в дайджесте [[digest/2026-07-14]] (2026-07-14).
 <!-- /enrichment:post -->
 
 ## Market Research

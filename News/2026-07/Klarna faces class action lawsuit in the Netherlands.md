@@ -10,7 +10,7 @@ tags:
   - type/regulation
 sources:
   - https://www.connectingthedotsinfin.tech/r/f5015619
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -138,7 +138,7 @@ Traction to watch (real, not PR): (a) how many consumers actually enroll, (b) wh
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-07-14]] (2026-07-14).
 <!-- /enrichment:post -->
 
 ## Market Research

@@ -12,7 +12,7 @@ tags:
 sources:
   - https://www.connectingthedotsinfin.tech/r/376334c2
   - https://www.connectingthedotsinfin.tech/r/06a582ba
-status: enriched
+status: published
 n_mentions: 2
 channels:
   - "Connecting the Dots in Fintech"
@@ -111,7 +111,7 @@ Watch whether Anthropic formalizes the hire (official post) or whether it stays 
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-07-14]] (2026-07-14).
 <!-- /enrichment:post -->
 
 ## Market Research

@@ -9,7 +9,7 @@ tags:
   - type/regulation
 sources:
   - https://eur-lex.europa.eu/legal-content/EN/TXT/HTML
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Финтехно"
@@ -101,7 +101,7 @@ Internal: [[Experts warn AI adoption outpaces Mexico's fintech regulation]], [[K
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-07-14]] (2026-07-14).
 <!-- /enrichment:post -->
 
 ## Market Research

@@ -10,7 +10,7 @@ tags:
   - type/partnership
 sources:
   - https://www.connectingthedotsinfin.tech/r/f91f7339
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -107,7 +107,7 @@ Importance: 3/5 — A credibly-announced, genuinely-new win that puts Viva.com i
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-07-14]] (2026-07-14).
 <!-- /enrichment:post -->
 
 ## Market Research

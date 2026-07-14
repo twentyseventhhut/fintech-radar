@@ -10,7 +10,7 @@ tags:
   - type/m-and-a
 sources:
   - https://www.connectingthedotsinfin.tech/r/a222d309
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -118,7 +118,7 @@ European bank consolidation is the loud theme of 2026, but the character differs
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-07-14]] (2026-07-14).
 <!-- /enrichment:post -->
 
 ## Market Research
