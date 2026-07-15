@@ -10,7 +10,7 @@ tags:
   - type/product
 sources:
   - https://substack.com/redirect/8491fc7e-2c76-461e-96e0-ac55b1c60086
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "lex"
@@ -111,7 +111,7 @@ Ondo says it will extend 24/7 mint/redeem beyond the initial 6 tickers "in comin
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-07-15]] (2026-07-15).
 <!-- /enrichment:post -->
 
 ## Market Research

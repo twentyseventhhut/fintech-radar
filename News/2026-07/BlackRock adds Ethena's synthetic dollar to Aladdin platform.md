@@ -11,7 +11,7 @@ tags:
   - type/partnership
 sources:
   - https://substack.com/redirect/32e64d89-15b6-4fd6-9e0e-1b8480d581b5
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "lex"
@@ -129,7 +129,7 @@ Market reaction was **legitimization theater**: **ENA rose ~8%** on the news —
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-07-15]] (2026-07-15).
 <!-- /enrichment:post -->
 
 ## Market Research

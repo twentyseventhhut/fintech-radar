@@ -11,7 +11,7 @@ tags:
   - type/funding
 sources:
   - https://www.connectingthedotsinfin.tech/r/8e49732f
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -103,7 +103,7 @@ On 2026-07-14/15, **Tether led a $7M Series A in Pact Labs**, a stablecoin infra
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-07-15]] (2026-07-15).
 <!-- /enrichment:post -->
 
 ## Market Research

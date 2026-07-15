@@ -10,7 +10,7 @@ tags:
   - type/leadership
 sources:
   - https://app.go.informamail01.com/e/er
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "FinTech Futures"
@@ -109,7 +109,7 @@ Next: watch the **CFTC decision on non-crypto perpetuals** (FX/metals/energy) �
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-07-15]] (2026-07-15).
 <!-- /enrichment:post -->
 
 ## Market Research

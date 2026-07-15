@@ -9,7 +9,7 @@ tags:
   - type/commentary
 sources:
   - https://www.connectingthedotsinfin.tech/r/a9be2328
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -106,7 +106,7 @@ _Second-order red-team. Each answered or "open"._
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-07-15]] (2026-07-15).
 <!-- /enrichment:post -->
 
 ## Market Research

@@ -10,7 +10,7 @@ tags:
 sources:
   - https://newsletter.thepaypers.com/i/NAdlzBxUA3dSGwf9lBn3AT_EcidTuzPjVbs-cMftAHd3onKYy7618pUBqZ07bUOpzPM0598mFYDvBZLJsKLaHSc9RgXAdm5BUzhzEo4lNpgpz62yWmP_DpMMAolp_H64LkvQW44W1iG9KhdX2HuRAJ8WLq0n7dWdvsd5VwUOkroUusy9qep09Q
   - https://www.connectingthedotsinpayments.com/r/ec650f4b
-status: enriched
+status: published
 n_mentions: 2
 channels:
   - "Connecting the Dots in Payments"
@@ -170,7 +170,7 @@ This is the **latest in a dense, well-telegraphed sequence**, not a surprise:
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-07-15]] (2026-07-15).
 <!-- /enrichment:post -->
 
 ## Market Research

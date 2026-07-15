@@ -9,7 +9,7 @@ tags:
   - type/product
 sources:
   - https://bosfera.ru/press-release/t-strahovanie-zapustilo-strahovanie-chastnyh-domov-dlya-vseh-klientov
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "News & Trends by Sber"
@@ -188,7 +188,7 @@ Importance: 2/5 — Real, on-strategy embedded-insurance step for a systemically
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-07-15]] (2026-07-15).
 <!-- /enrichment:post -->
 
 ## Market Research

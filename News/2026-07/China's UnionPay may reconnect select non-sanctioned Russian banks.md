@@ -10,7 +10,7 @@ tags:
   - type/partnership
 sources:
   - https://max.ru/fintexno
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Финтехно"
@@ -111,7 +111,7 @@ Importance: 2.5/5 — Genuine "first since 2023" novelty and a possible early th
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-07-15]] (2026-07-15).
 <!-- /enrichment:post -->
 
 ## Market Research

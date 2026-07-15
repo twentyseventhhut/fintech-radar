@@ -9,7 +9,7 @@ tags:
   - type/funding
 sources:
   - https://substack.com/redirect/ea8ed14d-c768-4083-b176-06eaa2c9fbc9
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "MTS"
@@ -120,7 +120,7 @@ Importance: 4/5 — A genuinely NEW, high-signal capital-markets datapoint: a ~$
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-07-15]] (2026-07-15).
 <!-- /enrichment:post -->
 
 ## Market Research

@@ -10,7 +10,7 @@ tags:
   - type/product
 sources:
   - https://newsletter.thepaypers.com/i/NAdlzBxUA3dSGwf9lBn3AT_EcidTuzPjuG9GKCjoCFHiZK_J9aUDRT2a32RrrS0AH2FXFWknAp7xemx585bKIyTjA7wJlwwNkeFZqt9kKJxmdwiXqbvi38w190bjTZ7Vdvq9Zso2_WsCp-gl3KKNZp0b5koV9_AW
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "The Paypers"
@@ -160,7 +160,7 @@ Importance: 3/5 — A real, shipping-ish product from a top-tier Chinese AI lab 
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-07-15]] (2026-07-15).
 <!-- /enrichment:post -->
 
 ## Market Research

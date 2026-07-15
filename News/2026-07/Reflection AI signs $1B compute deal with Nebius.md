@@ -10,7 +10,7 @@ tags:
   - type/partnership
 sources:
   - https://link.techcrunch.com/click/46553173.52224/aHR0cHM6Ly90ZWNoY3J1bmNoLmNvbS8yMDI2LzA3LzE0L3JlZmxlY3Rpb24taW5rcy0xYi1jb21wdXRlLWRlYWwtd2l0aC1uZWJpdXM_dXRtX2NhbXBhaWduPWRhaWx5X2Ft/6a347703be04c47cab07526aCde2f0c4d
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "TechCrunch"
@@ -290,7 +290,7 @@ On 2026-07-14 Reflection AI and Nebius (NASDAQ: NBIS) announced a compute agreem
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-07-15]] (2026-07-15).
 <!-- /enrichment:post -->
 
 ## Market Research

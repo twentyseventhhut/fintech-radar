@@ -10,7 +10,7 @@ tags:
   - type/regulation
 sources:
   - https://www.cbr.ru/Content/Document/File/194058/Consultation_Paper_14072026_59.pdf
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Финтехно"
@@ -449,7 +449,7 @@ Rationale: It is a **consultation paper, not a rule** — no immediate market im
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-07-15]] (2026-07-15).
 <!-- /enrichment:post -->
 
 ## Market Research

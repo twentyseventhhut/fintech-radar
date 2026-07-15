@@ -11,7 +11,7 @@ tags:
   - type/product
 sources:
   - https://substack.com/redirect/295da160-c5a4-4cc9-adec-e1c0176cf5a6
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "lex"
@@ -130,7 +130,7 @@ Importance: 3/5 — a marquee first (Nasdaq's proprietary TotalView depth-of-boo
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-07-15]] (2026-07-15).
 <!-- /enrichment:post -->
 
 ## Market Research

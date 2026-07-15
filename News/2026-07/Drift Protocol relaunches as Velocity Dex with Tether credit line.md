@@ -10,7 +10,7 @@ tags:
   - type/product
 sources:
   - https://substack.com/redirect/91d148ed-c64c-4dae-90d5-a38abbb4ea42
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "lex"
@@ -105,7 +105,7 @@ Importance: 3/5 — A genuinely notable, well-sourced NEW development (not a hac
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-07-15]] (2026-07-15).
 <!-- /enrichment:post -->
 
 ## Market Research

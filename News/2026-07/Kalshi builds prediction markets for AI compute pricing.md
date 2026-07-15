@@ -10,7 +10,7 @@ tags:
   - type/product
 sources:
   - https://substack.com/redirect/7befebb1-581f-4da4-af7d-c8f6ca250763
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "MTS"
@@ -118,7 +118,7 @@ Kalshi's trajectory is a relentless push from retail betting toward "the new Wal
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-07-15]] (2026-07-15).
 <!-- /enrichment:post -->
 
 ## Market Research

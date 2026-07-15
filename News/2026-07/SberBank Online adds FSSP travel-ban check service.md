@@ -9,7 +9,7 @@ tags:
   - type/product
 sources:
   - https://www.sberbank.ru/ru/sberpress/all/article
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "News & Trends by Sber"
@@ -104,7 +104,7 @@ Importance: 2/5 — Real, live feature with concrete (if modest) pilot numbers, 
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-07-15]] (2026-07-15).
 <!-- /enrichment:post -->
 
 ## Market Research

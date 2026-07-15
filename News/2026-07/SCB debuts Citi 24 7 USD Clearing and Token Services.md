@@ -11,7 +11,7 @@ tags:
   - type/product
 sources:
   - https://app.go.informamail01.com/e/er
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "FinTech Futures"
@@ -123,7 +123,7 @@ Citi CTS timeline: **Sep 2023** first test (Singapore↔NY PoC) → **2024** liv
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-07-15]] (2026-07-15).
 <!-- /enrichment:post -->
 
 ## Market Research

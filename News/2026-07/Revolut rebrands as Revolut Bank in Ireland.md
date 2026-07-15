@@ -9,7 +9,7 @@ tags:
   - type/product
 sources:
   - https://www.connectingthedotsinfin.tech/r/902b77eb
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -109,7 +109,7 @@ Sources: https://www.ifsc.ie/news/revolut-launches-as-a-bank-in-ireland-offering
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-07-15]] (2026-07-15).
 <!-- /enrichment:post -->
 
 ## Market Research
