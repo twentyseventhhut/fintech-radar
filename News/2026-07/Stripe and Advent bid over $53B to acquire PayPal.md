@@ -14,7 +14,7 @@ sources:
   - https://substack.com/app-link/post
   - https://substack.com/redirect/1d744261-b6e8-4759-947c-25a0a27bfbb2
   - https://substack.com/redirect/840ec061-8dd5-40f2-8010-537daab554bd
-status: enriched
+status: published
 n_mentions: 5
 channels:
   - "42 секунды"
@@ -180,7 +180,7 @@ _Red-team questions (second-order). Each — an answer from sources or "open"._
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-07-16]] (2026-07-16).
 <!-- /enrichment:post -->
 
 ## Market Research

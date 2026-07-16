@@ -9,7 +9,7 @@ tags:
   - type/regulation
 sources:
   - https://max.ru/fintexno
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Финтехно"
@@ -128,7 +128,7 @@ Sequenced rollout: voluntary code + whitelist first; the CBR keeps accreditation
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-07-16]] (2026-07-16).
 <!-- /enrichment:post -->
 
 ## Market Research

@@ -10,7 +10,7 @@ tags:
   - type/funding
 sources:
   - https://elink22c.strictlyvc.com/ss/c/u001.RG6bCXGqERoGxQVQOC2biw-IPoNc7g-w2pkRPkXtZmNHG4bxPXVRYus3NjtonxSok0OO-S7DqDSmwU80KKb-dJmtRxLIDglbMmCvkcD4RA6p1Zj9Ky3sd2UO-4reuaaUaNmw5TR_ff_zfFIuqAlvJrkcp_yXPsHBSS3Is68Z2ylzfJu2CAsEqfTaLSvG5v3oVvyrxdqWeMmEKgJTvoMVlqBUoYAATrnYf39sRttl-VxTqWwj6tuBSoYSb6I1m-sDf9Oa0PSGRpF4geHAZ5EeDOcKhKMVwd5lk_3sRlvG1t_6NBGIyLmySl7H7u9WUe6dgZK_RVRJ_Gr9jHE2YhGKhw/4sd/9-GILQHJQpy30AN4rZiy_g/h10/h001.HC2C-S3X7H2Af3jVMQjhP9YwQiG5VZhDfyQXJANPzJY
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "StrictlyVC"
@@ -169,7 +169,7 @@ _Analytical notes (not a post). Importance: 3/5._
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-07-16]] (2026-07-16).
 <!-- /enrichment:post -->
 
 ## Market Research

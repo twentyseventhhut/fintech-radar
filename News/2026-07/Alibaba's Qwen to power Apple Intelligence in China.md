@@ -10,7 +10,7 @@ tags:
   - type/partnership
 sources:
   - https://www.cnbc.com/2026/07/15/alibaba-qwen-ai-apple-intelligence.html
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "42 секунды"
@@ -127,7 +127,7 @@ _Analytical notes (not a post). Importance: 4/5._
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-07-16]] (2026-07-16).
 <!-- /enrichment:post -->
 
 ## Market Research

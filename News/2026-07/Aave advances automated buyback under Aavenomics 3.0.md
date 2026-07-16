@@ -9,7 +9,7 @@ tags:
   - type/product
 sources:
   - https://substack.com/redirect/4e74813b-3292-4852-9b02-7d05c456459a
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "lex"
@@ -124,7 +124,7 @@ Importance: 3/5 — A real, DAO-backed governance/tokenomics maturation by DeFi'
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-07-16]] (2026-07-16).
 <!-- /enrichment:post -->
 
 ## Market Research

@@ -11,7 +11,7 @@ sources:
   - https://substack.com/redirect/16db4cc4-5ef1-4700-84ba-01e31eb4c7fd
   - https://substack.com/redirect/291a55af-904a-4adb-ba9d-3c4efec1c095
   - https://substack.com/redirect/a98a63e2-03e5-4052-9127-924d5e2d4e31
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "MTS"
@@ -150,7 +150,7 @@ ASML — 42 years, ~44,000 people, ~€4.5bn R&D/yr; Europe's most valuable list
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-07-16]] (2026-07-16).
 <!-- /enrichment:post -->
 
 ## Market Research

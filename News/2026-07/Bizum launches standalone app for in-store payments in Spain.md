@@ -12,7 +12,7 @@ sources:
   - https://www.connectingthedotsinpayments.com/r/14c732c4
   - https://www.connectingthedotsinpayments.com/r/1e1ddf69
   - https://www.connectingthedotsinpayments.com/r/4d0b693c
-status: enriched
+status: published
 n_mentions: 2
 channels:
   - "Connecting the Dots in Payments"
@@ -94,7 +94,7 @@ _(нет загруженного полного текста первоисто
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-07-16]] (2026-07-16).
 <!-- /enrichment:post -->
 
 ## Market Research

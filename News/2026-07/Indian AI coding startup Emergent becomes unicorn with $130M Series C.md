@@ -9,7 +9,7 @@ tags:
   - type/funding
 sources:
   - https://link.techcrunch.com/click/46579490.42027/aHR0cHM6Ly90ZWNoY3J1bmNoLmNvbS8yMDI2LzA3LzE1L2luZGlhbi1haS1jb2Rpbmctc3RhcnR1cC1lbWVyZ2VudC1iZWNvbWVzLWEtdW5pY29ybi1qdXN0LW92ZXItYS15ZWFyLWFmdGVyLWxhdW5jaD91dG1fY2FtcGFpZ249ZGFpbHlfYW0/6a347703be04c47cab07526aB20f6347b
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "TechCrunch"
@@ -254,7 +254,7 @@ Emergent explicitly positions in the **non-technical/SMB "vibe-coding" tier** (c
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-07-16]] (2026-07-16).
 <!-- /enrichment:post -->
 
 ## Market Research

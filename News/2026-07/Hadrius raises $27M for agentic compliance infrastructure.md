@@ -10,7 +10,7 @@ tags:
   - type/funding
 sources:
   - https://www.connectingthedotsinfin.tech/r/0f97aace
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -106,7 +106,7 @@ Our corpus already holds the relevant map:
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-07-16]] (2026-07-16).
 <!-- /enrichment:post -->
 
 ## Market Research

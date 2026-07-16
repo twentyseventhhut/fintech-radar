@@ -10,7 +10,7 @@ tags:
   - type/partnership
 sources:
   - https://www.connectingthedotsinfin.tech/r/37fe1d3c
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -104,7 +104,7 @@ Circle is building a local Buenos Aires team (hiring a senior director) and purs
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-07-16]] (2026-07-16).
 <!-- /enrichment:post -->
 
 ## Market Research

@@ -10,7 +10,7 @@ tags:
   - type/funding
 sources:
   - https://www.connectingthedotsinfin.tech/r/734a21a8
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -108,7 +108,7 @@ Importance: 3/5 — A real, fresh Series A from credible strategic investors (Co
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-07-16]] (2026-07-16).
 <!-- /enrichment:post -->
 
 ## Market Research

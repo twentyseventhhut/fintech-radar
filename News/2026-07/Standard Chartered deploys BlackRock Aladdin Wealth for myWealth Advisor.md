@@ -10,7 +10,7 @@ tags:
   - type/product
 sources:
   - https://app.go.informamail01.com/e/er
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "FinTech Futures"
@@ -115,7 +115,7 @@ Importance: 3/5 — genuinely new StanChart deal (fresh, not a duplicate of the 
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-07-16]] (2026-07-16).
 <!-- /enrichment:post -->
 
 ## Market Research

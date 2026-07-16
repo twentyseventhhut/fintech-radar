@@ -10,7 +10,7 @@ tags:
   - type/product
 sources:
   - https://www.connectingthedotsinfin.tech/r/f321ccce
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -109,7 +109,7 @@ _Red-team challenge questions. Importance: 3/5._
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-07-16]] (2026-07-16).
 <!-- /enrichment:post -->
 
 ## Market Research

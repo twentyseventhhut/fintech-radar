@@ -11,7 +11,7 @@ tags:
   - type/partnership
 sources:
   - https://www.connectingthedotsinfin.tech/r/2e807efa
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -105,7 +105,7 @@ JCB (Japan's only home-grown global card network, ~140M cardholders, ~40M mercha
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-07-16]] (2026-07-16).
 <!-- /enrichment:post -->
 
 ## Market Research

@@ -10,7 +10,7 @@ tags:
   - type/funding
 sources:
   - https://www.connectingthedotsinfin.tech/r/4c27fbf3
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -95,7 +95,7 @@ Use of funds = AI (Lumin Solaire), payments, CRM, lending — i.e. executing the
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-07-16]] (2026-07-16).
 <!-- /enrichment:post -->
 
 ## Market Research

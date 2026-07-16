@@ -10,7 +10,7 @@ tags:
 sources:
   - https://www.careedgeglobal.com/upload/RatingReportPDF/Rating_Rationale_MGKL_PJSC_16April2026.pdf
   - https://mgkl.group/news-center/news/pao-mgkl-vykhodit-na-rynok-indii_61088
-status: enriched
+status: published
 n_mentions: 2
 channels:
   - "Финтехно"
@@ -465,7 +465,7 @@ _Analytical notes (not a post). Importance: 2/5._
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-07-16]] (2026-07-16).
 <!-- /enrichment:post -->
 
 ## Market Research

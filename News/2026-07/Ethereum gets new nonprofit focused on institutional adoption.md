@@ -9,7 +9,7 @@ tags:
   - type/product
 sources:
   - https://substack.com/redirect/cbfb2079-2938-498f-ac55-17b70e3d9cd9
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "lex"
@@ -114,7 +114,7 @@ See challenge section.
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-07-16]] (2026-07-16).
 <!-- /enrichment:post -->
 
 ## Market Research

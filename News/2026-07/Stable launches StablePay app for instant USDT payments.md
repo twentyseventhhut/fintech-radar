@@ -11,7 +11,7 @@ tags:
   - type/product
 sources:
   - https://www.connectingthedotsinfin.tech/r/b865d6f8
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -107,7 +107,7 @@ _Importance: 3/5._ (Real, verifiable GA launch of a Bitfinex/Tether-orbit produc
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-07-16]] (2026-07-16).
 <!-- /enrichment:post -->
 
 ## Market Research

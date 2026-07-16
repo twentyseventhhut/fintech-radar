@@ -10,7 +10,7 @@ tags:
   - type/product
 sources:
   - https://www.connectingthedotsinfin.tech/r/b0bd03b4
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -103,7 +103,7 @@ A recognizable global industrial (via Hyundai Card) running a real, dated cross-
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-07-16]] (2026-07-16).
 <!-- /enrichment:post -->
 
 ## Market Research

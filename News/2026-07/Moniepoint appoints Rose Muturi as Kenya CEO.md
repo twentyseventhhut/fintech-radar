@@ -9,7 +9,7 @@ tags:
   - type/leadership
 sources:
   - https://www.connectingthedotsinfin.tech/r/ed07a36e
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -97,7 +97,7 @@ Watch for the next real catalyst: an actual **Kenya product launch with committe
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-07-16]] (2026-07-16).
 <!-- /enrichment:post -->
 
 ## Market Research

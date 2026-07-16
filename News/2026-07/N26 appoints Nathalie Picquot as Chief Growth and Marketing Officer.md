@@ -9,7 +9,7 @@ tags:
   - type/leadership
 sources:
   - https://www.connectingthedotsinfin.tech/r/b2cd81d6
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -102,7 +102,7 @@ Importance: 3/5 — A well-credentialed, strategically coherent growth/brand hir
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-07-16]] (2026-07-16).
 <!-- /enrichment:post -->
 
 ## Market Research

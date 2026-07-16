@@ -9,7 +9,7 @@ tags:
   - type/regulation
 sources:
   - https://www.ft.com/content/7c146c56-cc7a-40ec-93cb-58106a012421
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "42 секунды"
@@ -131,7 +131,7 @@ Timeline of the squeeze: **Aug 2022** first A100/H100 license requirement (~$400
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-07-16]] (2026-07-16).
 <!-- /enrichment:post -->
 
 ## Market Research

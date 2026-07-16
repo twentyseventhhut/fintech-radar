@@ -10,7 +10,7 @@ tags:
   - type/partnership
 sources:
   - https://www.connectingthedotsinfin.tech/r/ff5162a7
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -113,7 +113,7 @@ On **2026-07-08**, Yape (Credicorp/BCP's Peruvian super-app) added **Félix** (U
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-07-16]] (2026-07-16).
 <!-- /enrichment:post -->
 
 ## Market Research
