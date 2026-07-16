@@ -11,13 +11,15 @@ tags:
 sources:
   - https://link.techcrunch.com/click/46542590.41437/aHR0cHM6Ly90ZWNoY3J1bmNoLmNvbS8yMDI2LzA3LzEzL3ViZXJzLXJvYm90YXhpLWxvYmJ5aW5nLWVmZm9ydC1oYXMtcHV0LWl0LW9uLWEtY29sbGlzaW9uLWNvdXJzZS13aXRoLXdheW1vP3V0bV9jYW1wYWlnbj1kYWlseV9hbQ/6a347703be04c47cab07526aBffb8fbbb
   - https://link.techcrunch.com/click/46542590.41437/aHR0cHM6Ly90ZWNoY3J1bmNoLmNvbS8yMDI2LzA3LzEyL3RlY2hjcnVuY2gtbW9iaWxpdHktYS1yb2JvdGF4aS11bHRpbWF0dW0_dXRtX2NhbXBhaWduPWRhaWx5X2Ft/6a347703be04c47cab07526aB547784d4
-status: tagged
+status: enriched
 n_mentions: 2
 channels:
   - "TechCrunch"
 story_id: s3a30a3d3
 month: 2026-07
-enriched: false
+enriched: true
+importance: 2
+freshness: fresh
 ---
 
 # Uber's robotaxi lobbying pits it against Waymo in DC
@@ -208,13 +210,66 @@ Most Popular
 ## Контекст
 
 <!-- enrichment:context -->
-_(пусто — заполняется при обогащении)_
+# Context-enrichment: Uber's robotaxi lobbying pits it against Waymo in DC
+_Analytical notes (not a post). Importance: 2/5 — mobility/AV-regulation, fintech-adjacent only via platform-economics (take-rate / who-captures-the-margin)._
+
+**Freshness: FRESH.** Distinct event: a specific DC lobbying fight over Councilmember Charles Allen's May-2026 AV bill, crystallized by TechCrunch's + Wired's public-records reporting (2026-07-12/13) ahead of the day-long DC Council hearing on **Mon 2026-07-14**. It is NOT a re-report of the Phoenix wind-down ([[Waymo and Uber quietly part ways in Phoenix]], 2026-06-29) nor of the federal first-responder directive ([[NHTSA demands autonomous vehicles stop blocking first responders]], 2026-07-08) — those are context, not duplicates. Off-core for a fintech corpus; kept proportionate.
+
+## [0] What exactly happened (de-PR'd)
+Uber is **lobbying against** a DC bill it publicly supports the *goal* of — a bill (Allen, introduced May 2026) that would update DC's Autonomous Vehicle Act of 2012 to permit **driverless** commercial robotaxi operations (today Waymo/Zoox may only test with a safety driver). Uber's real ask: a **"hybrid network"** rule that would *require* every robotaxi to ride on a ride-hail platform that **also** offers human drivers, so a consumer "on the app… should be able to take an Uber that's driven by a human" (Uber policy chief Javi Correoso, D.C. Council roundtable, May 2026; formalized in a June letter). Waymo backs the bill and wants it *clarified* that "different types of networks can operate in the District" (spokesperson Ethan Teicher) — i.e. Waymo wants to keep running its **own** standalone app.
+
+Bill's confirmed provisions (TechCrunch, corroborated by Axios/WTOP): DDOT-issued driverless permits; **$5M** liability insurance; **$0.15/mile VMT tax** split 50% transit / 50% displaced-driver workforce funds; **$1M** application fee + **$5M non-refundable** permit fee ("$6M" shorthand); crash-report windows 8h (commercial) / 72h (private). Reported add-ons (Axios/WTOP): ~200-vehicle cap and no commercial service before Jan 2028, cross-ward service-equity requirement. Status = **proposal**; hearing held 2026-07-14 (80+ testifiers); backers target passage before Mayor Bowser exits ~Jan 2027 — **no markup/vote scheduled** as of 2026-07-15.
+
+**Why structured this way / what it reveals:** The "hybrid mandate" is a **distribution moat dressed as a labor/consumer-protection compromise.** Uber owns no AV stack (sold ATG to Aurora, 2020), so its only durable robotaxi position is as the *demand layer*. A rule forcing AVs onto mixed human+robot networks would legally prevent Waymo from ever routing riders **exclusively** through its own app — locking Uber's aggregation take-rate into the driverless future by statute rather than by winning on economics. Critic Greg Rogers (The Innovation Majority) names it plainly: "regulatory capture… charging rent on anyone who seeks to operate AVs." That is the de-PR'd core: this is Uber trying to legislate the answer to "who captures the robotaxi margin."
+
+## [1] Competitors / peers
+- **Waymo (Alphabet), the target:** commercial leader — 500k+ paid rides/week, ~11 US metros, ~4,000 vehicles cited (independent trackers ~3,000–3,500; treat 4,000 as PR-soft). It wants network freedom precisely because at density it **doesn't need Uber's funnel** — the exact pattern shown in Phoenix ([[Waymo and Uber quietly part ways in Phoenix]]), where Waymo pulled its cars back onto its own app.
+- **Uber, the protagonist:** pure aggregator hedging weakness with breadth — 30+ AV partners globally (Wayve, Momenta, Pony.ai, Nuro/Lucid, WeRide, Zoox) + a new **AV Labs** unit to collect/share driving data. Still exclusive-on-Uber in Austin/Atlanta, but those are expected to unwind too.
+- **Tesla, Zoox, and the federal thread:** the same-period federal moves ([[US proposes axing AV brake-pedal rule in boost for Tesla]]; [[NHTSA demands autonomous vehicles stop blocking first responders]]) show Washington simultaneously *deregulating* purpose-built AVs (helps Tesla/Zoox) and *pressuring* AV safety (aimed at Waymo). The DC fight is the **local** front of a multi-jurisdiction campaign — Wired's records show Uber also pushing a New Jersey rule requiring human drivers on 85% of driverless-network rides for three years.
+
+**Why the lay of the land is this way / second order:** The alignment is upside-down from history. Uber — once the archetypal anti-regulation disruptor (Prop 22, AB5) — is now the party *demanding* rules, because at scale the regulation protects the incumbent aggregator, while the newer, tech-owning entrant (Waymo) wants the freer market. When the incumbent lobbies **for** rules and the challenger **against** them, read it as the incumbent's moat being the status quo of distribution, not innovation.
+
+## [2] Company history / fit
+Uber and Waymo are structural frenemies: the 2017 Waymo v. Uber trade-secret suit settled Feb 2018 with Uber handing Alphabet ~$245M in equity (~0.34%) — so Alphabet has been an Uber shareholder throughout the "partnership." Tie-up (2023) → Phoenix wind-down (2026-05/06) → Austin/Atlanta still live → looming London head-to-head. The DC lobbying fits the trajectory logically: as the partnership decays city-by-city, Uber's protective instinct shifts from **commercial deals** to **policy**. COO Andrew Macdonald's May "that experience changed us / we partner with cities now" white-paper framing is exactly the reputational cover for a rule that happens to entrench Uber — a "we-learned-our-lesson" narrative wrapped around a competitive lever.
+
+## [3] Novelty / value-add / traction
+**Novelty is in the *strategy*, not the event** — the event is a local bill hearing with no outcome yet (traction = zero enacted rule). What's genuinely new is Uber openly turning **regulation into a competitive product**: the hybrid-network mandate is the first concrete attempt to codify aggregator-primacy into AV law, and Wired shows it replicated in NJ — a coordinated, multi-state playbook, not a one-off. The **anti-robotaxi "Coalition for Accountability and Road Safety"** (registered to a Pitta Bishop & Del Giorno employee; actual funders undisclosed but the firm represents labor unions) shows the labor-union alliance being mobilized — but funding is unconfirmed, so treat as "linked, not proven."
+
+**Why it matters (deeper) / who captures the margin:** Robotaxi unit economics are thin, so distribution control is where durable margin sits. If AVs are legally forced onto hybrid networks, Uber preserves take-rate on someone else's capex-heavy fleet ("owns almost nothing, rents demand"); if Waymo can route exclusively through its own app once a city matures, the tech owner disintermediates the aggregator and captures the margin. The DC bill is a proxy vote on that split. This shifts the central question from "who has the best robotaxi" to **"can Uber legislate itself into the toll booth before Waymo's own-app density makes it optional."** (analysis)
+
+## [4] What's next / market sentiment
+- **Immediate:** post-hearing, bill sits in committee; disability-rights groups backed AVs (independence/safety), unions (Teamsters, 32BJ SEIU, ATU, IAM) opposed as a "job killer." No committee vote scheduled; backers aim for passage before Bowser departs ~Jan 2027.
+- **Broader:** Uber says it will pitch the hybrid model in other states — expect the same fight in NJ and beyond; the federal backdrop (NHTSA safety directive on Waymo-type incidents + FMVSS deregulation favoring Tesla/Zoox) means AV rulemaking is fragmenting into a state-by-state patchwork.
+- **Counterintuitive second-order:** Uber "winning" a hybrid mandate could be **fragile, not safe** — it invites the "regulatory capture" label, antitrust attention, and depends on labor-union alignment that could flip; meanwhile it does nothing to close Uber's real gap (no owned AV tech). The market prices Uber at a marketplace multiple (~2.9x EV/Rev), i.e. it is **not** paying for Uber as an autonomy winner — consistent with skepticism that policy moats hold once Waymo's own-app density arrives. (analysis)
+
+## Sources
+See challenge file for verdict. Key external (via web pass): TechCrunch 2026-07-13 (the lobbying story) & 2026-07-12 (Mobility newsletter); Axios 2026-04-24 / 2026-05-08 (bill + white paper); WTOP 2026-07-14 (hearing); Reason 2026-07-15; Wired (NJ/DC records, via summary); NHTSA 2026-07-08. Internal: [[Waymo and Uber quietly part ways in Phoenix]], [[NHTSA demands autonomous vehicles stop blocking first responders]], [[US proposes axing AV brake-pedal rule in boost for Tesla]]. Primary source texts dumped in-note above.
 <!-- /enrichment:context -->
 
 ## Челлендж / ред-тим
 
 <!-- enrichment:challenge -->
-_(пусто)_
+## Challenge / red-team
+
+**FRESHNESS: FRESH.** A distinct event — the DC lobbying fight over Allen's May-2026 AV bill and the 2026-07-14 hearing — not a re-report of the Phoenix wind-down ([[Waymo and Uber quietly part ways in Phoenix]]) or the federal first-responder directive ([[NHTSA demands autonomous vehicles stop blocking first responders]]). Those are adjacent context, not duplicates. No prior corpus note covers this bill or Uber's hybrid-network lobbying.
+
+1. **Is Uber for or against the bill?** Against *this* bill; it lobbies for a "hybrid network" rule instead. It supports driverless legality in principle but opposes any framework that lets AVs run on their own network only. CONFIRMED (TechCrunch, Uber's June letter).
+2. **Is the "hybrid mandate" a consumer/labor measure or a moat?** Framed as consumer choice + labor protection; functionally it locks Uber's aggregation take-rate into AV law. Critic Greg Rogers calls it "regulatory capture." CONFIRMED framing; moat read is (analysis).
+3. **Has anything actually been enacted?** No — proposal only; hearing 2026-07-14, no committee vote/markup scheduled as of 2026-07-15. Traction = zero enacted rule.
+4. **Does Uber own an AV stack?** No — sold ATG to Aurora (2020); it aggregates 30+ partners + AV Labs data unit. This lack of ownership is *why* it needs a policy moat. CONFIRMED.
+5. **Why does Waymo want network freedom?** Because at density it disintermediates Uber via its own app — proven in Phoenix. CONFIRMED (prior note).
+6. **Who funds the anti-robotaxi "Coalition"?** Undisclosed; only linked to Pitta Bishop & Del Giorno (labor-union-affiliated lobbying firm). "Union-funded" is inference, not proven. OPEN.
+7. **Are the bill's numbers accurate?** $5M insurance, $0.15/mi VMT (50/50 split), $1M app + $5M non-refundable permit fee, 8h/72h crash windows — CONFIRMED (TechCrunch, corroborated Axios/WTOP). ~200-vehicle cap / Jan-2028 commercial start reported but secondary.
+8. **Is this a multi-state playbook?** Yes — Wired records show Uber pushing a parallel NJ rule (85% human rides for 3 yrs). CONFIRMED via reporting; primary Wired text not directly read.
+9. **What's the fintech relevance?** Only via platform economics — who captures the thin robotaxi margin (aggregator take-rate vs tech-owner own-app). Genuinely fintech-adjacent, not core. (analysis)
+10. **Does the market price Uber as an autonomy winner?** No — ~2.9x EV/Rev marketplace multiple. A policy moat doesn't change that skepticism. (analysis)
+11. **Could an Uber "win" backfire?** Yes — invites antitrust/capture scrutiny, depends on fickle labor alignment, and closes none of Uber's tech gap. Fragile, not safe. (analysis)
+12. **Duplicate risk vs the Phoenix note?** No — Phoenix = a partnership *ending* (commercial); this = a *regulatory* fight. Complementary. CONFIRMED distinct.
+13. **Is the hearing outcome known?** No — 80+ testified; unions opposed, disability groups supported; bill stays in committee. OPEN.
+14. **Federal vs local — same fight?** Related but separate: NHTSA safety pressure + FMVSS deregulation are federal; this is a DC-local rulemaking. Same war, different fronts. CONFIRMED.
+15. **Is Alphabet an Uber shareholder (conflict)?** Yes — ~0.34% from the 2018 settlement; underpins the frenemy dynamic. CONFIRMED.
+
+**Importance: 2/5** — Off-core for a fintech corpus (mobility / AV regulation), and the concrete event is a single-city bill hearing with no enacted outcome and no financial figure. It clears a flat 2 (not 1) because the *strategy* is genuinely revealing: Uber openly weaponizing regulation into a distribution moat, replicated across states (DC + NJ per Wired), directly targeting its own partner Waymo — a clean illustration of the "who captures the robotaxi margin: aggregator take-rate vs tech-owner own-app" question that is the only real fintech/platform-economics hook. Capped at 2 because it is a proposal (not law), the funding of the anti-AV campaign is unconfirmed, and the fintech relevance is second-order. Fresh, and complementary to [[Waymo and Uber quietly part ways in Phoenix]].
 <!-- /enrichment:challenge -->
 
 ## Связь с постом
@@ -226,7 +281,30 @@ _(пусто)_
 ## Market Research
 
 <!-- enrichment:market_research -->
-_(пусто)_
+**Sector & drivers.** Robotaxi / autonomous ride-hailing, viewed here through the *regulatory* lens — the value in this note is a policy fight, not a deal. Sector is early and hyper-growth: the US robotaxi market was ~$0.45bn in 2024 and third-party research houses model ~74% CAGR to 2030 (Grand View Research; treat these vendor TAMs as directional, wide-dispersion — global 2030 forecasts range ~$45bn to ~$104bn across MarketsandMarkets/NextMSC, so no single figure is reliable). Real demand signal beneath the forecasts: Waymo ~500k paid rides/week across ~10-11 US metros (up ~10x from ~50k in May 2024), targeting ~1mn/week by end-2026 (Waymo/TechCrunch, Mar 2026). Structure: two crystallizing value-chain positions — (a) full-stack *owned* networks carrying capex + liability (Waymo, Tesla, Zoox), and (b) *aggregation/demand* layers that avoid vehicle ownership (Uber). **Why now (the actual "why now" of this note):** the US has NO comprehensive federal AV law — states set operator/permitting rules, NHTSA sets vehicle-safety standards, producing a city-by-city patchwork (18 states allow fully driverless commercial ops; 30+ have some AV statute — LegalClarity/Traffic Safety Store 2026). That vacuum is exactly what makes the DC bill a *precedent-setting* fight: with no federal template, whoever wins the model in DC exports it.
+
+**Competitive landscape.** Sector KPIs: paid trips/week, fleet size, cost-per-mile / vehicle utilization, metros live, safety-incident rate (the KPI regulators now weaponize). Basis of competition here is **regulatory model design**, not price/product:
+- **Waymo (owned, leader):** backs the DC bill; ~500k rides/week, ~11 metros, ~3,000-4,000 vehicles (PR-soft upper bound per sibling note). Wants clean first-party driverless permits.
+- **Uber (aggregator):** *opposes* the bill; lobbying for a "hybrid network" rule that would *require* AVs to run alongside human drivers on a single ride-hail platform. Cites "one AV displaces ~4 drivers" and frames it as labor/equity protection.
+- **Tesla, Lyft, Zoox, Teamsters/SEIU, disability groups** all scheduled to testify (14-Jul hearing) — a crowded, labor-heavy fight.
+
+Protagonist position (Uber): **behind on owned tech** (sold ATG to Aurora 2020, no in-house L4), so it competes on *distribution + rulemaking*. Its DC play is defensive — a rule mandating hybrid networks would force owners like Waymo to either list on Uber or hire human drivers, structurally re-inserting the aggregator that owned-network scale otherwise disintermediates (see Phoenix wind-down, [[Waymo and Uber quietly part ways in Phoenix]]). Uber's moat is demand aggregation / lowest wait-times (analysis); this lobbying is an attempt to convert that into a *regulatory* moat. A think-tank witness openly called it "regulatory capture" (TechCrunch). Note the reversal: Uber, historically anti-regulation (AB5, Prop 22), is now the pro-rule party — because the rules would now protect its position.
+
+**Comps & multiples.** No IR coverage in-base for Waymo/Uber (IR skipped per instruction). External anchors, attributed:
+- **Uber (UBER, public):** Q1 2026 revenue $13.2bn, gross bookings $53.7bn (+25% y/y), Q2 GB guide $56.25-57.75bn (Uber 8-K / IR). Sibling note computed EV/Revenue ≈ $153bn / ~$52.8bn ≈ **2.9x** — a marketplace multiple, i.e. the market is NOT pricing Uber as an autonomy winner. Reproduced here for continuity, not re-derived.
+- **Waymo (private):** last round $126bn post-money (Feb 2026) — round valuation, not market cap; no clean standalone revenue → revenue multiple = **no data**.
+- **Tesla robotaxi:** not separable from TSLA → **no data**.
+- Internal comps: corpus has no robotaxi-economics deals; nearest Uber notes are payments/partnership, not comparable → **distribution not computed; qualitative only**. Read: valuation gap (Uber ~2.9x marketplace vs Waymo $126bn pure-AV bet) is itself the thesis — the regulatory fight is Uber trying to force a rule that keeps it structurally relevant to the AV upside it isn't being paid for.
+
+**Risk flags.**
+1. **Regulatory-capture / precedent risk (both directions).** If Uber's hybrid mandate passes in DC, it sets a template other cities copy — a rule that props up the aggregator by fiat, distorting AV economics nationally; if the clean first-party bill passes, Uber says it is "pushed out altogether." Either outcome is a step-change, and the *patchwork* (no federal preemption; SELF DRIVE Act H.R.7390 still only proposed) means the fight repeats city-by-city — persistent lobbying cost + regulatory uncertainty for the whole sector.
+2. **Safety-incident overhang concentrated on the leader (Waymo).** NHTSA's July directive on AVs blocking first responders (see [[NHTSA demands autonomous vehicles stop blocking first responders]]) is aimed de facto at Waymo; "solutions" demanded by end-July. A safety-driven federal tightening would slow the owned-network scaling that underpins Waymo's $126bn valuation — and paradoxically strengthens Uber's "humans-in-the-loop" pitch.
+3. **Disintermediation of the aggregator (Uber).** The structural risk this lobbying is *responding to*: where owners reach density they pull supply in-house (Phoenix). If Uber can't win the hybrid rule, its AV story degrades to "the network only where owners lack density" — margin/relevance risk already reflected in the ~2.9x multiple.
+4. **Execution vs "announced."** De-PR: bill passage "not imminent" (parties hope for end-2026, before Mayor Bowser leaves Jan); Uber's hybrid model is a *May-2026 white-paper proposal*, not law anywhere. "Lobbying for" ≠ "adopted." VMT tax ($0.15/mi) and $5mn permit fee are also unsettled and opposed by AV advocates.
+
+**What this changes (idea-lens).** (analysis) This is a re-rating trigger for the "Uber-as-AV-aggregator" thesis, playing out in *policy* rather than markets. Falsifiable thesis: Uber is trying to legislate itself back into the value chain that owned-network scale removes it from; if the DC hybrid rule fails AND owners keep pulling supply in-house, Uber is a temporary crutch, not a durable demand layer. Watch: (a) the 14-Jul DC hearing outcome and whether the hybrid-mandate language survives; (b) whether other states copy either model; (c) whether Waymo comes off Uber in Austin/Atlanta next. Thesis breaks if a hybrid-network requirement is actually written into law in ≥1 major market, or Waymo re-lists on Uber at density — either would show owners still need the aggregator.
+
+Sources: https://techcrunch.com/2026/07/13/ubers-robotaxi-lobbying-effort-has-put-it-on-a-collision-course-with-waymo/ · https://www.thestreet.com/automotive/labor-sounds-the-alarm-washington-dc-driverless-car-bill · https://legalclarity.org/autonomous-vehicles-legislation-federal-and-state-laws/ · https://www.trafficsafetystore.com/blog/where-are-we-with-driverless-cars-in-the-u-s-2026/ · https://environmentalhealthsafetybrief.sidley.com/2026/01/08/members-of-congress-propose-a-new-bill-to-regulate-autonomous-vehicles/ · https://www.grandviewresearch.com/industry-analysis/us-robo-taxi-market-report · https://techcrunch.com/2026/03/27/waymo-skyrocketing-ridership-in-one-chart/ · https://investor.uber.com/news-events/news/press-release-details/2026/Uber-Announces-Results-for-First-Quarter-2026/default.aspx
 <!-- /enrichment:market_research -->
 
 ## Earnings Review
