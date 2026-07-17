@@ -9,7 +9,7 @@ tags:
   - type/m-and-a
 sources:
   - https://mergers.ru/news/Francuzskaya-Sucden-mogla-poluchit-kontrol-nad-biznesom-proizvoditelya-kofe-Poetti-87215
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Mergers.ru"
@@ -197,7 +197,7 @@ De-PR'd: there is **no announced acquisition**. What actually exists (per Kommer
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-07-17]] (2026-07-17).
 <!-- /enrichment:post -->
 
 ## Market Research

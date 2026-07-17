@@ -11,7 +11,7 @@ tags:
 sources:
   - https://substack.com/redirect/206281fa-a40e-433a-85f2-19236c43ebca
   - https://substack.com/redirect/08dfa17e-b611-435a-b15e-eecf36ebeb76
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "MTS"
@@ -137,7 +137,7 @@ Not "new tech" — this is a **traction/guidance data-point**: the mid-year jump
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-07-17]] (2026-07-17).
 <!-- /enrichment:post -->
 
 ## Market Research

@@ -11,7 +11,7 @@ tags:
   - type/product
 sources:
   - https://www.connectingthedotsinfin.tech/r/9f4f0332
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -133,7 +133,7 @@ Next: Dutch webshop go-live 1 Oct 2026; Wero POS (starting France) end-2026; cro
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-07-17]] (2026-07-17).
 <!-- /enrichment:post -->
 
 ## Market Research

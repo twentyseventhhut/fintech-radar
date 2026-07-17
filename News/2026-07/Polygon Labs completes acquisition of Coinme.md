@@ -11,7 +11,7 @@ tags:
   - type/m-and-a
 sources:
   - https://www.connectingthedotsinfin.tech/r/8a229ae9
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -105,7 +105,7 @@ Next: full Coinme integration into the Open Money Stack, licensed US stablecoin 
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-07-17]] (2026-07-17).
 <!-- /enrichment:post -->
 
 ## Market Research

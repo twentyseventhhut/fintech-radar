@@ -10,7 +10,7 @@ tags:
   - type/m-and-a
 sources:
   - https://link.techcrunch.com/click/46617378.48777/aHR0cHM6Ly90ZWNoY3J1bmNoLmNvbS8yMDI2LzA3LzE2L3ViZXJzLTE0LThiLWRlbGl2ZXJ5LWhlcm8tZGVhbC13b3VsZC1uZWFybHktZG91YmxlLWl0cy1nbG9iYWwtZm9vdHByaW50P3V0bV9jYW1wYWlnbj1kYWlseV9wbQ/6a347703be04c47cab07526aB7b47e8db
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "TechCrunch"
@@ -318,7 +318,7 @@ Importance: 4/5 — a structurally decisive ex-China delivery consolidation (~$1
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-07-17]] (2026-07-17).
 <!-- /enrichment:post -->
 
 ## Market Research

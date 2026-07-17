@@ -12,7 +12,7 @@ tags:
 sources:
   - https://www.connectingthedotsinfin.tech/r/2c785170
   - https://www.connectingthedotsinfin.tech/r/4cfc6341
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -123,7 +123,7 @@ Watch: whether Airwallex publishes any live merchant/volume numbers on Wero (non
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-07-17]] (2026-07-17).
 <!-- /enrichment:post -->
 
 ## Market Research

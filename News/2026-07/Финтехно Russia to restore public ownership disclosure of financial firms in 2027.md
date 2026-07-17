@@ -9,7 +9,7 @@ tags:
   - type/regulation
 sources:
   - https://www.cbr.ru/press/event
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Финтехно"
@@ -127,7 +127,7 @@ Importance: 3/5 — Sector-wide RU regulatory change with a concrete registered 
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-07-17]] (2026-07-17).
 <!-- /enrichment:post -->
 
 ## Market Research

@@ -10,7 +10,7 @@ tags:
   - type/product
 sources:
   - https://app.go.informamail01.com/e/er
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "FinTech Futures"
@@ -117,7 +117,7 @@ Watch for: first named transactions/obligor banks, the actual drawdown pace, and
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-07-17]] (2026-07-17).
 <!-- /enrichment:post -->
 
 ## Market Research

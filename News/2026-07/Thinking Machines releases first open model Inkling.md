@@ -14,7 +14,7 @@ sources:
   - https://substack.com/redirect/f5531b72-81d5-479c-b6f3-df1a95bd2ea0
   - https://substack.com/redirect/0f03433b-8da7-4aef-8b6f-7f465e2cc155
   - https://substack.com/redirect/fbda5683-8726-47ae-a419-0961e99b1bf1
-status: enriched
+status: published
 n_mentions: 6
 channels:
   - "MTS"
@@ -236,7 +236,7 @@ See challenge file.
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-07-17]] (2026-07-17).
 <!-- /enrichment:post -->
 
 ## Market Research

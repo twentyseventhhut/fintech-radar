@@ -9,7 +9,7 @@ tags:
   - type/research-report
 sources:
   - http://clc.to/qyc30g
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "News & Trends by Sber"
@@ -222,7 +222,7 @@ Genuinely new = the **H1 2026 period data** + the specific megaround marks:
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-07-17]] (2026-07-17).
 <!-- /enrichment:post -->
 
 ## Market Research

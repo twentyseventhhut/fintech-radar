@@ -11,7 +11,7 @@ tags:
   - type/m-and-a
 sources:
   - https://www.connectingthedotsinfin.tech/r/cbbf3980
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -117,7 +117,7 @@ Internal corpus: [[MoonPay launches Deposits for wallet transfers in Telegram]],
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-07-17]] (2026-07-17).
 <!-- /enrichment:post -->
 
 ## Market Research

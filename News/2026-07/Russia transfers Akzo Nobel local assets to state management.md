@@ -8,7 +8,7 @@ tags:
   - type/m-and-a
 sources:
   - https://mergers.ru/news/RF-peredala-lokalnye-aktivy-Akzo-Nobel-v-upravlenie-AO-Razvitie-stroitelnyh-aktivov-87189
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Mergers.ru"
@@ -192,7 +192,7 @@ Importance: 2/5 — A textbook, precedented Decree-302 temporary-management seiz
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-07-17]] (2026-07-17).
 <!-- /enrichment:post -->
 
 ## Market Research

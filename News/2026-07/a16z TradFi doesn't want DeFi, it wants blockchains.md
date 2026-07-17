@@ -17,7 +17,7 @@ sources:
   - https://substack.com/redirect/b70a51a8-8841-408d-a1d9-bb40df69cc75
   - https://substack.com/redirect/16068bf8-3eb3-43d3-99c6-b4b4da256f67
   - https://substack.com/redirect/559b67ba-0582-4f39-be56-c4c1a6264b16
-status: enriched
+status: published
 n_mentions: 7
 channels:
   - "a16zcrypto"
@@ -127,7 +127,7 @@ GENIUS Act signed 2025-07-18 (stablecoin reserves/legal clarity); CLARITY Act NO
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-07-17]] (2026-07-17).
 <!-- /enrichment:post -->
 
 ## Market Research

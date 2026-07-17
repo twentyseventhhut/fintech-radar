@@ -10,7 +10,7 @@ tags:
   - type/earnings
 sources:
   - https://www.connectingthedotsinfin.tech/r/95dbd853
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -130,7 +130,7 @@ Source caveat: figures are **company-reported ("audited")** relayed by trade pre
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-07-17]] (2026-07-17).
 <!-- /enrichment:post -->
 
 ## Market Research

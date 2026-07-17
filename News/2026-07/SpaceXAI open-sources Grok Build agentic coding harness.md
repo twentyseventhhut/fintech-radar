@@ -10,7 +10,7 @@ tags:
 sources:
   - https://substack.com/redirect/2cf30321-a82f-4411-9fff-716f06a1391d
   - https://substack.com/redirect/f270c6cf-d04e-4539-b4fa-c8df597dbe05
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "MTS"
@@ -122,7 +122,7 @@ Importance: 3/5 — A top-3 AI lab open-sourcing its production coding-agent har
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-07-17]] (2026-07-17).
 <!-- /enrichment:post -->
 
 ## Market Research

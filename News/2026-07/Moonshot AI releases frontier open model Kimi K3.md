@@ -14,7 +14,7 @@ sources:
   - https://substack.com/redirect/d3376e75-e69a-413e-96de-48cb3737017e
   - https://substack.com/redirect/128b69eb-d813-4e10-ae0f-4a50f7260bad
   - https://substack.com/redirect/eebbfccb-c768-4d20-8b62-36cddaf3ee93
-status: enriched
+status: published
 n_mentions: 5
 channels:
   - "MTS"
@@ -314,7 +314,7 @@ See challenge note + URLs above: TechCrunch (source note primary, FT-sourced), M
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-07-17]] (2026-07-17).
 <!-- /enrichment:post -->
 
 ## Market Research

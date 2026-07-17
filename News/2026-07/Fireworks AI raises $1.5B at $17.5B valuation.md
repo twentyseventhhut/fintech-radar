@@ -10,7 +10,7 @@ tags:
   - type/funding
 sources:
   - https://substack.com/redirect/76cfb1ed-e5ef-46ed-951f-4b6895373e7e
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "MTS"
@@ -130,7 +130,7 @@ Sentiment is euphoric — "$1.8B into inference startups in two days" (Jun 2026)
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-07-17]] (2026-07-17).
 <!-- /enrichment:post -->
 
 ## Market Research

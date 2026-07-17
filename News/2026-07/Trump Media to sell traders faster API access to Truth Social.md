@@ -10,7 +10,7 @@ tags:
   - type/product
 sources:
   - https://elink22c.strictlyvc.com/ss/c/u001.Lk2l_GQ_9y3_OeVsl2E52tRld6iYiqHZNhUBGhM_HCgXQQcwCja-F66ylqxbogkZ3rK7XuqCAKwGCf6DKm6hqp6tXz8HTJoLb0-M5nYAGLTfU6HLUFZhiZ8wjcAilDO30xfAHacobtBkORwB1sYT-j5FD_P-lqzpvi3IGB_fflw1MbEbOyXG7_D_z23nF4KxKLIN0pwmi5wP25G_NQQGAUh3iOvg1L_CJ-0M39Wpso9EB3eIkqDBYgwHhndHl6k1OY3akzWmFqDQMFWPPDvjkHlRl3CfhFFJalEaru13s9BW1eg78gKCHht1Aq2IMPf8/4se/cPEc6kJWRt-NApdcdMfRPQ/h32/h001.GNHZxADIovHtuVK7QAAXYceevBdYs3GqZPEG5IN3f0U
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "StrictlyVC"
@@ -119,7 +119,7 @@ TMTG is, in substance, a **crypto-treasury + Trump-brand holding vehicle with a 
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-07-17]] (2026-07-17).
 <!-- /enrichment:post -->
 
 ## Market Research

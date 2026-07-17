@@ -10,7 +10,7 @@ tags:
   - type/product
 sources:
   - https://www.connectingthedotsinfin.tech/r/026721d3
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -142,7 +142,7 @@ Fits a clean 2-year trajectory, well-covered in corpus:
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-07-17]] (2026-07-17).
 <!-- /enrichment:post -->
 
 ## Market Research

@@ -9,7 +9,7 @@ tags:
   - type/partnership
 sources:
   - https://substack.com/redirect/ee0b9b33-c47f-4dab-bf70-3c11d385d181
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "MTS"
@@ -107,7 +107,7 @@ Importance: 3/5 — a large program-vehicle win for a well-backed challenger ins
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-07-17]] (2026-07-17).
 <!-- /enrichment:post -->
 
 ## Market Research
