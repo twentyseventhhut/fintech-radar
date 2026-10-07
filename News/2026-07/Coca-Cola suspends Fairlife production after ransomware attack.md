@@ -9,7 +9,7 @@ tags:
   - type/outage-security
 sources:
   - https://link.techcrunch.com/click/46618358.48133/aHR0cHM6Ly90ZWNoY3J1bmNoLmNvbS8yMDI2LzA3LzE2L2NvY2EtY29sYS1zdXNwZW5kZWQtcHJvZHVjdGlvbi1hdC1pdHMtZmFpcmxpZmUtZGFpcnktYWZ0ZXItYS1yYW5zb213YXJlLWF0dGFjaz91dG1fY2FtcGFpZ249ZGFpbHlfYW0/6a347703be04c47cab07526aBa1fa4fcf
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "TechCrunch"
@@ -234,7 +234,7 @@ Not novel as a technique. What matters:
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-07-18]] (2026-07-18).
 <!-- /enrichment:post -->
 
 ## Market Research

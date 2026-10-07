@@ -10,7 +10,7 @@ tags:
   - type/commentary
 sources:
   - https://elink22c.strictlyvc.com/ss/c/u001.Lk2l_GQ_9y3_OeVsl2E52t0jREjspyIPpeO-pD8N3oLbE5Rcspuk4-mRE7jiBjOm5nJB28hVODMGu1QEvZJujggjy9i0ieGkxfo8lnguufYxY3L8954PtDc0c4Q_UI3k3gTk21aF39q1HFRI9MvbVs7L6D3EOfKUDPbnCqH3Ev2UIMjCodj5lKwnDx67LlR8QlINAnGW0UI0Qr35CxtG2th4mKR2ry3tQcRn9fjIa8JAWzkakcFS_SN9mY-gnmO95ySFpQGWUyzfg89_66ksRdWekKIgbUqjPZZ-QewKEZSmHtWO3slrhsU9EJGrdvQ203x2q1patBKbJtoOBNqGeg/4sf/g8vzxbOYRkCwKx-6P9p38A/h23/h001.4nmFcpE0WjgGWYHoJjRsPFAsNqaSaLGblClCeE8H9fU
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "StrictlyVC"
@@ -139,7 +139,7 @@ Expect continued Microsoft messaging that frontier models are over-restrictive *
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-07-18]] (2026-07-18).
 <!-- /enrichment:post -->
 
 ## Market Research

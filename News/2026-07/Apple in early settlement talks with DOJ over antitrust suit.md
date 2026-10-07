@@ -9,7 +9,7 @@ tags:
   - type/regulation
 sources:
   - https://elink22c.strictlyvc.com/ss/c/u001.Lk2l_GQ_9y3_OeVsl2E52udHUhqvL174Rw0sjpIujCltZCL0ru0OuWTYOK5bUuk3Vn6Jb2rJSrSPLZz71wMHu6QFbSb-TAnbvTYtwXqApq0x10w-PaMVidq7h2Cc1h1jgfowmHkKlKijIyKEDAskZQ23tj5tsv8gQuUTcpYu1y1mIOktVtDksZntAAWn_YMcmeBNDItvg_bunK1-zCeXHzMkYlk2VKGU_n-0m3QMH-qK6R33tlGmH5jmL0IsbvWA7OTGlLNNFYAeC-cGa6wnojHqTDRrHN6BMEGJRE0jA4xrFfa2b9AVHivvr4gVibZcXmP0whWoSf9YOT6TFpMWBveJ1Y76S76iQyyCFlxzn6k/4sf/g8vzxbOYRkCwKx-6P9p38A/h28/h001.V0YNJFfI_aTq-VQ_DxekcDadwsw0PCu462cBGsJsKpQ
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "StrictlyVC"
@@ -124,7 +124,7 @@ What is genuinely at stake — behavioral remedies (breakup extremely unlikely p
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-07-18]] (2026-07-18).
 <!-- /enrichment:post -->
 
 ## Market Research

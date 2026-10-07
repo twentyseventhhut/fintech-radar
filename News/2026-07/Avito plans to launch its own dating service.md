@@ -9,7 +9,7 @@ tags:
   - type/product
 sources:
   - https://www.kommersant.ru/doc/8816666
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "42 секунды"
@@ -126,7 +126,7 @@ Avito's trajectory frames this: 2022 Kismet Capital Group (Ivan Tavrin) bought A
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-07-18]] (2026-07-18).
 <!-- /enrichment:post -->
 
 ## Market Research

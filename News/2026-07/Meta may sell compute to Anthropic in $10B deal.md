@@ -13,7 +13,7 @@ sources:
   - https://substack.com/redirect/761c6780-c8bf-48e7-84ea-14af9732c4c8
   - https://substack.com/redirect/5584d6dd-1b48-4d6a-b902-63a89faa8cd7
   - https://substack.com/redirect/df340e79-2b59-469d-96da-2d83f89a8d87
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "MTS"
@@ -110,7 +110,7 @@ Importance: 3/5 — Genuinely fresh and notable: the first named external custom
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-07-18]] (2026-07-18).
 <!-- /enrichment:post -->
 
 ## Market Research

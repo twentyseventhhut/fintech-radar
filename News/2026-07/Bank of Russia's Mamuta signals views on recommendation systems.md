@@ -9,7 +9,7 @@ tags:
   - type/regulation
 sources:
   - https://bosfera.ru/bo/ot-misselinga-k-nativnoi-adaptacii
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Финтехно"
@@ -274,7 +274,7 @@ Importance: 3/5
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-07-18]] (2026-07-18).
 <!-- /enrichment:post -->
 
 ## Market Research

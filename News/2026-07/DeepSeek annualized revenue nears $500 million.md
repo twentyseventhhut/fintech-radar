@@ -9,7 +9,7 @@ tags:
   - type/earnings
 sources:
   - https://www.theinformation.com/articles/deepseeks-annualized-revenue-nears-500-million-boosting-fundraise-ipo-plans
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "42 секунды"
@@ -118,7 +118,7 @@ Importance: 4/5 — The FIRST hard commercial figure (~$400–500M annualized ru
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-07-18]] (2026-07-18).
 <!-- /enrichment:post -->
 
 ## Market Research

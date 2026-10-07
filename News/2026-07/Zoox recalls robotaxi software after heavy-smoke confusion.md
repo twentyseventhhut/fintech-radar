@@ -9,7 +9,7 @@ tags:
   - type/outage-security
 sources:
   - https://link.techcrunch.com/click/46618358.48133/aHR0cHM6Ly90ZWNoY3J1bmNoLmNvbS8yMDI2LzA3LzE3L3pvb3gtaXNzdWVzLXNvZnR3YXJlLXJlY2FsbC1hZnRlci1hLXJvYm90YXhpLWdvdC1jb25mdXNlZC1ieS1oZWF2eS1zbW9rZT91dG1fY2FtcGFpZ249ZGFpbHlfYW0/6a347703be04c47cab07526aCb1a8620a
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "TechCrunch"
@@ -187,7 +187,7 @@ Importance: 3/5
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-07-18]] (2026-07-18).
 <!-- /enrichment:post -->
 
 ## Market Research

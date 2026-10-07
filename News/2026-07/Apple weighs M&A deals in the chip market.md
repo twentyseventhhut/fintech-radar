@@ -9,7 +9,7 @@ tags:
   - type/m-and-a
 sources:
   - https://www.theinformation.com/articles/apple-hunts-ai-chip-acquisitions
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "42 секунды"
@@ -114,7 +114,7 @@ Importance: 3/5 — A genuinely notable *posture* shift (Apple, having dropped n
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-07-18]] (2026-07-18).
 <!-- /enrichment:post -->
 
 ## Market Research

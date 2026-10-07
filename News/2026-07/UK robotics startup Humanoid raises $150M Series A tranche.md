@@ -103,7 +103,7 @@ Importance: 3/5 — A genuine unicorn-scale European humanoid raise worth loggin
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+
 <!-- /enrichment:post -->
 
 ## Market Research

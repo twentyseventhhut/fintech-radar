@@ -114,7 +114,7 @@ Importance: 3/5 — A technically credible, well-measured advance (the "Solve" e
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+
 <!-- /enrichment:post -->
 
 ## Market Research

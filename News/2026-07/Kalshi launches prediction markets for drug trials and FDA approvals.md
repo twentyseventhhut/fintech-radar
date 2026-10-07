@@ -9,7 +9,7 @@ tags:
   - type/product
 sources:
   - https://elink22c.strictlyvc.com/ss/c/u001.Lk2l_GQ_9y3_OeVsl2E52rvoOk4jhL2Hk9n2EWHAb531Zeyftcnwx7Wx8dkvmbNdjz71j-hCTe65ruPYhhMzN99v_AD7blN4SH8t0nZA0AyBOip8yr6FdftiT9wFjGAG6zs2Oq6hAtGqzo5vyKDtHPBzYyt64pBhNrCKF6Iua5ARYhxDd8TSWuCTpYIGQoBXlv5mbK0NHTCm_byu7yb_gCD-IpYQmqtlt5BH9jR_zCvoDneQBOhRum4T3sG0eGDcIOpmiVJlt6zQyIfo8FzE5wiUd8vCE7BfG9R4HCOm5cHfelOJdH0XlTVJ3Ib8cx_lNTJ6a0Ws5qqjDi8kgx2lduedXd_Pqj4QEpgYQh_lxaA/4sf/g8vzxbOYRkCwKx-6P9p38A/h29/h001.UZfI3lA8kL3Sr2E2RfmMyv5GE-kT-mnpXE-E7p6BzxI
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "StrictlyVC"
@@ -133,7 +133,7 @@ Kalshi's arc is a relentless push from retail betting toward "the exchange for e
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-07-18]] (2026-07-18).
 <!-- /enrichment:post -->
 
 ## Market Research

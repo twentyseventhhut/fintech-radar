@@ -12,7 +12,7 @@ sources:
   - https://substack.com/redirect/6f82ec0c-d5b1-4dc9-b455-e5ca1ef63cc6
   - https://substack.com/redirect/286f2c7d-5970-4025-a2f8-f1f2192d4878
   - https://substack.com/redirect/47eb48fc-1300-4deb-9da5-01ac8e493ce7
-status: enriched
+status: published
 n_mentions: 2
 channels:
   - "MTS"
@@ -220,7 +220,7 @@ Importance: 4/5
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-07-18]] (2026-07-18).
 <!-- /enrichment:post -->
 
 ## Market Research

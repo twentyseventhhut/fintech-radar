@@ -9,7 +9,7 @@ tags:
   - type/ipo
 sources:
   - https://preqveca.ru/news/57295
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Mergers.ru"
@@ -115,7 +115,7 @@ What is confirmed to be **open / undisclosed:** IPO timing (no half-year, no yea
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-07-18]] (2026-07-18).
 <!-- /enrichment:post -->
 
 ## Market Research

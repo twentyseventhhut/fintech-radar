@@ -9,7 +9,7 @@ tags:
   - type/funding
 sources:
   - https://link.techcrunch.com/click/46629723.37816/aHR0cHM6Ly90ZWNoY3J1bmNoLmNvbS8yMDI2LzA3LzE3L251Y2xlYXItc3RhcnR1cC12YWxhci1hdG9taWNzLWluLXRhbGtzLXRvLXJhaXNlLW5ldy1mdW5kaW5nLWF0LTZiLXZhbHVhdGlvbj91dG1fY2FtcGFpZ249ZGFpbHlfcG0/6a347703be04c47cab07526aB29988bdf
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "TechCrunch"
@@ -201,7 +201,7 @@ Importance: 3/5
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-07-18]] (2026-07-18).
 <!-- /enrichment:post -->
 
 ## Market Research

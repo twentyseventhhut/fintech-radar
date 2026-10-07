@@ -9,7 +9,7 @@ tags:
   - type/regulation
 sources:
   - https://link.techcrunch.com/click/46542590.41437/aHR0cHM6Ly90ZWNoY3J1bmNoLmNvbS8yMDI2LzA3LzEzL2xhcGQtbGV0cy1jb250cmFjdC13aXRoLXN1cnZlaWxsYW5jZS1naWFudC1mbG9jay1leHBpcmUtY2l0aW5nLXNlcmlvdXMtY29uY2VybnMtb3Zlci1jaXZpbC1saWJlcnRpZXMtYW5kLXByaXZhY3k_dXRtX2NhbXBhaWduPWRhaWx5X2Ft/6a347703be04c47cab07526aB53370416
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "TechCrunch"
@@ -184,7 +184,7 @@ See challenge column + external research URLs (TechCrunch 2026-07-13, Fortune 20
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-07-18]] (2026-07-18).
 <!-- /enrichment:post -->
 
 ## Market Research

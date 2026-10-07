@@ -11,7 +11,7 @@ tags:
   - type/funding
 sources:
   - https://substack.com/redirect/f944c2bb-1aed-4c18-bd4d-72d19c9bb959
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "MTS"
@@ -125,7 +125,7 @@ _Analytical notes (not a post). Importance: 4/5._
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-07-18]] (2026-07-18).
 <!-- /enrichment:post -->
 
 ## Market Research

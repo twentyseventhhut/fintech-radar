@@ -9,7 +9,7 @@ tags:
   - type/regulation
 sources:
   - https://elink22c.strictlyvc.com/ss/c/u001.Lk2l_GQ_9y3_OeVsl2E52m82cNWhAaPzBzCKswVzJkLG2muEhgQdWw7RLUNgsxnPYrMQ6T8VCelC3i9uE-cXlg_gfC4gaurBVRUHSZXGjPdtuOrRCctzIUSfayODpkovWT8kWXB7s9Om0qd7etzSZkhdHgw_IhYtDu2-bKCp0QJyq9Y5_9zmh-pIKASBg9w4JLQir9DQ8vaqLlCiWFB0nr_5uF0UXfvAjJJzwdl2nQEgPuPceFOG3WY_eZO03bLar2inT15B2sLfzAeJyX6qh4bQJ3lwd3OLnymY1JwHVamWy5d0a2Ky7eeFLsAmLwrS/4sf/g8vzxbOYRkCwKx-6P9p38A/h32/h001.UQNl8L8bpy54QtTeWu1zSy9Q1nPnZI5tSL184OK0w7w
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "StrictlyVC"
@@ -123,7 +123,7 @@ Perez is in **CFTC settlement talks**; expect a civil resolution (disgorgement o
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-07-18]] (2026-07-18).
 <!-- /enrichment:post -->
 
 ## Market Research

@@ -9,7 +9,7 @@ tags:
   - type/product
 sources:
   - https://www.kommersant.ru/doc/8816637
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "42 секунды"
@@ -118,7 +118,7 @@ Importance: 3/5 — A real, live deployment with a genuine value proposition (Ch
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-07-18]] (2026-07-18).
 <!-- /enrichment:post -->
 
 ## Market Research

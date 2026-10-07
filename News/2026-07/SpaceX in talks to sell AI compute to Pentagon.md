@@ -10,7 +10,7 @@ tags:
   - type/partnership
 sources:
   - https://elink22c.strictlyvc.com/ss/c/u001.Lk2l_GQ_9y3_OeVsl2E52tRld6iYiqHZNhUBGhM_HCg_FLn5zAFHFy5n9yK7VQU1BagQn14cjb3GAPDXoYmlGaZg4qae_Cfoq00H95zwH9owY1HVyTbMZKCmupTYcaO9WqUupfTPqjFmvrY8dTIQ3TzqHeGmHMPp99BK243zNjRJz2QMK5g5_G9FX3vvBICv29Gf5ifgEBDSikegegp65vYuAPBnWQyx9mEDoMU7AhnHv6Ay2yA6bkpp4yYIU7KlANVJ-1CiQwad4n3dY6Gpc8iYHSoU2wpnLHb1rAb5YEMbmCGPfggPyJktM7jvvp7vP8vGk2a9eAf_63fsOHxqfA/4sf/g8vzxbOYRkCwKx-6P9p38A/h6/h001.-Q4oa5cB5ySJn4ewEj8mKRUNin8bzSYkdIxHjfBIc20
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "StrictlyVC"
@@ -111,7 +111,7 @@ Near-term: negotiation continues; a signed IL5/IL6-accredited task order (likely
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-07-18]] (2026-07-18).
 <!-- /enrichment:post -->
 
 ## Market Research

@@ -10,7 +10,7 @@ tags:
   - type/regulation
 sources:
   - https://link.techcrunch.com/click/46629723.37816/aHR0cHM6Ly90ZWNoY3J1bmNoLmNvbS8yMDI2LzA3LzE3L2FwcGxlLWFuZC1nb29nbGUtb3JkZXJlZC10by1wdXJnZS1udWRpZnktYXBwcy1mcm9tLWFwcC1zdG9yZXM_dXRtX2NhbXBhaWduPWRhaWx5X3Bt/6a347703be04c47cab07526aCb2891243
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "TechCrunch"
@@ -195,7 +195,7 @@ For Apple/Google, the fit is uncomfortable. Both **already ban this content by p
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-07-18]] (2026-07-18).
 <!-- /enrichment:post -->
 
 ## Market Research

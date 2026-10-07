@@ -9,7 +9,7 @@ tags:
   - type/product
 sources:
   - https://substack.com/redirect/b3de9037-7897-4937-ae91-b55b7a4d8313
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "MTS"
@@ -101,7 +101,7 @@ Importance: 4/5 — A major Google flagship slipping while the DeepMind org blee
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-07-18]] (2026-07-18).
 <!-- /enrichment:post -->
 
 ## Market Research

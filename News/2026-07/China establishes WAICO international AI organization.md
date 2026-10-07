@@ -10,7 +10,7 @@ tags:
 sources:
   - https://substack.com/redirect/d029e238-cb72-488a-b1bb-e7f80b13ce12
   - https://substack.com/redirect/c7ea66b6-29a8-4584-bfdb-e103c87b2302
-status: enriched
+status: published
 n_mentions: 2
 channels:
   - "MTS"
@@ -107,7 +107,7 @@ Primary anchors: [Xinhua](https://english.news.cn/20260716/b0449aa2133542868e310
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-07-18]] (2026-07-18).
 <!-- /enrichment:post -->
 
 ## Market Research

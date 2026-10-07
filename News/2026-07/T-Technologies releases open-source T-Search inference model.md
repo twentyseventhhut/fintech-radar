@@ -9,7 +9,7 @@ tags:
   - type/product
 sources:
   - https://www.forbes.ru/tekhnologii/564945-t-tehnologii-vypustili-ii-model-t-search-dla-korporativnogo-mnogosagovogo-poiska
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Финтехно"
@@ -130,7 +130,7 @@ Importance: 3/5 — a genuine, live Apache-2.0 open-source release from a credib
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-07-18]] (2026-07-18).
 <!-- /enrichment:post -->
 
 ## Market Research

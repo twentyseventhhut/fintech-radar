@@ -10,7 +10,7 @@ tags:
   - type/product
 sources:
   - https://newsletter.thepaypers.com/i/RXce-U-Dq1CQjU_FL-A1YxbwPXaIcpVub7I9TaI2BDsjt3xyukAiWhlXMSzDaLv-ioYU0Vd9vGovqyOIyyjtW83Xr2-R8D9TNed92Dp3EzISXFQ3hylINA4_AFkp5zyrvGIH8NdzDwIP_b4jny5ZYFsFVNmgGjlCGZyCX3V6BuVbHN5u5rNQAHedtBPpA0iH
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "The Paypers"
@@ -163,7 +163,7 @@ Importance: 4/5 — DTCC is the authoritative US post-trade utility, and the FIR
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-07-18]] (2026-07-18).
 <!-- /enrichment:post -->
 
 ## Market Research

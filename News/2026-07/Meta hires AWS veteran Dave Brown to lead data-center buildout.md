@@ -10,7 +10,7 @@ tags:
   - type/leadership
 sources:
   - https://elink22c.strictlyvc.com/ss/c/u001.Lk2l_GQ_9y3_OeVsl2E52tRld6iYiqHZNhUBGhM_HCjMR864gv0ezYw8lmBJgJwo7oWT3BPcMJjfks50DB1dw_YMpNyF-Gzubrpa0mrGAyqMDZ6tI-9uP1J7qh--w27IUuaDRlXiO-u6-wHrJGxfx_I6rLnN8S3LPZkn9XX183wuX2eaBvw96gdQgbrojS9xd56P8_23_AtXODA957ap5Cu7iMrK_FxlOAMU8lA5_cMAAfCFWw7UM9aFbBwHOxbAWGsZIluoI6VAkCKHae6A49_77JVq3rGpAoFVwx78vVK63EG-eqXDRtCicPM_bkw9-clkeqgUoUoi5IEcGeG9Qw/4sf/g8vzxbOYRkCwKx-6P9p38A/h24/h001.Nqvz_tLSdF8jkrhAlBglfxoXtciJcCMdQmBMd8qqnRE
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "StrictlyVC"
@@ -112,7 +112,7 @@ Importance: 3/5 — A genuine, separately-reported signal: poaching AWS's ~19-ye
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-07-18]] (2026-07-18).
 <!-- /enrichment:post -->
 
 ## Market Research

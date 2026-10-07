@@ -9,7 +9,7 @@ tags:
   - type/regulation
 sources:
   - https://iz.ru/2133685/milana-mishieva/cb-prizvali-uskorit-prinyatie-zakona-o-multibankinge
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Финтехно"
@@ -93,7 +93,7 @@ Importance: 3/5
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-07-18]] (2026-07-18).
 <!-- /enrichment:post -->
 
 ## Market Research

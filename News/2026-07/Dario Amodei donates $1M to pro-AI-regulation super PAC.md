@@ -10,7 +10,7 @@ tags:
   - type/regulation
 sources:
   - https://substack.com/redirect/7f9d7a76-4c78-4a89-b7f7-d7a489889786
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "MTS"
@@ -113,7 +113,7 @@ _Red-team questions (10–15, second-order). Each: answer or "open"._
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-07-18]] (2026-07-18).
 <!-- /enrichment:post -->
 
 ## Market Research

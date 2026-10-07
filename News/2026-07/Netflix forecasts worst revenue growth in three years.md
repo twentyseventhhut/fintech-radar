@@ -9,7 +9,7 @@ tags:
   - type/earnings
 sources:
   - https://www.ft.com/content/2c5151d9-738f-4808-bbd0-15aaf48d922e
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "42 секунды"
@@ -106,7 +106,7 @@ Stock fell ~8–9% Thursday, ~11% Friday, hitting a 52-week low (~$67 intraday).
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-07-18]] (2026-07-18).
 <!-- /enrichment:post -->
 
 ## Market Research

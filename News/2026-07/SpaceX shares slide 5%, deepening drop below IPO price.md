@@ -9,7 +9,7 @@ tags:
   - type/earnings
 sources:
   - https://elink22c.strictlyvc.com/ss/c/u001.Lk2l_GQ_9y3_OeVsl2E52oEnbXwesbbbRuZdXWo2QK30vvrWVdBdJ2XxiJztPwPncI4XSpEz8nUSe_QTTIzl9Qf3yskCl9duvPu6lszTl5lwPmz1R8LctOhLxhobZSBqaxEIvXQUFDoF9HvjGwhMMLA1t5GPBvEXmY60hXPwhxOUw1rGtUDffMfS2H_Ky-cd2iVWT7DX1E0BROeFJ-ZvB3laqSlzWZWRX-g0U9MOThFIJVHWenYKC3vcHbLgWpimMF0yhQBkR9JKfl5bxeeJ_VwSlOJheTlOrFj9QQj6cqnLYf6Qat3BfReg-bcVdfuN/4sf/g8vzxbOYRkCwKx-6P9p38A/h21/h001._6BDgXTXbR0-MhkNfAQ5KulKSpFWlAftT1Fv1mdSf60
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "StrictlyVC"
@@ -497,7 +497,7 @@ Near-term the two events collide: the **first public quarterly report (~Aug 6)**
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-07-18]] (2026-07-18).
 <!-- /enrichment:post -->
 
 ## Market Research
