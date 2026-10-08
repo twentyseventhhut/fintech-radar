@@ -10,7 +10,7 @@ tags:
   - type/m-and-a
 sources:
   - https://www.zawya.com/en/press-release/companies-news/neopay-enters-into-definitive-agreement-to-acquire-65-stake-in-noon-payments-1506444
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -128,7 +128,7 @@ Importance: 4/5 — genuine new controlling-stake M&A reshaping MENA payments co
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-08]] (2026-10-08).
 <!-- /enrichment:post -->
 
 ## Market Research

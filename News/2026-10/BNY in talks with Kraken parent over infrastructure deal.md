@@ -11,7 +11,7 @@ tags:
   - type/partnership
 sources:
   - https://cryptonews.net/news/market/33531751
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -116,7 +116,7 @@ BNY (Bank of New York Mellon, the world's largest custodian, ~$53–59T assets u
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-08]] (2026-10-08).
 <!-- /enrichment:post -->
 
 ## Market Research

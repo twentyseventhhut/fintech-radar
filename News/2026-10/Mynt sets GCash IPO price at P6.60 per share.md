@@ -10,7 +10,7 @@ tags:
   - type/ipo
 sources:
   - https://www.manilatimes.net/2026/10/02/business/mynt-sets-gcash-ipo-price-at-p660/2437736
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -156,7 +156,7 @@ Next: SEC permit-to-sell → offer period (~Oct 6–12) → **listing ~2026-10-2
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-08]] (2026-10-08).
 <!-- /enrichment:post -->
 
 ## Market Research

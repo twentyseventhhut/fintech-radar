@@ -8,7 +8,7 @@ tags:
   - type/research-report
 sources:
   - https://max.ru/fintexno
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Финтехно"
@@ -128,7 +128,7 @@ Importance: 3/5 — a credible, real regulatory-direction signal with two concre
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-08]] (2026-10-08).
 <!-- /enrichment:post -->
 
 ## Market Research

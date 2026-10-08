@@ -11,7 +11,7 @@ tags:
 sources:
   - https://plaid.com/whats-new/fall-2026
   - https://plaid.com
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -215,7 +215,7 @@ Oct 27 product deep dives; Signal 4 broad rollout "early Q4 2026"; IPO overhang.
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-08]] (2026-10-08).
 <!-- /enrichment:post -->
 
 ## Market Research

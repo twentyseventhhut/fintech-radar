@@ -10,7 +10,7 @@ tags:
   - type/m-and-a
 sources:
   - https://mergers.ru/news/Rosatom-zavershil-vykup-51-gruppy-Delo-za-77-mlrd-rublej-u-Sergeya-Shishkarjova-87621
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Mergers.ru"
@@ -171,7 +171,7 @@ Likhachev: "final consolidation of all Rosatom logistics assets" into a national
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-08]] (2026-10-08).
 <!-- /enrichment:post -->
 
 ## Market Research

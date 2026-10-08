@@ -10,7 +10,7 @@ tags:
   - type/research-report
 sources:
   - https://en.bloomingbit.io/feed/news/121477
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -135,7 +135,7 @@ Consistent, incremental trajectory — this is step N of a multi-year program, n
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-08]] (2026-10-08).
 <!-- /enrichment:post -->
 
 ## Market Research

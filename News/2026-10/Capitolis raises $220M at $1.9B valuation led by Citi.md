@@ -10,7 +10,7 @@ tags:
   - type/funding
 sources:
   - https://www.calcalistech.com/ctechnews/article/b1aq11vfime
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -155,7 +155,7 @@ Importance: 3/5 — A real, priced $1.9B round from a marquee bank consortium fu
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-08]] (2026-10-08).
 <!-- /enrichment:post -->
 
 ## Market Research

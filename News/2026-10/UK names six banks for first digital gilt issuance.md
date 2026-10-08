@@ -11,7 +11,7 @@ tags:
   - type/regulation
 sources:
   - https://crypto.news/uk-names-six-banks-to-lead-first-digital-gilt-issuance
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -144,7 +144,7 @@ The UK tokenisation story is well-documented in the vault; this note is the capi
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-08]] (2026-10-08).
 <!-- /enrichment:post -->
 
 ## Market Research

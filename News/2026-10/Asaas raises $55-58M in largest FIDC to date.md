@@ -10,7 +10,7 @@ tags:
   - type/funding
 sources:
   - https://www.latamfintech.co/articles/fintech-asaas-levanta-us-55-6m-en-su-mayor-fidc-para-adelantar-cobros-a-pymes-en-brasil
-status: enriched
+status: published
 n_mentions: 2
 channels:
   - "Connecting the Dots in Fintech"
@@ -183,7 +183,7 @@ _Analytical notes (not a post). Importance: 3/5._
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-08]] (2026-10-08).
 <!-- /enrichment:post -->
 
 ## Market Research

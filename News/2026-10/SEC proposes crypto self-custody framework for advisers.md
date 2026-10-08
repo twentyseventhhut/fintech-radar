@@ -10,7 +10,7 @@ tags:
   - type/regulation
 sources:
   - https://u.today/sec-proposes-new-crypto-custody-framework
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -176,7 +176,7 @@ Trajectory: Gensler SEC (enforcement-first, "regulation by enforcement," 2023 Sa
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-08]] (2026-10-08).
 <!-- /enrichment:post -->
 
 ## Market Research

@@ -10,7 +10,7 @@ tags:
   - type/earnings
 sources:
   - https://fintechnews.sg/138434/digitalassets/visa-stablecoin-business-payments
-status: enriched
+status: published
 n_mentions: 2
 channels:
   - "Connecting the Dots in Fintech"
@@ -137,7 +137,7 @@ Importance: 3/5 — Real, new Visa-specific datapoints (160+ programmes, 17% bus
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-08]] (2026-10-08).
 <!-- /enrichment:post -->
 
 ## Market Research

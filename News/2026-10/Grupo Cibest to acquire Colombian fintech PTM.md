@@ -12,7 +12,7 @@ tags:
 sources:
   - https://www.el-fondo.com/es/news/grupo-cibest-proyecta-comprar-el-100-de-la-fintech-ptm
   - https://www.latamfintech.co/articles/fintech-colombiana-ptm-seria-adquirida-por-grupo-cibest-para-ampliar-su-red-de-corresponsalia-digital
-status: enriched
+status: published
 n_mentions: 2
 channels:
   - "Connecting the Dots in Fintech"
@@ -185,7 +185,7 @@ Next gate: **SIC** competition review (plus likely **SFC** financial oversight p
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-08]] (2026-10-08).
 <!-- /enrichment:post -->
 
 ## Market Research

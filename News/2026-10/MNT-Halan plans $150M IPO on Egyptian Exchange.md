@@ -10,7 +10,7 @@ tags:
 sources:
   - https://www.bloomberg.com/news/articles/2026-10-06/mnt-halan-plans-150-million-ipo-egypt-s-biggest-since-2021
   - https://enterpriseam.com/egypt/2026/10/06/cib-signs-on-as-cornerstone-investor-for-up-to-egp-2-bn-of-mnt-halans-ipo
-status: enriched
+status: published
 n_mentions: 2
 channels:
   - "Connecting the Dots in Fintech"
@@ -113,7 +113,7 @@ Founded 2018 by **Mounir Nakhla** (CEO) & **Ahmed Mohsen** (CTO). ~$120m (2021) 
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-08]] (2026-10-08).
 <!-- /enrichment:post -->
 
 ## Market Research

@@ -9,7 +9,7 @@ tags:
   - type/commentary
 sources:
   - https://www.ft.com/content/372d018c-df75-4bf8-9699-7f87b8511c37
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Финтехно"
@@ -133,7 +133,7 @@ Importance: 4/5 — Geopolitically and regtech-significant (A7 = ~13% of Russian
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-08]] (2026-10-08).
 <!-- /enrichment:post -->
 
 ## Market Research

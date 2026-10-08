@@ -11,7 +11,7 @@ tags:
   - type/m-and-a
 sources:
   - https://thedefiant.io/converge/tradfi-and-fintech/anchorage-digital-buys-routable-to-add-corporate-payment-rails
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -125,7 +125,7 @@ Related internal notes: [[Anchorage Digital acquires Securitize RIA platform and
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-08]] (2026-10-08).
 <!-- /enrichment:post -->
 
 ## Market Research

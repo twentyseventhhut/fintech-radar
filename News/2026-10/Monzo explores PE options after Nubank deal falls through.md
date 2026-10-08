@@ -9,7 +9,7 @@ tags:
   - type/m-and-a
 sources:
   - https://www.ft.com/content/57de6604-70a9-413a-a381-9ba82ec202ec
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -104,7 +104,7 @@ Red-team / challenge questions (answers or "open"):
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-08]] (2026-10-08).
 <!-- /enrichment:post -->
 
 ## Market Research

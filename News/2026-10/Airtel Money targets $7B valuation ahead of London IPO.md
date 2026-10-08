@@ -9,7 +9,7 @@ tags:
   - type/ipo
 sources:
   - https://www.reuters.com/business/airtel-money-prices-ipo-196-per-share-2026-10-01
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "This Week in Fintech"
@@ -102,7 +102,7 @@ _Analytical notes (not a post). Importance: 4/5._
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-08]] (2026-10-08).
 <!-- /enrichment:post -->
 
 ## Market Research

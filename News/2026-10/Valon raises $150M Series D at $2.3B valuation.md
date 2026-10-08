@@ -10,7 +10,7 @@ tags:
   - type/funding
 sources:
   - https://www.businesswire.com/news/home/20261005181820/en/Valon-Raises-%24150-Million-Series-D-at-a-%242.3-Billion-Valuation-to-Deploy-ValonOS-and-AI-Agents-into-Mortgage
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -120,7 +120,7 @@ _Analytical notes (not a post). Importance: 3/5._
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-08]] (2026-10-08).
 <!-- /enrichment:post -->
 
 ## Market Research

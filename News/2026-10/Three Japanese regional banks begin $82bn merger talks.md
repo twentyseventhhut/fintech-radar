@@ -10,7 +10,7 @@ tags:
   - type/m-and-a
 sources:
   - https://www.japantimes.co.jp/business/2026/10/02/companies/regional-banks-merger-consideration
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "This Week in Fintech"
@@ -168,7 +168,7 @@ same macro driver), [[Daiwa Securities acquires Orix Bank for $2.3bn to expand l
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-08]] (2026-10-08).
 <!-- /enrichment:post -->
 
 ## Market Research

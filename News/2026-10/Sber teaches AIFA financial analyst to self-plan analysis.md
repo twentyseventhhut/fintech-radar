@@ -9,7 +9,7 @@ tags:
   - type/product
 sources:
   - https://www.sberbank.ru/ru/sberpress/all/article
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "News & Trends by Sber"
@@ -125,7 +125,7 @@ _Analytical notes (not a post). Importance: 3/5._
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-08]] (2026-10-08).
 <!-- /enrichment:post -->
 
 ## Market Research

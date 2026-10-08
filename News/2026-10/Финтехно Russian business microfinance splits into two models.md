@@ -9,7 +9,7 @@ tags:
 sources:
   - http://www.cbr.ru/analytics/microfinance/2026_1
   - https://max.ru/fintexno
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Финтехно"
@@ -118,7 +118,7 @@ Related internal notes: [[Финтехно: Sravni CEO Krainik on marketplace be
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-08]] (2026-10-08).
 <!-- /enrichment:post -->
 
 ## Market Research

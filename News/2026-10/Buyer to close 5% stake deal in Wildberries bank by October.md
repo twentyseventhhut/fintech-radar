@@ -9,7 +9,7 @@ tags:
   - type/m-and-a
 sources:
   - https://www.retail.ru/news/vtb-i-rwb-planiruyut-zakryt-sdelku-k-kontsu-oktyabrya-29-sentyabrya-2026-282702
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "News & Trends by Sber"
@@ -124,7 +124,7 @@ Fit: logical and continuous. **+ Why:** (analysis) WB Bank's historic ~200% ROE 
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-08]] (2026-10-08).
 <!-- /enrichment:post -->
 
 ## Market Research

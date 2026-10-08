@@ -10,7 +10,7 @@ tags:
 sources:
   - https://mergers.ru/news/Putin-razreshil-prodazhu-rossijskih-aktivov-UniCredit-87613
   - https://max.ru/fintexno
-status: enriched
+status: published
 n_mentions: 2
 channels:
   - "Mergers.ru"
@@ -217,7 +217,7 @@ On **2026-10-05** Putin signed an order permitting the **reorganization of AO Un
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-08]] (2026-10-08).
 <!-- /enrichment:post -->
 
 ## Market Research

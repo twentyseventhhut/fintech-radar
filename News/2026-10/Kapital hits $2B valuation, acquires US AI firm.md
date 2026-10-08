@@ -10,7 +10,7 @@ tags:
   - type/m-and-a
 sources:
   - https://prensa.ibero.mx/es-MX/nota/kapital-banco-unicornio-cofundado-por-egresado-ibero-rene-saul-farro-alcanza-valuacion-de-2-mil-mdd-y-adquiere-firma-de-ia-en-eu-forbes
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -155,7 +155,7 @@ Importance: 3/5 — A real, growing, profitable (management-reported) Mexican SM
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-08]] (2026-10-08).
 <!-- /enrichment:post -->
 
 ## Market Research

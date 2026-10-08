@@ -10,7 +10,7 @@ tags:
   - type/m-and-a
 sources:
   - https://newsroom-en.groupebpce.fr/news/bpce-and-banco-sabadell-announce-bpce-s-friendly-acquisition-of-a-participation-in-banco-sabadell-and-their-intention-to-explore-strategic-cooperation-f3de2-53927.html
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -338,7 +338,7 @@ Genuinely NEW event (not a reprint — see freshness verdict). But traction toda
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-08]] (2026-10-08).
 <!-- /enrichment:post -->
 
 ## Market Research

@@ -10,7 +10,7 @@ tags:
   - type/funding
 sources:
   - https://decrypt.co/380157/circle-ripple-and-standard-chartered-back-okx-at-flat-25b-valuation
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -120,7 +120,7 @@ OKX trajectory: re-entered U.S. market Apr 2025 post-$500M DOJ settlement; consi
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-08]] (2026-10-08).
 <!-- /enrichment:post -->
 
 ## Market Research

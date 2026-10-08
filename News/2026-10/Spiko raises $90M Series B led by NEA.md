@@ -11,7 +11,7 @@ tags:
   - type/funding
 sources:
   - https://www.spiko.io/fr/blog/weve-raised-90m-to-make-cash-earn-for-everyone
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -160,7 +160,7 @@ Importance: 3/5 — A substantive, well-validated European round (NEA lead, Bloo
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-08]] (2026-10-08).
 <!-- /enrichment:post -->
 
 ## Market Research
