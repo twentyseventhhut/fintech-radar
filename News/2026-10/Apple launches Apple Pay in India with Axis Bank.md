@@ -1,0 +1,67 @@
+---
+title: "Apple launches Apple Pay in India with Axis Bank"
+date: 2026-10-05
+retrieved: 2026-10-08
+tags:
+  - company/apple
+  - company/axis-bank
+  - industry/payments
+  - region/india
+  - type/expansion
+sources:
+  - https://www.apple.com/in/newsroom/2026/09/apple-pay-launches-in-india
+status: tagged
+n_mentions: 1
+channels:
+  - "This Week in Fintech"
+story_id: sc61754de
+month: 2026-10
+enriched: false
+---
+
+# Apple launches Apple Pay in India with Axis Bank
+
+> [!info] 2026-10-05 · 1 упоминаний · 0 источника(ов) с текстом
+> Каналы: This Week in Fintech
+
+## Агрегированный текст (из дайджестов)
+
+[This Week in Fintech] Applelaunched Apple Pay in India with Axis Bank support across iPhone, iPad, and Apple Watch.
+
+## Первоисточники
+
+_(нет загруженного полного текста первоисточника)_
+
+### Прочие ссылки (без извлечённого текста)
+
+- <https://www.apple.com/in/newsroom/2026/09/apple-pay-launches-in-india>
+
+## Контекст
+
+<!-- enrichment:context -->
+_(пусто — заполняется при обогащении)_
+<!-- /enrichment:context -->
+
+## Челлендж / ред-тим
+
+<!-- enrichment:challenge -->
+_(пусто)_
+<!-- /enrichment:challenge -->
+
+## Связь с постом
+
+<!-- enrichment:post -->
+_(пусто)_
+<!-- /enrichment:post -->
+
+## Market Research
+
+<!-- enrichment:market_research -->
+_(пусто)_
+<!-- /enrichment:market_research -->
+
+## Earnings Review
+
+<!-- enrichment:earnings_review -->
+_(пусто)_
+<!-- /enrichment:earnings_review -->
