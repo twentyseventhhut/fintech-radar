@@ -10,7 +10,7 @@ tags:
   - type/product
 sources:
   - https://www.reuters.com/business/kalshi-launches-stock-index-perpetual-future-expand-product-suite-2026-10-06
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -116,7 +116,7 @@ Importance: 3/5 — rationale: a genuine **first** (first CFTC-cleared US-retail
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-09]] (2026-10-09).
 <!-- /enrichment:post -->
 
 ## Market Research

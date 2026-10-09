@@ -11,7 +11,7 @@ tags:
   - type/product
 sources:
   - https://sierra.ai/blog/introducing-personal-agent-protocol
-status: enriched
+status: published
 n_mentions: 2
 channels:
   - "Connecting the Dots in Fintech"
@@ -147,7 +147,7 @@ Importance: 3/5 — real, under-addressed problem (agent identity/authorization)
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-09]] (2026-10-09).
 <!-- /enrichment:post -->
 
 ## Market Research

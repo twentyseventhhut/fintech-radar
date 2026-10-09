@@ -10,7 +10,7 @@ tags:
   - type/m-and-a
 sources:
   - https://mergers.ru/news/PSB-v-tretij-raz-ne-smog-prodat-nacionalizirovannyj-Vektor-Rejl-87607
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Mergers.ru"
@@ -195,7 +195,7 @@ Base case (analysis): a fourth attempt at a lower price, then a negotiated "publ
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-09]] (2026-10-09).
 <!-- /enrichment:post -->
 
 ## Market Research

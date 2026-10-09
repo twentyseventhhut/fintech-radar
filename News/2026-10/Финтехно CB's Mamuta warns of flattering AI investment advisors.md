@@ -10,7 +10,7 @@ tags:
   - type/commentary
 sources:
   - https://max.ru/channel_ai_nom
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Финтехно"
@@ -138,7 +138,7 @@ Importance: 3/5 — Real, substantiated signal from a G20 central bank naming AI
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-09]] (2026-10-09).
 <!-- /enrichment:post -->
 
 ## Market Research

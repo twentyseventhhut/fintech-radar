@@ -10,7 +10,7 @@ tags:
   - type/funding
 sources:
   - https://thenextweb.com/news/stuut-52-5m-series-b-ai-order-to-cash
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -147,7 +147,7 @@ _Analytical notes (not a post). Importance: 3/5._
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-09]] (2026-10-09).
 <!-- /enrichment:post -->
 
 ## Market Research

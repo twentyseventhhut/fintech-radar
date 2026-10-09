@@ -9,7 +9,7 @@ tags:
   - type/m-and-a
 sources:
   - https://mergers.ru/news/Gendirektor-MGKL-reshil-uvelichit-svoyu-dolyu-v-kompanii-s-127-do-29-87617
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Mergers.ru"
@@ -188,7 +188,7 @@ Importance: 2/5 — rationale: a real, market-moving (+9.4%) insider signal with
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-09]] (2026-10-09).
 <!-- /enrichment:post -->
 
 ## Market Research

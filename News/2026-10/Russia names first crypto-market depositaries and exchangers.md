@@ -11,7 +11,7 @@ tags:
 sources:
   - https://www.rusprofile.ru/id/1257700355131
   - https://www.cbr.ru/registries/admissionfinmarket
-status: enriched
+status: published
 n_mentions: 2
 channels:
   - "Финтехно"
@@ -179,7 +179,7 @@ _Analytical notes (not a post). Importance: 4/5. Freshness: FRESH (canonical pri
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-09]] (2026-10-09).
 <!-- /enrichment:post -->
 
 ## Market Research

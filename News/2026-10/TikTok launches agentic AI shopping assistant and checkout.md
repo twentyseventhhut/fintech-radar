@@ -10,7 +10,7 @@ tags:
   - type/product
 sources:
   - https://www.retaildive.com/news/tiktok-ai-powered-discovery-one-click-checkout/832326
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "This Week in Fintech"
@@ -111,7 +111,7 @@ RetailDive (primary): https://www.retaildive.com/news/tiktok-ai-powered-discover
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-09]] (2026-10-09).
 <!-- /enrichment:post -->
 
 ## Market Research

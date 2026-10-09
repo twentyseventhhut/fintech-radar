@@ -10,7 +10,7 @@ tags:
   - type/product
 sources:
   - https://ondo.finance/blog/introducing-ondo-private-markets
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -153,7 +153,7 @@ Clean strategic line: OUSG/USDY tokenized Treasuries → **Ondo Global Markets /
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-09]] (2026-10-09).
 <!-- /enrichment:post -->
 
 ## Market Research

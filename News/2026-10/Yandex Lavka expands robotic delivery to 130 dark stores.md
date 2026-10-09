@@ -9,7 +9,7 @@ tags:
   - type/product
 sources:
   - https://www.cnews.ru/news/line/2026-10-06_yandeks_lavka_rasshirila
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "42 секунды"
@@ -113,7 +113,7 @@ Importance: 2/5 — A real, concrete RU autonomous-delivery leader scaling (10k-
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-09]] (2026-10-09).
 <!-- /enrichment:post -->
 
 ## Market Research

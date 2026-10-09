@@ -10,7 +10,7 @@ tags:
   - type/product
 sources:
   - https://max.ru/fintexno
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Финтехно"
@@ -114,7 +114,7 @@ Importance: 3/5 — Real, independently confirmed launch and a genuinely novel *
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-09]] (2026-10-09).
 <!-- /enrichment:post -->
 
 ## Market Research

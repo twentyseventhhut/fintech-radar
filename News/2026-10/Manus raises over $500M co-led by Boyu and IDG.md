@@ -10,7 +10,7 @@ tags:
   - type/funding
 sources:
   - https://finance.yahoo.com/technology/ai/articles/china-manus-raises-over-500m-132032598.html
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "This Week in Fintech"
@@ -103,7 +103,7 @@ Sources: https://www.cnbc.com/2026/10/08/manus-fund-raise-meta-muse-tencent.html
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-09]] (2026-10-09).
 <!-- /enrichment:post -->
 
 ## Market Research

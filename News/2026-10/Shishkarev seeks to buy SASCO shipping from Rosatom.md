@@ -9,7 +9,7 @@ tags:
   - type/m-and-a
 sources:
   - https://mergers.ru/news/Sergej-Shishkarev-hochet-vykupit-u-Rosatoma-SASCO-87625
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Mergers.ru"
@@ -186,7 +186,7 @@ Watch for: (1) any Rosatom response (silence so far); (2) whether Rosatom opts t
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-09]] (2026-10-09).
 <!-- /enrichment:post -->
 
 ## Market Research

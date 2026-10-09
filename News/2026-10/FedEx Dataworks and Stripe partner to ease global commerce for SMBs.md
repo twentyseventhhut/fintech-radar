@@ -11,7 +11,7 @@ tags:
   - type/partnership
 sources:
   - https://stripe.com/en-ro/newsroom/news/fedex-and-stripe
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -115,7 +115,7 @@ Importance: 3/5 — real strategic logic (orthogonal physical-logistics signal f
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-09]] (2026-10-09).
 <!-- /enrichment:post -->
 
 ## Market Research

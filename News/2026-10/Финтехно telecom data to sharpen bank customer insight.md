@@ -9,7 +9,7 @@ tags:
   - type/commentary
 sources:
   - https://max.ru/fintexno
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Финтехно"
@@ -124,7 +124,7 @@ Importance: **2/5** — A real, dated forum appearance but fundamentally **comme
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-09]] (2026-10-09).
 <!-- /enrichment:post -->
 
 ## Market Research

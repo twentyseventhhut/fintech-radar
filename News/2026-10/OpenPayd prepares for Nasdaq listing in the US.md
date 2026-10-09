@@ -10,7 +10,7 @@ tags:
   - type/ipo
 sources:
   - https://www.pymnts.com/news/investment-tracker/ipo/2026/openpayd-sets-groundwork-for-2027-us-stock-market-listing
-status: enriched
+status: published
 n_mentions: 2
 channels:
   - "Connecting the Dots in Fintech"
@@ -145,7 +145,7 @@ _Analytical notes (not a post). Importance: 3/5._
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-09]] (2026-10-09).
 <!-- /enrichment:post -->
 
 ## Market Research

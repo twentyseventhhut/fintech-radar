@@ -10,7 +10,7 @@ tags:
   - type/funding
 sources:
   - https://srnnews.com/tencent-mulls-5-billion-bond-sale-to-push-ai-ambitions-bloomberg-news-reports
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "This Week in Fintech"
@@ -106,7 +106,7 @@ Importance: 3/5 — A fresh, distinct financing event with clear read-through to
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-09]] (2026-10-09).
 <!-- /enrichment:post -->
 
 ## Market Research

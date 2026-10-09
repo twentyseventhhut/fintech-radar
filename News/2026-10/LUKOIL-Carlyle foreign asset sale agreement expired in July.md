@@ -10,7 +10,7 @@ tags:
   - type/m-and-a
 sources:
   - https://mergers.ru/news/Soglashenie-o-prodazhe-zarubezhnyh-aktivov-LUKOJLa-investkompanii-Carlyle-isteklo-v-iyule-87627
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Mergers.ru"
@@ -208,7 +208,7 @@ Importance: 4/5 — A ~$20bn forced divestiture of a Russian major's entire fore
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-09]] (2026-10-09).
 <!-- /enrichment:post -->
 
 ## Market Research

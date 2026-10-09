@@ -9,7 +9,7 @@ tags:
   - type/research-report
 sources:
   - https://www.vedomosti.ru/technology/articles/2026/10/06/1234513-vnedrenie-ii-podderzhalo-spros
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "42 секунды"
@@ -123,7 +123,7 @@ Not a company, so "history" = the macro trajectory:
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-09]] (2026-10-09).
 <!-- /enrichment:post -->
 
 ## Market Research

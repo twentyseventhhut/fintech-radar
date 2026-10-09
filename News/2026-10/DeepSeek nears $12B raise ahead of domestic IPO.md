@@ -9,7 +9,7 @@ tags:
   - type/funding
 sources:
   - https://cio.economictimes.indiatimes.com/amp/news/investments/deepseek-to-raise-at-least-12-billion-in-tencent-backed-funding/134725442
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "This Week in Fintech"
@@ -293,7 +293,7 @@ Importance: 3/5 — A genuinely NEW, high-signal capital-markets datapoint: Deep
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-09]] (2026-10-09).
 <!-- /enrichment:post -->
 
 ## Market Research

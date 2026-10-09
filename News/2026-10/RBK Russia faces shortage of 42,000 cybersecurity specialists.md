@@ -8,7 +8,7 @@ tags:
   - type/research-report
 sources:
   - https://companies.rbc.ru/news/GggTQivqXh/v-rossii-defitsit-spetsialistov-po-ib-ne-hvataet-42-tyisyachi-chelovek
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "42 секунды"
@@ -130,7 +130,7 @@ Not a company, so "history" = the drivers of the gap:
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-09]] (2026-10-09).
 <!-- /enrichment:post -->
 
 ## Market Research

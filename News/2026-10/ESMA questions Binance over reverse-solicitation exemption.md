@@ -10,7 +10,7 @@ tags:
   - type/regulation
 sources:
   - https://www.ft.com/content/534b6887-63ac-49c7-a816-a81edd2e8de1
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "This Week in Fintech"
@@ -137,7 +137,7 @@ Importance: 4/5 — a genuinely new, structurally significant escalation: having
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-09]] (2026-10-09).
 <!-- /enrichment:post -->
 
 ## Market Research

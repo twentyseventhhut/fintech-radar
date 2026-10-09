@@ -10,7 +10,7 @@ tags:
   - type/funding
 sources:
   - https://octane.co/o/press-octane-closes-1-4-billion-forward-flow-deal-with-new-york-life-metlife-investment-management-equitable-pacific-life-and-victory-park-capital
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -166,7 +166,7 @@ Importance: 3/5 — A real, sizable (~2x upsize) funding event with two net-new 
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-09]] (2026-10-09).
 <!-- /enrichment:post -->
 
 ## Market Research
