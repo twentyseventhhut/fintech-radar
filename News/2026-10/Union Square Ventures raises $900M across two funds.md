@@ -8,7 +8,7 @@ tags:
   - region/us
   - type/funding
 sources:
-  - https://endeavor.org/stories/why-endeavor-catalyst-raised-320m
+  - https://www.usv.com/writing/the-next-chapter-of-usv
 status: enriched
 n_mentions: 1
 channels:
@@ -27,7 +27,7 @@ freshness: fresh
 
 ## Агрегированный текст (из дайджестов)
 
-[This Week in Fintech] Endeavor Catalystclosed an oversubscribed $320 million fifth fund to back entrepreneurs across its global network.
+[This Week in Fintech] Union Square Venturesraised $900 million across early-stage and opportunity funds to back technology companies, with an expanded focus on AI.
 
 ## Первоисточники
 
@@ -35,7 +35,7 @@ _(нет загруженного полного текста первоисто
 
 ### Прочие ссылки (без извлечённого текста)
 
-- <https://endeavor.org/stories/why-endeavor-catalyst-raised-320m>
+- <https://www.usv.com/writing/the-next-chapter-of-usv>
 
 ## Контекст
 

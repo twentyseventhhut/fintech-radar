@@ -8,7 +8,7 @@ tags:
   - region/europe
   - type/funding
 sources:
-  - https://www.british-business-bank.co.uk/news-and-events/news/british-business-bank-backs-fuel-ventures-multi-fund-vc-built-entrepreneurs
+  - https://www.vestbee.com/insights/articles/psv-tech-secures-56-m
 status: enriched
 n_mentions: 1
 channels:
@@ -22,20 +22,29 @@ freshness: fresh
 
 # PSV Tech closes €56M second fund for Nordic startups
 
-> [!info] 2026-10-10 · 1 упоминаний · 0 источника(ов) с текстом
+> [!info] 2026-10-10 · 1 упоминаний · 1 источника(ов) с текстом
 > Каналы: This Week in Fintech
 
 ## Агрегированный текст (из дайджестов)
 
-[This Week in Fintech] Fuel Venturessecured a £10 million ($13.2 million) commitment from the British Business Bank to support early-stage investments and follow-on funding for U.K. technology companies.
+[This Week in Fintech] PSV Techclosed a €56 million ($62.7 million) second fund to back Nordic startups at the pre-seed and early stages across AI, software and digital infrastructure.
 
 ## Первоисточники
 
-_(нет загруженного полного текста первоисточника)_
+### vestbee.com
+<https://www.vestbee.com/insights/articles/psv-tech-secures-56-m>
+*339 слов · direct*
 
-### Прочие ссылки (без извлечённого текста)
-
-- <https://www.british-business-bank.co.uk/news-and-events/news/british-business-bank-backs-fuel-ventures-multi-fund-vc-built-entrepreneurs>
+Join Vestbee
+The leading platform for startups, VCs, accelerators and corporates in Europe
+Joy Laoun
+News Editor, Vestbee Insights
+PSV Tech secures €56M Fund II to back early-stage Nordic startups
+Copenhagen-based venture capital firm PSV Tech has closed its second fund at €56 million to back Nordic startups at the pre-seed and early stages, with a focus on AI, software, and digital infrastructure.
+Launched in 2020 as part of PSV Venture House and based at the Technical University of Denmark (DTU), PSV Tech invests in startups before they reach product-market fit. The firm is managed by General Partners Helle Uth, Richard Breiter, Alexander Viterbo-Horten, and Christel Piron.
+PSV Tech's first fund made 47 investments, with portfolio companies including Teton and Spektr, which have since raised $20 million Series A rounds.
+In 2025, PSV Tech launched Fund II with a €70 million target to support founders across the Nordics. The fund has now reached its final close at €56 million and has made 19 investments across Denmark, Sweden, and Norway, including 12 over the past nine months.
+With the new capital, PSV Tech aims to continue backing founders at the earliest stages, helping startups develop their products, reach product-market fit, and prepare for subsequent growth funding. The fund saw backing from new LPs Chr. Augustinus Fabrikker and Nordea-fonden, alongside existing investors including ATP, EIFO, IDA, Christian Lund, Henrik Printzlau, Sebastian Knutsson, Morten Ebbesen, and Niels Ebbesen.
 
 ## Контекст
 

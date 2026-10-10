@@ -8,7 +8,7 @@ tags:
   - region/global
   - type/funding
 sources:
-  - https://www.vestbee.com/insights/articles/psv-tech-secures-56-m
+  - https://endeavor.org/stories/why-endeavor-catalyst-raised-320m/
 status: enriched
 n_mentions: 1
 channels:
@@ -22,42 +22,27 @@ freshness: fresh
 
 # Endeavor Catalyst closes $320M fifth fund
 
-> [!info] 2026-10-10 · 1 упоминаний · 1 источника(ов) с текстом
+> [!info] 2026-10-10 · 1 упоминаний · 0 источника(ов) с текстом
 > Каналы: This Week in Fintech
 
 ## Агрегированный текст (из дайджестов)
 
-[This Week in Fintech] PSV Techclosed a €56 million ($62.7 million) second fund to back Nordic startups at the pre-seed and early stages across AI, software and digital infrastructure.
+[This Week in Fintech] Endeavor Catalystclosed an oversubscribed $320 million fifth fund to back entrepreneurs across its global network.
 
 ## Первоисточники
 
-### vestbee.com
-<https://www.vestbee.com/insights/articles/psv-tech-secures-56-m>
-*339 слов · direct*
+_(нет загруженного полного текста первоисточника)_
 
-Join Vestbee
-The leading platform for startups, VCs, accelerators and corporates in Europe
-Joy Laoun
-News Editor, Vestbee Insights
-PSV Tech secures €56M Fund II to back early-stage Nordic startups
-Copenhagen-based venture capital firm PSV Tech has closed its second fund at €56 million to back Nordic startups at the pre-seed and early stages, with a focus on AI, software, and digital infrastructure.
-Launched in 2020 as part of PSV Venture House and based at the Technical University of Denmark (DTU), PSV Tech invests in startups before they reach product-market fit. The firm is managed by General Partners Helle Uth, Richard Breiter, Alexander Viterbo-Horten, and Christel Piron.
-PSV Tech's first fund made 47 investments, with portfolio companies including Teton and Spektr, which have since raised $20 million Series A rounds.
-In 2025, PSV Tech launched Fund II with a €70 million target to support founders across the Nordics. The fund has now reached its final close at €56 million and has made 19 investments across Denmark, Sweden, and Norway, including 12 over the past nine months.
-With the new capital, PSV Tech aims to continue backing founders at the earliest stages, helping startups develop their products, reach product-market fit, and prepare for subsequent growth funding. The fund saw backing from new LPs Chr. Augustinus Fabrikker and Nordea-fonden, alongside existing investors including ATP, EIFO, IDA, Christian Lund, Henrik Printzlau, Sebastian Knutsson, Morten Ebbesen, and Niels Ebbesen.
-The fund saw backing from Bank Gospodarstwa Krajowego, with ICEYE serving as its strategic partner.
-Fuel Ventures has secured a £10 million commitment from the British Business Bank through its Regional Angels Programme.
-September brought one of the CEE's largest funding rounds of 2026, as EnduroSat raised $205 million. Check out the top CEE funding rounds announced during the month.
-The $5 million round was led by Odyssey Ventures, with participation from JSK Investments, 33East, and Alumni Ventures.
-The round was backed by Next Frontier Capital, Grand Ventures, and ACTAI Ventures.
-The round was co-led by Join Capital and PhotonVentures, with participation from Takeoff.
+### Прочие ссылки (без извлечённого текста)
+
+- <https://endeavor.org/stories/why-endeavor-catalyst-raised-320m/>
 
 ## Контекст
 
 <!-- enrichment:context -->
 _Analytical notes (not a post). Importance: 3/5._
 
-> **DATA-HYGIENE FLAG — mis-wired body.** This note's auto-aggregated "Агрегированный текст" and primary source (`vestbee.com/.../psv-tech-secures-56-m`) are WRONG: they describe **PSV Tech**, a Copenhagen pre-seed firm closing a €56M Nordic Fund II — an entirely different entity. All enrichment below is researched externally against the REAL event (Endeavor Catalyst Fund V) and should NOT be read against the mis-wired body. Primary source for the real event: TechCrunch (2026-10-07) + BusinessWire PR.
+> **DATA-HYGIENE NOTE — ingest cross-wiring corrected (2026-10-10).** This note's auto-aggregated "Агрегированный текст" and primary source were originally mis-wired to **PSV Tech** (a shift-by-one assemble bug across the same-day fund-close block); they have been repaired to the real event (**Endeavor Catalyst** Fund V close). The enrichment below was already researched externally against the correct event. Primary source: TechCrunch (2026-10-07) + BusinessWire PR + endeavor.org.
 
 ## [0] What exactly happened (de-PR'd)
 On **2026-10-07** Endeavor Catalyst — the co-investment arm of the nonprofit Endeavor — announced the **final, oversubscribed close of Fund V at $320M**, its largest fund ever and lifting AUM to **>$850M** across five funds (TechCrunch; BusinessWire/Morningstar). ~400 LPs, ~30% of them Endeavor Entrepreneurs; marquee names Reid Hoffman, Bill Ackman, Prosus, plus founders of Nubank, Revolut, Checkout.com, Globant, Careem.
