@@ -13,7 +13,7 @@ sources:
   - https://www.prnewswire.com/news-releases/samsung-partners-with-solana-to-natively-deliver-stablecoins-in-samsung-wallet-to-82-million-us-galaxy-devices-302901200.html
   - https://www.globenewswire.com/news-release/2026/10/08/3376923/0/en/bastion-selected-as-one-of-samsung-wallet-s-stablecoin-partners-providing-regulated-infrastructure-custody-and-cross-border-remittances.html
   - https://www.coinbase.com/blog/coinbase-and-samsung-bring-usdc-to-samsung-wallet
-status: enriched
+status: published
 n_mentions: 4
 channels:
   - "Connecting the Dots in Fintech"
@@ -223,7 +223,7 @@ Roadmap: in-store tap-to-pay and online stablecoin checkout with Galaxy, then mo
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-10]] (2026-10-10).
 <!-- /enrichment:post -->
 
 ## Market Research

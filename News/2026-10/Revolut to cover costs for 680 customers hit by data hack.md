@@ -11,7 +11,7 @@ tags:
 sources:
   - https://www.rte.ie/news/business/2026/1007/1594438-revolut-will-cover-costs-for-customers-hit-by-data-hack
   - https://www.bfmtv.com/economie/replay-emissions/le-grand-entretien/video-beatrice-cossa-dumurgier-revolut-revolut-a-obtenu-une-licence-bancaire-en-france-07-10_VN-202610070203.html
-status: enriched
+status: published
 n_mentions: 2
 channels:
   - "Connecting the Dots in Fintech"
@@ -145,7 +145,7 @@ Importance: 3/5 — Genuinely fresh development with real regulatory hooks (thre
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-10]] (2026-10-10).
 <!-- /enrichment:post -->
 
 ## Market Research

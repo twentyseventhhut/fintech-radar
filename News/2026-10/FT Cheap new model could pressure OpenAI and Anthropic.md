@@ -10,7 +10,7 @@ tags:
   - type/commentary
 sources:
   - https://www.ft.com/content/456884ea-2558-4648-8036-a77b73733430
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "42 секунды"
@@ -130,7 +130,7 @@ Source note is a single-line digest aggregation (channel "42 секунды") po
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-10]] (2026-10-10).
 <!-- /enrichment:post -->
 
 ## Market Research

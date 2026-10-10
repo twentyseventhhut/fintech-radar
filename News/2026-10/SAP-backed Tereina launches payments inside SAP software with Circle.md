@@ -12,7 +12,7 @@ tags:
 sources:
   - https://www.circle.com/pressroom/tereina-an-sap-backed-company-and-circle-bring-usdc-and-eurc-into-enterprise-workflows-starting-with-the-sap-ecosystem-behind-84-of-global-commerce
   - https://www.reuters.com/technology/sap-backed-tereina-launches-payment-service-inside-saps-business-software-2026-10-06
-status: enriched
+status: published
 n_mentions: 2
 channels:
   - "Connecting the Dots in Fintech"
@@ -179,7 +179,7 @@ Near-term: joint Circle–Tereina pilots over "coming months," expansion beyond 
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-10]] (2026-10-10).
 <!-- /enrichment:post -->
 
 ## Market Research

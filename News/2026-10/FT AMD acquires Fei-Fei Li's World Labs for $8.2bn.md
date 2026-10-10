@@ -10,7 +10,7 @@ tags:
   - type/m-and-a
 sources:
   - https://www.ft.com/content/33344fa5-6a25-4d72-8934-528526dd89bd
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "42 секунды"
@@ -112,7 +112,7 @@ Importance: 4/5 — a confirmed ~$8.2bn all-stock deal, AMD's second-largest eve
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-10]] (2026-10-10).
 <!-- /enrichment:post -->
 
 ## Market Research

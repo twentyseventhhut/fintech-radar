@@ -10,7 +10,7 @@ tags:
   - type/commentary
 sources:
   - https://www.tradingview.com/news/seekingalpha:19e80899b094b:0-brazilian-fintech-stocks-surge-as-bolsonaro-s-lead-puts-brazil-on-track-to-shift-right
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -123,7 +123,7 @@ _Unverified: exact %s for STNE/PAGS/INTR/B3 (single-source); poll figures (not f
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-10]] (2026-10-10).
 <!-- /enrichment:post -->
 
 ## Market Research

@@ -11,7 +11,7 @@ tags:
   - type/expansion
 sources:
   - https://fintech.global/2026/10/05/truelayer-powers-instant-top-ups-for-sumup-app-users
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "This Week in Fintech"
@@ -122,7 +122,7 @@ See challenge column (/tmp/chl_truelayer-sumup.md).
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-10]] (2026-10-10).
 <!-- /enrichment:post -->
 
 ## Market Research

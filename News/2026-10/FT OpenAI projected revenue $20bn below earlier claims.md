@@ -9,7 +9,7 @@ tags:
   - type/commentary
 sources:
   - https://www.ft.com/content/b66a9858-f8fb-46cb-b506-44bfe26fca2a
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "42 секунды"
@@ -139,7 +139,7 @@ Importance: 4/5 — A reported (not official) but **investor-document-grounded a
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-10]] (2026-10-10).
 <!-- /enrichment:post -->
 
 ## Market Research

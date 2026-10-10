@@ -10,7 +10,7 @@ tags:
   - type/funding
 sources:
   - https://www.merchantseye.com/news/embargoed-italy-s-cdp-invests-in-truelayer-as-europe-builds-its-own-payment-rail-adf278e0
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -125,7 +125,7 @@ See challenge column (/tmp/chl_truelayer.md).
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-10]] (2026-10-10).
 <!-- /enrichment:post -->
 
 ## Market Research

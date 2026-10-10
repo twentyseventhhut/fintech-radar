@@ -10,7 +10,7 @@ tags:
   - type/regulation
 sources:
   - https://www.wsj.com/finance/banking/wells-fargo-faces-regulator-probe-over-efforts-to-boost-black-homeownership-a337b46e
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "This Week in Fintech"
@@ -94,7 +94,7 @@ WSJ (headline, 2026-10-09); HUD release HUD-26-081 (hud.gov); Reuters/AOL & Bloo
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-10]] (2026-10-10).
 <!-- /enrichment:post -->
 
 ## Market Research

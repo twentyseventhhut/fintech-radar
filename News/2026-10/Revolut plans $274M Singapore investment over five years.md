@@ -9,7 +9,7 @@ tags:
   - type/expansion
 sources:
   - https://www.techinasia.com/revolut-invest-274m-sg-years
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -103,7 +103,7 @@ Importance: 3/5 — a concrete, verifiable regional-hub commitment (signed offic
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-10]] (2026-10-10).
 <!-- /enrichment:post -->
 
 ## Market Research

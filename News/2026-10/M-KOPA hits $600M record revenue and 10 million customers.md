@@ -10,7 +10,7 @@ tags:
   - type/earnings
 sources:
   - https://ffnews.com/news/m-kopa-marks-15-years-with-10-million-customers-and-600m-record-revenue-6c2c790c
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -125,7 +125,7 @@ Continued diversification (e-mobility scaling, insurance), deeper South Africa a
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-10]] (2026-10-10).
 <!-- /enrichment:post -->
 
 ## Market Research

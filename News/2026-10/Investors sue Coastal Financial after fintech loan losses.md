@@ -10,7 +10,7 @@ tags:
   - type/regulation
 sources:
   - https://www.investmentnews.com/regulation-legal-compliance/investors-sue-coastal-financial-after-one-fintech-partner-erases-470m/268468
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "This Week in Fintech"
@@ -179,7 +179,7 @@ Lead-plaintiff deadline **Dec 1, 2026**; multiple firms soliciting (one consolid
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-10]] (2026-10-10).
 <!-- /enrichment:post -->
 
 ## Market Research

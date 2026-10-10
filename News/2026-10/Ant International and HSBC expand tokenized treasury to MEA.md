@@ -11,7 +11,7 @@ tags:
   - type/expansion
 sources:
   - https://www.businesswire.com/news/home/20261005783186/en/Ant-International-and-HSBC-Expand-Real-Time-Treasury-Management-Services-to-the-Middle-East
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -118,7 +118,7 @@ Importance: 3/5 — A real, checkable regional expansion of a live service (new 
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-10]] (2026-10-10).
 <!-- /enrichment:post -->
 
 ## Market Research

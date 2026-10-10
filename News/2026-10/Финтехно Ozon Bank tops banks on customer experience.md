@@ -9,7 +9,7 @@ tags:
   - type/research-report
 sources:
   - https://wciom.ru/analytical-reviews/analiticheskii-obzor/banki-v-cifrovuju-ehpokhu
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Финтехно"
@@ -110,7 +110,7 @@ Rationale: Genuinely fresh (no prior corpus note; a distinct 2026-10-05 VCIOM st
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-10]] (2026-10-10).
 <!-- /enrichment:post -->
 
 ## Market Research

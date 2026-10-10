@@ -9,7 +9,7 @@ tags:
   - type/product
 sources:
   - https://bosfera.ru/press-release/ozon-bank-zapustil-dostavku-nalichnyh-dlya-premialnyh-klientov
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "News & Trends by Sber"
@@ -187,7 +187,7 @@ Importance: 2/5 — A real but minor, me-too premium amenity (T-Bank already doe
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-10]] (2026-10-10).
 <!-- /enrichment:post -->
 
 ## Market Research

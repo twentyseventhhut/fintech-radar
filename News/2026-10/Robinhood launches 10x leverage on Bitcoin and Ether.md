@@ -10,7 +10,7 @@ tags:
   - type/product
 sources:
   - https://pluang.com/en/news-feed/robinhood-perkenalkan-leverage-10x-bitcoin-ether-dampak-pasar-liquidasi-478-juta
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -106,7 +106,7 @@ Logical continuation of the Bitstamp-anchored crypto build: acquisition (~$200M,
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-10]] (2026-10-10).
 <!-- /enrichment:post -->
 
 ## Market Research

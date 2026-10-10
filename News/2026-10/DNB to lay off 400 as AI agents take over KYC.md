@@ -10,7 +10,7 @@ tags:
   - type/layoffs
 sources:
   - https://www.finextra.com/newsarticle/48538/dnb-to-lay-off-400-and-expand-use-of-ai-agents
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "This Week in Fintech"
@@ -111,7 +111,7 @@ Importance: 3/5 — rationale: Real, newly-reported event (fresh for our corpus)
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-10]] (2026-10-10).
 <!-- /enrichment:post -->
 
 ## Market Research

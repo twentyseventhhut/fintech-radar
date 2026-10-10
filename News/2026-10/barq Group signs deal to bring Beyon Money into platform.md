@@ -10,7 +10,7 @@ tags:
   - type/m-and-a
 sources:
   - https://www.zawya.com/en/press-release/companies-news/barq-group-signs-landmark-deal-with-beyon-bringing-beyon-money-into-a-broader-hero-fintech-platform-1554488
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -125,7 +125,7 @@ _Analytical notes (not a post). Importance: 4/5._
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-10]] (2026-10-10).
 <!-- /enrichment:post -->
 
 ## Market Research

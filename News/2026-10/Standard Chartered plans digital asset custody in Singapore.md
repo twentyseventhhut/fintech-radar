@@ -10,7 +10,7 @@ tags:
   - type/product
 sources:
   - https://fintechnews.sg/138723/digitalassets/standard-chartered-digital-asset-custody-singapore
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -121,7 +121,7 @@ _Red-team challenge log. Skeptical; answers cited or marked open._
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-10]] (2026-10-10).
 <!-- /enrichment:post -->
 
 ## Market Research

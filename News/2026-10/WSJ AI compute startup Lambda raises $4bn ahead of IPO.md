@@ -9,7 +9,7 @@ tags:
   - type/funding
 sources:
   - https://www.wsj.com/tech/ai/ai-neocloud-lambda-is-raising-4-billion-in-final-round-before-planned-ipo-568182f9
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "42 секунды"
@@ -110,7 +110,7 @@ Founded **2012** as Lambda Labs (ML workstations/training), pivoted to GPU cloud
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-10]] (2026-10-10).
 <!-- /enrichment:post -->
 
 ## Market Research

@@ -9,7 +9,7 @@ tags:
   - type/m-and-a
 sources:
   - https://bosfera.ru/press-release/t-tehnologii-utverdili-ocenku-tochka-banka-v-848-mlrd-rubley
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "News & Trends by Sber"
@@ -185,7 +185,7 @@ Close and dopemissiya completion expected **end-2026**. Shareholders with pre-em
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-10]] (2026-10-10).
 <!-- /enrichment:post -->
 
 ## Market Research

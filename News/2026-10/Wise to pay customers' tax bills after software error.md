@@ -10,7 +10,7 @@ tags:
   - type/outage-security
 sources:
   - https://www.ft.com/content/681bea76-370b-4cbe-b1aa-239946ae6e4d
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -120,7 +120,7 @@ Importance: 3/5 — A real, verified, dated incident (4,000 UK Assets users, 202
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-10]] (2026-10-10).
 <!-- /enrichment:post -->
 
 ## Market Research

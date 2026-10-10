@@ -10,7 +10,7 @@ tags:
 sources:
   - https://cbr.ru/project_na
   - https://cbr.ru/Queries/XsltBlock/File/90538/6834
-status: enriched
+status: published
 n_mentions: 2
 channels:
   - "Финтехно"
@@ -149,7 +149,7 @@ Importance: 3/5 — A genuinely new, distinct regulatory draft (not a duplicate 
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-10]] (2026-10-10).
 <!-- /enrichment:post -->
 
 ## Market Research

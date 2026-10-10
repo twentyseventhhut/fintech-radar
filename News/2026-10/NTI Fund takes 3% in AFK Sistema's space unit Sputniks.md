@@ -10,7 +10,7 @@ tags:
   - type/m-and-a
 sources:
   - https://www.cnews.ru/news/top/2026-10-08_v_chastnuyu_sputnikovuyu_kompaniyu
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Русский венчур"
@@ -186,7 +186,7 @@ Internal corpus (grep fallback; semsearch down — OpenRouter 402):
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-10]] (2026-10-10).
 <!-- /enrichment:post -->
 
 ## Market Research

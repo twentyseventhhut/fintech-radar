@@ -11,7 +11,7 @@ tags:
   - type/partnership
 sources:
   - https://www.techinasia.com/news/sbi-mesh-money-forward-plan-japan-crypto-payments-joint-venture
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -128,7 +128,7 @@ Importance: 3/5 — A genuinely new (fresh) and strategically logical tie-up amo
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-10]] (2026-10-10).
 <!-- /enrichment:post -->
 
 ## Market Research

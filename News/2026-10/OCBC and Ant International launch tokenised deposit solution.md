@@ -11,7 +11,7 @@ tags:
   - type/product
 sources:
   - https://www.ant-intl.com/en/news/detail
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -109,7 +109,7 @@ Importance: **2/5** — Credible, primary-sourced, and strategically on-trend (A
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-10]] (2026-10-10).
 <!-- /enrichment:post -->
 
 ## Market Research

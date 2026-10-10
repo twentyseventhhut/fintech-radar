@@ -11,7 +11,7 @@ tags:
   - type/m-and-a
 sources:
   - https://thecondia.com/mkopa-acquires-kilipitek-oy-for-8m
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -127,7 +127,7 @@ See challenge column.
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-10]] (2026-10-10).
 <!-- /enrichment:post -->
 
 ## Market Research

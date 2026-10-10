@@ -9,7 +9,7 @@ tags:
   - type/ipo
 sources:
   - https://www.cityam.com/zilch-leaning-towards-london-ipo-as-uk-fintech-calls-in-bankers
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "This Week in Fintech"
@@ -108,7 +108,7 @@ Trajectory: founded 2018 (Philip Belamant); Visa physical card 2025 ([[Zilch and
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-10]] (2026-10-10).
 <!-- /enrichment:post -->
 
 ## Market Research

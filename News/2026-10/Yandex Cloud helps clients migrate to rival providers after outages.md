@@ -9,7 +9,7 @@ tags:
   - type/product
 sources:
   - https://vc.ru/services/3185215-yandeks-soglashenie-s-oblachnymi-provaiderami
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Финтехно"
@@ -132,7 +132,7 @@ Importance: 4/5 — A war-driven, materially damaging, multi-day outage of Russi
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-10]] (2026-10-10).
 <!-- /enrichment:post -->
 
 ## Market Research

@@ -10,7 +10,7 @@ tags:
   - type/commentary
 sources:
   - https://frontlineatlas.io/analysis/briefs/usdkg-a7a5-kyrgyz-crypto-boom
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Финтехно"
@@ -162,7 +162,7 @@ Importance: 4/5 — Forensically specific, multi-source-corroborated (OSC/TRM ar
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-10]] (2026-10-10).
 <!-- /enrichment:post -->
 
 ## Market Research

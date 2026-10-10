@@ -10,7 +10,7 @@ tags:
   - type/m-and-a
 sources:
   - https://www.bloomberg.com/company/press/bloomberg-completes-canoe-intelligence-acquisition-advancing-strategy-to-transform-private-markets-investing
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -106,7 +106,7 @@ Importance: 4/5 — Bloomberg (a dominant data incumbent) making a completed, st
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-10]] (2026-10-10).
 <!-- /enrichment:post -->
 
 ## Market Research
