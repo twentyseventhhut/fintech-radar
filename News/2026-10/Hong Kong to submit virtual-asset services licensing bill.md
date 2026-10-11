@@ -9,7 +9,7 @@ tags:
   - type/regulation
 sources:
   - https://en.bloomingbit.io/feed/news/121598
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -139,7 +139,7 @@ _Importance: 3/5._ A real, sequenced regulatory step for HK's crypto stack, but 
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-11]] (2026-10-11).
 <!-- /enrichment:post -->
 
 ## Market Research

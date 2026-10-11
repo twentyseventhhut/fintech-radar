@@ -9,7 +9,7 @@ tags:
   - type/funding
 sources:
   - https://www.usv.com/writing/the-next-chapter-of-usv
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "This Week in Fintech"
@@ -114,7 +114,7 @@ Importance: 3/5 — A credible, strategically significant repositioning by a sto
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-11]] (2026-10-11).
 <!-- /enrichment:post -->
 
 ## Market Research

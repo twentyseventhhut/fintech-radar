@@ -11,7 +11,7 @@ tags:
 sources:
   - https://noah.com/en
   - https://thepaypers.com/crypto-web3-and-cbdc/news/latvijas-banka-grants-noah-lv-sia-crypto-asset-and-payment-licences
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -209,7 +209,7 @@ Importance: 3/5 — A real, verified, FRESH regulatory milestone (distinct from 
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-11]] (2026-10-11).
 <!-- /enrichment:post -->
 
 ## Market Research

@@ -11,7 +11,7 @@ tags:
 sources:
   - https://noah.com/en/eu
   - https://www.globenewswire.com/news-release/2026/10/07/3376327/0/en/noah-closes-38m-seed-funding-round-as-major-enterprises-move-cross-border-payments-onto-stablecoin.html
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -199,7 +199,7 @@ Importance: 3/5 — A real, fresh event (new $16M, new lead-adjacent investor En
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-11]] (2026-10-11).
 <!-- /enrichment:post -->
 
 ## Market Research

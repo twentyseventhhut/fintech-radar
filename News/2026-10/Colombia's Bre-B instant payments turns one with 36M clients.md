@@ -9,7 +9,7 @@ tags:
   - type/research-report
 sources:
   - https://www.elcolombiano.com/negocios/bre-b-primer-ano-pagos-inmediatos-colombia-KI41948471
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "This Week in Fintech"
@@ -110,7 +110,7 @@ Importance: 4/5 — Flagship LatAm instant-payments story with demonstrable, thi
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-11]] (2026-10-11).
 <!-- /enrichment:post -->
 
 ## Market Research

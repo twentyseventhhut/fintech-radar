@@ -10,7 +10,7 @@ tags:
   - type/product
 sources:
   - https://enginebystarling.com/newsroom/engine-by-starling-powers-tangerine-banks-new-business-client-offering
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -128,7 +128,7 @@ Importance: 3/5 — Real signed→live milestone and Engine's first North Americ
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-11]] (2026-10-11).
 <!-- /enrichment:post -->
 
 ## Market Research

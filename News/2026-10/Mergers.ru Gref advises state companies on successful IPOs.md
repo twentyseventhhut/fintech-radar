@@ -9,7 +9,7 @@ tags:
   - type/commentary
 sources:
   - https://preqveca.ru/news/57461
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Mergers.ru"
@@ -130,7 +130,7 @@ _Red-team challenge log. English._
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-11]] (2026-10-11).
 <!-- /enrichment:post -->
 
 ## Market Research

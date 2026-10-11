@@ -10,7 +10,7 @@ tags:
   - type/m-and-a
 sources:
   - https://www.personio.com/about-personio/press/circula-is-now-part-of-personio
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -107,7 +107,7 @@ Importance: 3/5 — a genuine, fresh M&A that credibly advances the "HR suite ab
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-11]] (2026-10-11).
 <!-- /enrichment:post -->
 
 ## Market Research

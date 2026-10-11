@@ -12,7 +12,7 @@ tags:
 sources:
   - https://newscord.org/article/okx-launches-okx-money-app-with-10-yield-and-stablecoin-card-payments--Story_20261006_OKXMoneyletsuserssav85d6f362
   - https://www.theblock.co/news/business/2026-10-05-okx-ice-joint-venture-tokenized-stock-trading-417613
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "This Week in Fintech"
@@ -155,7 +155,7 @@ Importance: 4/5 — The first concrete *product filing* under the SEC's brand-ne
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-11]] (2026-10-11).
 <!-- /enrichment:post -->
 
 ## Market Research

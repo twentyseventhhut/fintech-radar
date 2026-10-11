@@ -10,7 +10,7 @@ tags:
   - type/funding
 sources:
   - https://www.axios.com/pro/fintech-deals/2026/10/06/navra-mike-cagney-19-million-sofi-defi
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -132,7 +132,7 @@ Importance: 3/5 — A noteworthy, name-driven Series A: Mike Cagney (SoFi + Figu
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-11]] (2026-10-11).
 <!-- /enrichment:post -->
 
 ## Market Research

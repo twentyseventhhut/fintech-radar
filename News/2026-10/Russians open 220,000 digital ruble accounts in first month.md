@@ -10,7 +10,7 @@ tags:
 sources:
   - https://www.reuters.com/business/finance/russians-open-220000-digital-rouble-accounts-first-month-after-launch-central-2026-10-06
   - https://max.ru/fintexno
-status: enriched
+status: published
 n_mentions: 2
 channels:
   - "Connecting the Dots in Fintech"
@@ -111,7 +111,7 @@ Russia's trajectory: law in force Aug 2023 → real-money pilot (15 Aug 2023, ~6
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-11]] (2026-10-11).
 <!-- /enrichment:post -->
 
 ## Market Research

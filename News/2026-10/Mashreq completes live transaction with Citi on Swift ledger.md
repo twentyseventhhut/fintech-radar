@@ -12,7 +12,7 @@ tags:
 sources:
   - https://thepaypers.com/fintech/news/ant-international-pilots-hsbc-tokenised-deposits-in-the-middle-east
   - https://fintechnews.ae/33793/payments/mashreq-citi-swift-tokenised-deposits
-status: enriched
+status: published
 n_mentions: 2
 channels:
   - "This Week in Fintech"
@@ -144,7 +144,7 @@ Copyright
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-11]] (2026-10-11).
 <!-- /enrichment:post -->
 
 ## Market Research

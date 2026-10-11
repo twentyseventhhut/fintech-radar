@@ -10,7 +10,7 @@ tags:
   - type/expansion
 sources:
   - https://www.apple.com/in/newsroom/2026/09/apple-pay-launches-in-india
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "This Week in Fintech"
@@ -117,7 +117,7 @@ Importance: 4/5 — Genuine, long-awaited milestone (first consumer Apple Pay in
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-11]] (2026-10-11).
 <!-- /enrichment:post -->
 
 ## Market Research

@@ -9,7 +9,7 @@ tags:
   - type/earnings
 sources:
   - https://fintechnews.hk/41023/virtual-banking/za-bank-profit-first-half-2026
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "This Week in Fintech"
@@ -109,7 +109,7 @@ Importance: 3/5 — a genuinely FRESH new reporting period (H1-2026, HK$70.6M, +
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-11]] (2026-10-11).
 <!-- /enrichment:post -->
 
 ## Market Research

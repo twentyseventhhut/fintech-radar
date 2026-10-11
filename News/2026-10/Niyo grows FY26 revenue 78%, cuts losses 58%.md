@@ -9,7 +9,7 @@ tags:
   - type/earnings
 sources:
   - https://entrackr.com/news/niyos-income-jumps-78-to-rs-178-cr-in-fy26-12612454
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "This Week in Fintech"
@@ -99,7 +99,7 @@ Importance: 3/5
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-11]] (2026-10-11).
 <!-- /enrichment:post -->
 
 ## Market Research

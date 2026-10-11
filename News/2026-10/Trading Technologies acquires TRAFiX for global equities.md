@@ -10,7 +10,7 @@ tags:
   - type/m-and-a
 sources:
   - https://www.assetservicingtimes.com/assetservicesnews/industryarticle.php
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -111,7 +111,7 @@ TT trajectory: roots in listed derivatives; acquired by 7RIDGE Dec 2021; "multi-
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-11]] (2026-10-11).
 <!-- /enrichment:post -->
 
 ## Market Research

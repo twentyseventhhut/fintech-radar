@@ -10,7 +10,7 @@ tags:
   - type/funding
 sources:
   - https://app.dealroom.co/news/feed/sam-altman-backed-meanwhile-raises-37-5m-at-350m-valuation-for-bitcoin-life-insurance
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -114,7 +114,7 @@ Meanwhile Incorporated — parent of Meanwhile Insurance Bitcoin (Bermuda) Ltd, 
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-11]] (2026-10-11).
 <!-- /enrichment:post -->
 
 ## Market Research

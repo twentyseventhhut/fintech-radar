@@ -10,7 +10,7 @@ tags:
   - type/product
 sources:
   - https://www.businesswire.com/news/home/20261006880188/en/Experian-Unveils-Cashflow-Data-Bureau-to-Power-the-Next-Generation-of-Underwriting
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -120,7 +120,7 @@ Watch for: (1) named Tier-1 lender adoption with disclosed live performance (the
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-11]] (2026-10-11).
 <!-- /enrichment:post -->
 
 ## Market Research

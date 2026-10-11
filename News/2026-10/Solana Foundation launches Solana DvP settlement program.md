@@ -10,7 +10,7 @@ tags:
   - type/product
 sources:
   - https://www.prnewswire.com/news-releases/solana-foundation-launches-solana-dvp-an-atomic-settlement-program-built-for-financial-institutions-302898811.html
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -123,7 +123,7 @@ _Importance: 3/5 — genuinely new, credible framing, but zero traction and no c
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-11]] (2026-10-11).
 <!-- /enrichment:post -->
 
 ## Market Research

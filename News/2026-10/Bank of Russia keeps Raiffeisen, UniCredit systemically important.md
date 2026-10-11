@@ -10,7 +10,7 @@ tags:
   - type/regulation
 sources:
   - https://cbr.ru/banking_sector/credit/systembanks.html
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Финтехно"
@@ -129,7 +129,7 @@ On 2026-10-07 the Bank of Russia (CBR) **retained its SIB list unchanged** for 2
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-11]] (2026-10-11).
 <!-- /enrichment:post -->
 
 ## Market Research

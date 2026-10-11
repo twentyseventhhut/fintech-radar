@@ -10,7 +10,7 @@ tags:
   - type/funding
 sources:
   - https://www.prnewswire.com/news-releases/ledgebrook-raises-usd-200-million-in-primary-equity-financing-co-led-by-allianz-x-to-scale-ai-native-specialty-insurance-platform-302899921.html
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "This Week in Fintech"
@@ -110,7 +110,7 @@ Modal title
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-11]] (2026-10-11).
 <!-- /enrichment:post -->
 
 ## Market Research

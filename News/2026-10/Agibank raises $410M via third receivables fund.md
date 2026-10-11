@@ -10,7 +10,7 @@ tags:
   - type/funding
 sources:
   - https://www.morningstar.com/news/business-wire/20261001688487/agibank-concludes-third-fidc-issuance-totaling-r-21-billion
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "This Week in Fintech"
@@ -195,7 +195,7 @@ Brazilian securitization is booming — 2025 FIDC issuance ~R$90.8bn (+9.5%), th
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-11]] (2026-10-11).
 <!-- /enrichment:post -->
 
 ## Market Research

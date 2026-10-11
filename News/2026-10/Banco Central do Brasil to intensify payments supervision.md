@@ -10,7 +10,7 @@ tags:
   - type/regulation
 sources:
   - https://finsidersbrasil.com.br/regulamentacao/bc-diz-que-vai-intensificar-atuacao-sobre-instituicoes-de-pagamento
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "This Week in Fintech"
@@ -86,7 +86,7 @@ Sources: [finsidersbrasil](https://finsidersbrasil.com.br/regulamentacao/bc-diz-
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-11]] (2026-10-11).
 <!-- /enrichment:post -->
 
 ## Market Research

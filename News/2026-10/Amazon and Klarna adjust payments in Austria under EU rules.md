@@ -11,7 +11,7 @@ tags:
 sources:
   - https://beinsure.com/news/amazon-and-klarna-adjust-payment-services-in-austria
   - https://www.klarna.com/international
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -132,7 +132,7 @@ Operationally concrete and a genuine regulatory inflection (first merchant-side 
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-11]] (2026-10-11).
 <!-- /enrichment:post -->
 
 ## Market Research
