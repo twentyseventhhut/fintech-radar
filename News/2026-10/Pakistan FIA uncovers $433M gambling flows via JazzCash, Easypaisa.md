@@ -11,7 +11,7 @@ tags:
   - type/regulation
 sources:
   - https://www.techjuice.pk/fia-discovers-gambling-transactions-worth-nearly-rs-120-billion-using-jazzcash
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "This Week in Fintech"
@@ -128,7 +128,7 @@ Importance: 3/5 — Large, confirmed, dated law-enforcement event hitting both d
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-12]] (2026-10-12).
 <!-- /enrichment:post -->
 
 ## Market Research

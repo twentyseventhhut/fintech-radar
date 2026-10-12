@@ -9,7 +9,7 @@ tags:
   - type/product
 sources:
   - https://www.tbank.ru/about/news/02102026-t-insurance-has-launched-a-free-home-assistance-service-as-part-of-its-apartment-insurance
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "News & Trends by Sber"
@@ -125,7 +125,7 @@ Importance: 2/5 — A real, on-strategy embedded-services step (free, no-claim h
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-12]] (2026-10-12).
 <!-- /enrichment:post -->
 
 ## Market Research

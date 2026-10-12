@@ -10,7 +10,7 @@ tags:
   - type/product
 sources:
   - https://presse.credit-agricole.com/credit-agricole-accelerates-its-growth-in-germany-with-the-launch-of-credit-agricole-deutschland
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -191,7 +191,7 @@ Importance: 3/5 — a serious strategic commitment (ACT 2028 flagship, €30bn G
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-12]] (2026-10-12).
 <!-- /enrichment:post -->
 
 ## Market Research

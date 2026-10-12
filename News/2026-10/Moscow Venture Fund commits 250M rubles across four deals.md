@@ -8,7 +8,7 @@ tags:
   - region/ru
   - type/funding
 sources:
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Русский венчур"
@@ -94,7 +94,7 @@ Backdrop is grim and decisive: Russian VC fell ~48% YoY in H1 2026 to ~4.6bn RUB
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-12]] (2026-10-12).
 <!-- /enrichment:post -->
 
 ## Market Research

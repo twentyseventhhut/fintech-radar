@@ -10,7 +10,7 @@ tags:
   - type/regulation
 sources:
   - https://www.finextra.com/newsarticle/48562/amex-hit-with-350m-penalty-for-aml-deficiencies
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -117,7 +117,7 @@ Benchmarked against the major-bank AML cohort (source dates):
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-12]] (2026-10-12).
 <!-- /enrichment:post -->
 
 ## Market Research

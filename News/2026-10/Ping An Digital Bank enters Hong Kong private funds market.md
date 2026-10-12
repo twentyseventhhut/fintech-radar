@@ -12,7 +12,7 @@ tags:
 sources:
   - https://www.techinasia.com/news/ping-digital-bank-enters-private-funds-market
   - https://fintechnews.hk/41192/virtual-banking/ping-an-digital-bank-private-funds-hong-kong
-status: enriched
+status: published
 n_mentions: 2
 channels:
   - "Connecting the Dots in Fintech"
@@ -111,7 +111,7 @@ Trajectory: Ping An OneConnect Bank (PAOB) got its HKMA virtual-bank licence May
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-12]] (2026-10-12).
 <!-- /enrichment:post -->
 
 ## Market Research

@@ -10,7 +10,7 @@ tags:
   - type/product
 sources:
   - https://www.santander.com/en/press-room/press-releases/2026/10/getnet-simplifies-european-expansion-for-merchants-with-one-payments-integration
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -227,7 +227,7 @@ Getnet: founded Brazil 2003, Santander took control 2013. In Europe since **July
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-12]] (2026-10-12).
 <!-- /enrichment:post -->
 
 ## Market Research

@@ -10,7 +10,7 @@ tags:
   - type/regulation
 sources:
   - https://crypto.news/rain-seeks-u-s-trust-bank-amid-crypto-charter-lawsuit
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -120,7 +120,7 @@ Rain's own trajectory: [[Rain raises $250M Series C at $1.95B valuation]], [[Rai
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-12]] (2026-10-12).
 <!-- /enrichment:post -->
 
 ## Market Research

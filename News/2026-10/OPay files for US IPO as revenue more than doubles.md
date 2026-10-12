@@ -9,7 +9,7 @@ tags:
   - type/ipo
 sources:
   - https://www.reuters.com/world/asia-pacific/softbank-backed-opay-reveals-revenue-rise-us-ipo-filing-2026-10-09
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "This Week in Fintech"
@@ -138,7 +138,7 @@ Importance: 4/5 — Genuinely new event: the FIRST audited financials for a majo
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-12]] (2026-10-12).
 <!-- /enrichment:post -->
 
 ## Market Research

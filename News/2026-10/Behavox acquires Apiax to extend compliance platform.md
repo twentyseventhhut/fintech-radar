@@ -10,7 +10,7 @@ tags:
   - type/m-and-a
 sources:
   - https://www.businesswire.com/news/home/20261008704401/en/Behavox-Acquires-Apiax-Extending-Its-Controls-Platform-into-Cross-Border-and-Content-Compliance
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -103,7 +103,7 @@ Regtech M&A is hot: ~54 regtech acquisitions in 2025, ~23 in H1 2026; sector rai
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-12]] (2026-10-12).
 <!-- /enrichment:post -->
 
 ## Market Research

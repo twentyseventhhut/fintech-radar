@@ -11,7 +11,7 @@ tags:
   - type/funding
 sources:
   - https://www.finextra.com/newsarticle/48553/nasdaq-ventures-invests-in-one-trading
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -114,7 +114,7 @@ Nasdaq Ventures (the strategic/VC arm of Nasdaq Inc.) made an **early-stage stra
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-12]] (2026-10-12).
 <!-- /enrichment:post -->
 
 ## Market Research

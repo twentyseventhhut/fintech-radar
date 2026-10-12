@@ -8,7 +8,7 @@ tags:
   - type/research-report
 sources:
   - https://bitcoinke.io/2026/10/singapore-crypto-economy-in-h1-2026
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "This Week in Fintech"
@@ -112,7 +112,7 @@ Importance: 3/5 — a real, measured, fresh regional data point from a credible 
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-12]] (2026-10-12).
 <!-- /enrichment:post -->
 
 ## Market Research

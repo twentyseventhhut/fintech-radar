@@ -9,7 +9,7 @@ tags:
   - type/product
 sources:
   - https://www.okx.com/en-eu/learn/okx-money-launch-select-markets
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -128,7 +128,7 @@ OKX frames this as "the first step in a longer program," expanding market-by-mar
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-12]] (2026-10-12).
 <!-- /enrichment:post -->
 
 ## Market Research

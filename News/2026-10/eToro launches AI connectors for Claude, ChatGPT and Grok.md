@@ -10,7 +10,7 @@ tags:
   - type/product
 sources:
   - https://www.zawya.com/en/press-release/companies-news/etoro-launches-connectors-for-claude-chatgpt-grok-and-grok-bot-1586591
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -133,7 +133,7 @@ Importance: 3/5 — Genuinely first-of-kind for a retail broker exposing a live 
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-12]] (2026-10-12).
 <!-- /enrichment:post -->
 
 ## Market Research

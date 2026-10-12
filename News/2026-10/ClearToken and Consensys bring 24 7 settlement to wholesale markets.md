@@ -11,7 +11,7 @@ tags:
   - type/partnership
 sources:
   - https://www.finextra.com/pressarticle/111198/cleartoken-and-consensys-bring-247-settlement-infrastructure-to-wholesale-markets
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -119,7 +119,7 @@ Importance: 3/5 — Credible, well-regulated player (FCA-authorised, BoE DSS Gat
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-12]] (2026-10-12).
 <!-- /enrichment:post -->
 
 ## Market Research

@@ -10,7 +10,7 @@ tags:
   - type/m-and-a
 sources:
   - https://www.finextra.com/pressarticle/111207/avatrade-to-acquire-majority-of-fxcms-business
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "This Week in Fintech"
@@ -113,7 +113,7 @@ Importance: 3/5 — Symbolically significant: the final dismantling of a once-do
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-12]] (2026-10-12).
 <!-- /enrichment:post -->
 
 ## Market Research

@@ -9,7 +9,7 @@ tags:
   - type/regulation
 sources:
   - https://crypto.news/france-advances-stablecoin-tax-plan-and-10-year-crypto-loss-relief
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -171,7 +171,7 @@ Floor debate on PLF 2027 revenue ran ~Oct 13–20; final budget targeted by Dec 
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-12]] (2026-10-12).
 <!-- /enrichment:post -->
 
 ## Market Research

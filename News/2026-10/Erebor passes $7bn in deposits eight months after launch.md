@@ -10,7 +10,7 @@ tags:
   - type/product
 sources:
   - https://www.ft.com/content/42b6fa88-f730-4f8a-a194-8f53d0759aaf
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Fintech Brainfood"
@@ -107,7 +107,7 @@ Importance: 4/5 — Marquee, politically-charged name (Luckey/Thiel/Lonsdale) hi
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-12]] (2026-10-12).
 <!-- /enrichment:post -->
 
 ## Market Research

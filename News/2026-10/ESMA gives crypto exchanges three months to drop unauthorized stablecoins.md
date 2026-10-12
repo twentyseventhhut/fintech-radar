@@ -10,7 +10,7 @@ tags:
   - type/regulation
 sources:
   - https://finance.yahoo.com/markets/crypto/articles/eu-gives-crypto-exchanges-3-120054718.html
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -107,7 +107,7 @@ Importance: 4/5 — A region-wide, named-regulator escalation against the #1 sta
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-12]] (2026-10-12).
 <!-- /enrichment:post -->
 
 ## Market Research

@@ -9,7 +9,7 @@ tags:
   - type/regulation
 sources:
   - https://www.business-standard.com/industry/news/irdai-may-roll-out-insurance-distribution-reforms-in-jan-2027-amid-backlash-126100900175_1.html
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "This Week in Fintech"
@@ -137,7 +137,7 @@ Watch: **25 Oct 2026** feedback deadline; final notification; whether the effect
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-12]] (2026-10-12).
 <!-- /enrichment:post -->
 
 ## Market Research

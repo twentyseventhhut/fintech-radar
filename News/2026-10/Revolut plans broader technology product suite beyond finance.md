@@ -9,7 +9,7 @@ tags:
   - type/product
 sources:
   - https://www.fintechfutures.com/regulatory-actions/rain-submits-occ-application-to-establish-new-york-trust-bank
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "This Week in Fintech"
@@ -113,7 +113,7 @@ Importance: 3/5 - A CEO vision statement (Turin, 2026-10-09) reframing Revolut a
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-12]] (2026-10-12).
 <!-- /enrichment:post -->
 
 ## Market Research

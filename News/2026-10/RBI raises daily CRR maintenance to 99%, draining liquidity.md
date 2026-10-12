@@ -9,7 +9,7 @@ tags:
   - type/regulation
 sources:
   - https://economictimes.indiatimes.com/industry/banking/finance/banking/rbi-raises-average-crr-maintenance-requirement-for-banks/articleshow/134835864.cms
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "This Week in Fintech"
@@ -111,7 +111,7 @@ Importance: 3/5 — a real, dated, specific regulatory liquidity action and a ge
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-12]] (2026-10-12).
 <!-- /enrichment:post -->
 
 ## Market Research

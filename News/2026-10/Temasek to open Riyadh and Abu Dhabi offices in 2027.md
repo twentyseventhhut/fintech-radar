@@ -9,7 +9,7 @@ tags:
   - type/expansion
 sources:
   - https://www.reuters.com/world/asia-pacific/singapores-temasek-open-riyadh-abu-dhabi-offices-middle-east-expansion-2026-09-30
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "This Week in Fintech"
@@ -108,7 +108,7 @@ Importance: 3/5 — A top-tier (~US$405B) sovereign investor planting permanent 
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-12]] (2026-10-12).
 <!-- /enrichment:post -->
 
 ## Market Research

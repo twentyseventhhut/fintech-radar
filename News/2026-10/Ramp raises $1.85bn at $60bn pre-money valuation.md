@@ -10,7 +10,7 @@ tags:
   - type/funding
 sources:
   - https://www.bloomberg.com/news/articles/2026-10-09/ramp-hits-60-billion-valuation-in-1-85-billion-funding-round
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "This Week in Fintech"
@@ -87,7 +87,7 @@ So the valuation has roughly **4.6x'd in ~16 months** ($13bn → $60bn). The $1.
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-12]] (2026-10-12).
 <!-- /enrichment:post -->
 
 ## Market Research

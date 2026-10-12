@@ -10,7 +10,7 @@ tags:
   - type/m-and-a
 sources:
   - https://www.altoira.com/news/alto-to-acquire-forge-trust
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "This Week in Fintech"
@@ -119,7 +119,7 @@ Alto: founded **2015** (Eric Satz), platform launched 2018. Funding: **Series A 
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-12]] (2026-10-12).
 <!-- /enrichment:post -->
 
 ## Market Research

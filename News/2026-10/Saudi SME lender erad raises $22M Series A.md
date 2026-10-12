@@ -9,7 +9,7 @@ tags:
   - type/funding
 sources:
   - https://erad.co/en/blog/erad-raises-22-million-series-a-led-by-mevp
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "This Week in Fintech"
@@ -119,7 +119,7 @@ Importance: 3/5 — A well-funded, legitimate Saudi SME-lending challenger raisi
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-12]] (2026-10-12).
 <!-- /enrichment:post -->
 
 ## Market Research
