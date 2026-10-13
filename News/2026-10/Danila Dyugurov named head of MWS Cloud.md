@@ -10,13 +10,15 @@ tags:
   - type/leadership
 sources:
   - https://www.kommersant.ru/doc/9025056
-status: tagged
+status: enriched
 n_mentions: 1
 channels:
   - "42 секунды"
 story_id: s60e7ce9a
 month: 2026-10
-enriched: false
+enriched: true
+importance: 2
+freshness: fresh
 ---
 
 # Danila Dyugurov named head of MWS Cloud
@@ -461,13 +463,38 @@ Beeline Cloud возглавил рейтинг провайдеров авар�
 ## Контекст
 
 <!-- enrichment:context -->
-_(пусто — заполняется при обогащении)_
+**[0] What happened (dated).** On 2026-10-13 MWS Cloud — the cloud-provider arm of MTS Web Services (MWS), the IT vertical of telecom group MTS — named **Danila Dyugurov** General Director. He replaces **Evgeny Kolbin**, who leaves to build "his own international fintech project." Dyugurov was MWS Cloud's CTO and led the build-out of the MWS Cloud Platform; as CEO he owns strategy, revenue and client-base growth, and further platform + AI development (sources: [kommersant.ru/doc/9025056](https://www.kommersant.ru/doc/9025056); [comnews.ru](https://www.comnews.ru/content/247836/2026-10-13/2026-w42/1010/danila-dyugurov-naznachen-generalnym-direktorom-mws-cloud); [cnews.ru](https://www.cnews.ru/news/line/2026-10-13_danila_dyugurov_naznachen)).
+
+**[1] Who is Danila Dyugurov.** ~20 years in IT. **2007–2023 at Yandex**: search-quality eval tools, internal container/infra platform, then led several Yandex Cloud directions (containers, serverless, public-cloud launch). **Joined MWS in 2023** as CTO specifically to build MTS's public cloud from scratch, assembling a ~500-person engineering team. The **MWS Cloud Platform went generally available in October 2025** under his technical lead. Pavel Voronin (MWS CEO): his "primary task … is to ensure continued growth of the cloud business."
+
+**[2] Who is Evgeny Kolbin (the predecessor) — and a date nuance.** Kolbin was CEO of **Cloud.ru (ex-SberCloud) in 2020–2026**. In **February 2026** he joined MWS's board and became **executive director of the MWS IT vertical** ([comnews 2026-02-20](https://www.comnews.ru/content/243909/2026-02-20/2026-w08/1010/evgeniy-kolbin-stal-chlenom-pravleniya-i-ispolnitelnym-direktorom-mws)); Kommersant frames this as having "headed MWS Cloud since February 2026." He exits after ~8 months to pursue an international fintech venture. Note: a direct Cloud.ru → MWS Cloud move is notable given Cloud.ru and MWS Cloud are competitors that also cooperate (they, with Beeline Cloud, launched a multi-cloud secure-transfer channel in 2026).
+
+**[3] Scale / why it matters (MTS cloud strategy).** MWS unites MTS's IT assets — **MWS Cloud, MWS AI, MTS Digital, Big Data** — under Pavel Voronin. **2025: MWS total revenue 63.8 bn ₽, external revenue +53%, MWS Cloud revenue +40% YoY, MWS AI +60%** ([mws.ru](https://mws.ru/news/vneshnyaya-vyruchka-mts-web-services-v-2025-godu-vyrosla-na-53/)). Per Kommersant, MWS Cloud 2025 OIBDA +103% (>2x; absolute revenue undisclosed), service availability 99.99%; GPU-cloud revenue ×1.6, Cloud CDN ×3.3, 1C-based products ×2. **Q2 2026**: MWS Cloud revenue +20% YoY, MWS total revenue up to 15 bn ₽ with external revenue +18%. MTS is pushing cloud/AI as the growth engine of its "telco → digital ecosystem" pivot; MWS Cloud sits at the center of that bet.
+
+**[4] Related internal notes.** [[MTS bundles enterprise solutions under MTS CorpTech brand]] (2026-10-12 — MTS's B2B umbrella brand incl. cloud/AI/IIoT); [[MWS Cloud deploys GLM-5.2 on its own infrastructure]] (2026-07-17 — AI-model expansion); [[MWS Cloud launches fastest S3 storage for ML workloads]] (2026-07-02 — ML-infra product); [[MWS AI opens RESON speech-recognition model evaluation tool]] (2026-10 — sibling MWS AI unit); [[Yandex Cloud helps clients migrate to rival providers after outages]] (2026-10-09 — competitive context; Dyugurov is ex-Yandex Cloud).
 <!-- /enrichment:context -->
 
 ## Челлендж / ред-тим
 
 <!-- enrichment:challenge -->
-_(пусто)_
+**Red-team questions**
+
+1. Is this a genuine CEO change or a cosmetic title shuffle? (Dyugurov was already CTO building the platform — how much real strategic shift does this signal?)
+2. Kommersant says Kolbin "headed MWS Cloud since February 2026," but Feb-2026 sources say he became executive director of the whole MWS vertical / board member. Did he actually run MWS Cloud day-to-day, or is the note conflating vertical-level and unit-level roles?
+3. ~8-month tenure for Kolbin is short. Is the "leaving for an international fintech project" line the full story, or is it a managed exit? No corroborating source names the fintech project.
+4. Is "international fintech project" even verifiable? Under sanctions, how credible is a Russia-based exec launching an *international* fintech venture?
+5. MWS Cloud does not disclose absolute revenue — only growth rates (+40% 2025, +20% Q2 2026). Off a small base, these percentages could flatter a still-minor player. What is the actual ruble size?
+6. OIBDA +103% is from what base? Doubling a near-zero or negative OIBDA is far less meaningful than the headline suggests.
+7. How does MWS Cloud rank vs Cloud.ru, Yandex Cloud, VK Cloud, Beeline Cloud in Russian IaaS/PaaS market share? The note gives growth but no position.
+8. Dyugurov is ex-Yandex Cloud; the sibling note shows Yandex Cloud suffering outages and losing clients. Is MWS Cloud positioned to capture that churn, and is this appointment timed to that opportunity?
+9. Conflict/competition nuance: Cloud.ru (Kolbin's old employer) and MWS Cloud both compete and co-operate (multi-cloud channel). Does leadership churn between rivals raise any IP/competitive-sensitivity concerns?
+10. Is the GA of MWS Cloud Platform (Oct 2025) actually mature, or early-stage? "Built from scratch since 2023" + GA one year ago means a young platform.
+11. Does the single primary source (Kommersant, author Filipp Krupanin) rely on MWS's press service? Every outlet appears to carry the same MWS release — single-source risk.
+12. Fintech relevance: this is telecom/cloud-infra leadership, not a direct fintech event. Why is it in a fintech radar? (Infra underpinning fintech workloads; MTS's broader fintech ambitions.)
+13. Any governance signal — does rapid leadership turnover at MWS Cloud (Feb→Oct 2026) indicate instability in MTS's cloud strategy?
+14. Does the appointment change customer, pricing, or product roadmap, or is it purely internal personnel news with no market impact?
+
+**Importance: 2/5 — rationale.** A single-source, press-release-driven leadership appointment at a Russian cloud subsidiary. Well-documented and cross-verified on facts, but it is personnel news with no disclosed financials of real size, no direct fintech action, and limited market-moving signal. Mild interest comes from the MTS cloud/AI growth narrative and the ex-Yandex-Cloud pedigree amid rival outages — not enough to lift it above routine.
 <!-- /enrichment:challenge -->
 
 ## Связь с постом
@@ -479,11 +506,54 @@ _(пусто)_
 ## Market Research
 
 <!-- enrichment:market_research -->
-_(пусто)_
+**Sector & drivers.** MWS Cloud sits in the Russian IaaS/PaaS + public-cloud market, which is growing fast under import-substitution. Per MWS Cloud's own analytics (via TAdviser), the Russian IaaS/PaaS segment reached RUB 226.9bn in 2025, +~37% YoY; the broader Russian cloud-services market was ~RUB 416.5bn, +32.8% (per iKS-Consulting, via TAdviser, as of 2025). "Why now": the 2022+ exodus of AWS/Azure/GCP left domestic providers to capture migrating enterprise and government workloads, and a fresh catalyst arrived in Oct 2026 — the Yandex data-center outages that pushed clients to seek alternate providers ([[Yandex Cloud helps clients migrate to rival providers after outages]]). Structure is consolidating around a handful of scaled players (Cloud.ru, Yandex Cloud, Rostelecom, Selectel, MWS Cloud); entry barriers are high and rising — capex on data centers + GPU, regulatory data-localization, and network effects around managed services.
+
+**Competitive landscape.** Sector KPIs: revenue growth, OIBDA/EBITDA margin, external-vs-captive revenue mix, GPU-cloud capacity, uptime/SLA. Share picture depends on the cut: by public-cloud revenue Yandex Cloud leads (~24%), Cloud.ru ~14%, Rostelecom ~9% (per iKS-Consulting, via TAdviser, 2025); by IaaS/PaaS iKS ranks Cloud.ru first (~32.5%). Peer scale (2025, per each company's reporting via press): Cloud.ru RUB ~76.5bn revenue (+50%); Yandex Cloud RUB 27.6bn (+39%, ~93% external); Selectel RUB 18.3bn (+39%, adj. EBITDA margin ~53%). MWS Cloud is a disruptor/catch-up player: its public cloud (MWS Cloud Platform) only went generally available in Oct 2025, so it is late to market but scaling off the MTS balance sheet, brand, and enterprise channel (now cross-sold via MTS CorpTech, [[MTS bundles enterprise solutions under MTS CorpTech brand]], and paired with MWS AI, [[MWS AI opens RESON speech-recognition model evaluation tool]]). Basis of competition: product breadth + GPU availability + distribution via the telco's existing B2B base, less price. Moat `(analysis)`: distribution + capital access from parent MTS; weak on switching costs given the platform's youth.
+
+**Comps & multiples.** PRIMARY IR evidence (MTS/MWS official reporting): MWS (MTS Web Services) FY2025 revenue RUB 63.8bn, +40% YoY; external revenue +53%; OIBDA more than doubled (per MWS/MTS, via Telecompaper & kod.ru, as of 2026-03). MWS Cloud sub-segment specifically: revenue +40% YoY and OIBDA +103% in 2025, GPU-cloud revenue ×1.6, Cloud CDN ×3.3, 1C-based products ×2, uptime 99.99% (per Kommersant primary source + MWS, 2026-10). Q2 2026: MWS Cloud revenue +20% YoY; group MWS revenue reached RUB 15bn with external revenue +18% (per note primary source / akm.ru). NOTE: MWS does NOT disclose MWS Cloud's absolute revenue → segment revenue multiple = **no data**. Latest MTS group IR doc is Q1 2026 Press Release, 2026-05-20 (https://storage.ir.mts.ru/mts-ir/images/documents/results/MTS_1Q_2026_Press_release_RUS.pdf) — PDF not text-extractable here, so quarter-point MWS figures taken from MWS/press secondary citations.
+
+Peer valuation anchors (private/secondary, mark as round/transaction values, not market cap):
+- Selectel — reported secondary-sale valuation ~$2.6bn (Dec 2025, per multiples.vc). Sanity check: 2025 revenue RUB 18.3bn ≈ $0.22bn at ~RUB 83/$ → implied EV/Revenue ≈ `$2.6bn / $0.22bn ≈ 12x` (multiples.vc states 19.7x). The gap means the inputs don't reconcile on a free basis → treat as `[UNSOURCED]` / indicative only, do NOT anchor MWS to it.
+- Cloud.ru — no equity valuation; funding via bonds (Oct 2026 exchange-bond issue upsized to RUB 20bn on 3x demand, per Dealroom). 1H2026 EBITDA RUB 27.5bn, margin ~73% (per press) — a profitability benchmark, not a multiple.
+
+With only one indicative (and non-reconciling) peer multiple, distribution not computed → qualitative comparison only: Russian cloud pure-plays trade/transact rich on revenue reflecting 39–50% growth, but MWS Cloud's own multiple is **no data** (undisclosed absolute revenue).
+
+**Risk flags.**
+1. **Disclosure opacity / valuation blind spot** — MWS Cloud's absolute revenue is undisclosed, so growth rates (+40%, +20%) cannot be anchored to a base or a multiple; investors can't size the unit or verify margin trajectory. Second-order: MTS can frame the narrative, and any slowdown is hard to detect externally.
+2. **Leadership churn at a fragile stage** — second CEO change in 2026 (Kolbin, in post only since Feb 2026, departs; Dyugurov promoted from CTO). The platform is <1yr into general availability; rapid top-of-house turnover raises execution risk right as the unit tries to convert the post-Yandex-outage demand window.
+3. **Late-mover + capital/GPU intensity** — MWS Cloud entered GA in Oct 2025 vs. incumbents with years of scale and far larger revenue bases (Cloud.ru ~RUB 76.5bn, Yandex Cloud RUB 27.6bn). Catching up requires sustained data-center/GPU capex funded off MTS — a dividend-paying, leveraged parent — so cloud ambitions compete with group cash-return and debt-service priorities.
+
+**What this changes (idea-lens).** `(analysis)` This is a consolidation/catch-up story: MTS is institutionalizing a telco-to-cloud pivot, promoting a builder (Dyugurov led MWS Cloud Platform and earlier Yandex Cloud's launch) to industrialize a unit that just hit GA. Falsifiable thesis: if MWS Cloud sustains >30% revenue growth AND MTS starts disclosing its absolute revenue within 2–3 quarters, it re-rates as a credible #4–5 player; trigger/catalyst = capturing displaced Yandex-outage workloads. What breaks it: continued non-disclosure + a third leadership change, signaling the unit is a cost center, not a growth engine.
+
+Sources: https://www.kommersant.ru/doc/9025056 · https://tadviser.com/index.php/Article:Cloud_services_(Russian_market) · https://www.telecompaper.com/news/mws-revenues-up-40-in-2025--1564570 · https://kod.ru/mts-web-services-plans-growth · https://storage.ir.mts.ru/mts-ir/images/documents/results/MTS_1Q_2026_Press_release_RUS.pdf · https://multiples.vc/private-comps/selectel · https://app.dealroom.co/news/note/cloud-ru-doubles-bond-issue-to-235m-on-strong-demand
 <!-- /enrichment:market_research -->
 
 ## Earnings Review
 
 <!-- enrichment:earnings_review -->
-_(пусто)_
+**Verdict (context-only).** This is a leadership appointment (Dyugurov replaces Kolbin as CEO of MWS Cloud), not an earnings event — no standalone results. Folded in: parent MTS (mts) latest reported print (Q1 2026) and the MWS segment figures the news itself carries. MTS group Q1 2026 revenue RUB 201.3bn (+14.7% YoY), OIBDA RUB 74.7bn (+18.0% YoY), net profit RUB 7.2bn (+46.4% YoY) — a solid in-line/beat-ish quarter with net profit as the standout. MWS/cloud remains a fast-growing but still unbroken-out digital segment; MTS does not disclose MWS Cloud's absolute revenue.
+
+**Key figures (parent MTS, Q1 2026, the latest MTS filing — released 2026-05-20).**
+- Group revenue: RUB 201.3bn, +14.7% YoY.
+- OIBDA: RUB 74.7bn, +18.0% YoY (OIBDA growing faster than revenue → positive operating leverage; implied margin ~37%).
+- Net profit: RUB 7.2bn, +46.4% YoY (recovery off a weak base; driven by operating leverage, partly offset by high rates).
+- MTS does not break out MWS Cloud's absolute revenue or OIBDA in the group press release; the cloud/digital line sits inside the B2B digital cluster.
+
+**MWS / cloud segment (from the news + MWS's own Q2 2026 disclosure).**
+- FY2025 (reported in the note): MWS Cloud revenue +40% YoY, OIBDA +103% YoY (more than doubled) — absolute revenue not disclosed. Cloud availability 99.99%; GPU cloud infra revenue x1.6, Cloud CDN x3.3, 1C-based cloud products x2.
+- Q2 2026 (press): MWS total revenue RUB 15bn, external revenue +18% YoY; MWS Cloud external revenue +20% YoY; MWS AI external revenue +71% YoY; cybersecurity external revenue +53% YoY. AI, cloud and application-platform solutions cited as the main drivers.
+- Read: cloud is decelerating in relative terms (+40% FY2025 → +20% in Q2 2026) as the base matures, while AI (+71%) is now the faster-growing sibling inside MWS. MWS Cloud Platform only became generally available in October 2025, so the +20% is off an early-stage, still-small base.
+
+**By segment / driver.** Group OIBDA growth (+18.0%) outrunning revenue (+14.7%) says the B2B/digital mix (incl. MWS) and connectivity pricing are both contributing, not just tariffs. Within MWS the growth engine is rotating from pure IaaS cloud toward AI and security — relevant to the thesis that MTS's "second leg" is a diversified cloud+AI platform, not a single-product cloud reseller.
+
+**vs expectations / prior period.** No public sell-side consensus is tracked for MTS cloud on free aggregators [UNSOURCED]. Qualitatively: group Q1 2026 (+14.7% revenue) is broadly in line with MTS's recent double-digit-growth trajectory; net profit +46.4% is the upside surprise vs prior year. MWS Cloud's deceleration (+40% → +20%) is the one genuine negative-direction datapoint, though expected as the platform scales past its launch year.
+
+**Guidance / forward.** No MWS-specific or group FY2026 guidance disclosed in the material reviewed [UNSOURCED]. Independent read (analysis): with MWS Cloud GA'd only a year ago and AI/security compounding faster, MWS's blended external growth should hold near the high-teens-to-20% range near-term; the leadership change (ex-CTO who built MWS Cloud Platform taking the CEO seat) signals product-continuity rather than a strategic reset.
+
+**Thesis-flags.**
+1. Cloud deceleration (+40% FY2025 → +20% external in Q2 2026) — fact → base is maturing → matters because MWS Cloud is MTS's showcase B2B growth story → second-order: if AI (+71%) and security (+53%) don't keep pulling the MWS blended rate up, the "digital second leg" narrative loses momentum just as capex into GPU/cloud stays high.
+2. Non-disclosure of MWS Cloud absolute revenue — management touts growth % and OIBDA x2 but stays silent on the ruble base → de-PR flag: percentages off an undisclosed small base flatter the story; hard to size the segment's contribution to group OIBDA.
+3. Founder-operator continuity at the top (Dyugurov built the platform; predecessor Kolbin, ex-Cloud.ru CEO, leaves for his own fintech venture) — lowers execution risk on the existing roadmap but adds a question on whether a technical CEO accelerates the commercial/go-to-market function Kolbin was credited with building.
+
+Sources: MTS Q1 2026 press release (IR, 2026-05-20) <https://storage.ir.mts.ru/mts-ir/images/documents/results/MTS_1Q_2026_Press_release_RUS.pdf> (PDF would not text-extract; group figures corroborated via Telecompaper <https://www.telecompaper.com/news/mts-group-revenues-up-15-in-q1--1571944>) · MWS Q2 2026 segment figures <https://www.akm.ru/eng/news/mts-web-services-external-revenue-increased-by-18-in-the-second-quarter/> · MWS Cloud FY2025 figures from the note source (Kommersant) <https://www.kommersant.ru/doc/9025056> · public sell-side consensus for MTS cloud: no data [UNSOURCED].
 <!-- /enrichment:earnings_review -->
