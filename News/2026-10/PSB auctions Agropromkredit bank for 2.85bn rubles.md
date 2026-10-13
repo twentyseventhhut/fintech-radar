@@ -10,7 +10,7 @@ tags:
   - type/m-and-a
 sources:
   - https://mergers.ru/news/PSB-vystavil-na-aukcion-bank-Agropromkredit-za-285-mlrd-rub-87637
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Mergers.ru"
@@ -201,7 +201,7 @@ Importance: 2/5 — A genuine, specific new data point (a nationalized bank now 
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-13]] (2026-10-13).
 <!-- /enrichment:post -->
 
 ## Market Research

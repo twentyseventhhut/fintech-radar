@@ -9,7 +9,7 @@ tags:
   - type/product
 sources:
   - https://www.cnews.ru/news/line/2026-10-08_ozon_otkryl_biznesu_vozmozhnost
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "News & Trends by Sber"
@@ -94,7 +94,7 @@ freshness: fresh
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-13]] (2026-10-13).
 <!-- /enrichment:post -->
 
 ## Market Research

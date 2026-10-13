@@ -9,7 +9,7 @@ tags:
   - type/regulation
 sources:
   - https://crypto.news/thailand-to-allow-bitcoin-ethereum-etfs
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -156,7 +156,7 @@ Importance: 2/5 — Regulatorily meaningful as APAC's next domestic crypto-ETF r
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-13]] (2026-10-13).
 <!-- /enrichment:post -->
 
 ## Market Research

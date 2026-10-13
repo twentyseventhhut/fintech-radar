@@ -9,7 +9,7 @@ tags:
   - type/product
 sources:
   - https://www.cnews.ru/news/line/2026-10-07_proshche_nekuda_t-bank_predstavlyaet
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "News & Trends by Sber"
@@ -184,7 +184,7 @@ See challenge file.
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-13]] (2026-10-13).
 <!-- /enrichment:post -->
 
 ## Market Research

@@ -9,7 +9,7 @@ tags:
   - type/regulation
 sources:
   - https://economictimes.indiatimes.com/industry/banking/finance/rbi-opens-up-account-aggregator-network-making-financial-data-sharing-easier-for-consumers/articleshow/134756457.cms
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "This Week in Fintech"
@@ -126,7 +126,7 @@ This is the **interoperability mandate** from the RBI's 7 Oct 2026 Developmental
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-13]] (2026-10-13).
 <!-- /enrichment:post -->
 
 ## Market Research

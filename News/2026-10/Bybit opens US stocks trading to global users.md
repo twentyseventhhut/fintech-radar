@@ -10,7 +10,7 @@ tags:
   - type/product
 sources:
   - https://www.prnewswire.com/news-releases/bybit-supports-stocks-trading-giving-eligible-global-users-access-to-1-000-us-stocks-and-etfs-302905392.html
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -129,7 +129,7 @@ Modal title
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-13]] (2026-10-13).
 <!-- /enrichment:post -->
 
 ## Market Research

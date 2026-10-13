@@ -8,7 +8,7 @@ tags:
   - type/regulation
 sources:
   - https://eastasiaforum.org/2026/10/08/beijing-cracks-down-on-hong-kongs-hub-of-wealth
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "This Week in Fintech"
@@ -111,7 +111,7 @@ Fits a multi-year Beijing arc: common-prosperity, capital-controls tightening, t
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-13]] (2026-10-13).
 <!-- /enrichment:post -->
 
 ## Market Research

@@ -10,7 +10,7 @@ tags:
   - type/regulation
 sources:
   - https://fintechnews.sg/138851/digitalassets/mas-wholesale-cbdc-tokenised-assets
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -130,7 +130,7 @@ Importance: 3/5 — Credible, well-sequenced step from a top-tier regulator that
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-13]] (2026-10-13).
 <!-- /enrichment:post -->
 
 ## Market Research

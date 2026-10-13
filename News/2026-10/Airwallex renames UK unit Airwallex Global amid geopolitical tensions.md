@@ -11,7 +11,7 @@ tags:
 sources:
   - https://www.airwallex.com/global
   - https://www.capitalbrief.com/article/airwallex-looks-to-london-as-geopolitical-tensions-rise-13c52fca-ca47-4724-8a8d-dee84bc85a39
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -238,7 +238,7 @@ Importance: 3/5 — A genuine, confirmed corporate-structure event (London finan
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-13]] (2026-10-13).
 <!-- /enrichment:post -->
 
 ## Market Research

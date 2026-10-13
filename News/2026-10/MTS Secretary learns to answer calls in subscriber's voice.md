@@ -9,7 +9,7 @@ tags:
   - type/product
 sources:
   - https://rb.ru/news/mts-nauchila-avtootvetchik-govorit-golosom-abonenta-funkciya-uzhe-dostupna-chasti-polzovatelej
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "News & Trends by Sber"
@@ -89,7 +89,7 @@ _(нет загруженного полного текста первоисто
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-13]] (2026-10-13).
 <!-- /enrichment:post -->
 
 ## Market Research

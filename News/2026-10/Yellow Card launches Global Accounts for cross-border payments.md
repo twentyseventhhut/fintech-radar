@@ -10,7 +10,7 @@ tags:
   - type/product
 sources:
   - https://techafricanews.com/2026/10/12/yellow-card-launches-global-accounts-cross-border-payments-stablecoins
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "This Week in Fintech"
@@ -111,7 +111,7 @@ Crowded "stablecoin + named accounts for EM businesses" lane:
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-13]] (2026-10-13).
 <!-- /enrichment:post -->
 
 ## Market Research

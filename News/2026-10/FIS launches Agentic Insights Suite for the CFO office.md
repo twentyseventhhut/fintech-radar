@@ -10,7 +10,7 @@ tags:
   - type/product
 sources:
   - https://ffnews.com/news/fis-equips-cfos-with-agentic-ai-to-forecast-cash-flow-and-surface-risk-earlier-3ba6350e
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -125,7 +125,7 @@ FIS's differentiation claim: it already owns the Receivables + Treasury systems 
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-13]] (2026-10-13).
 <!-- /enrichment:post -->
 
 ## Market Research

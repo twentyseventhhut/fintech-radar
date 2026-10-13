@@ -9,7 +9,7 @@ tags:
   - type/product
 sources:
   - https://www.sostav.ru/publication/v-kanalakh-v-makse-teper-mozhno-razmeshchat-targetirovannuyu-reklamu-87445.html
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "News & Trends by Sber"
@@ -79,7 +79,7 @@ Related notes: [[Max adds multi-choice polls with revoting in channels]] · [[Ru
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-13]] (2026-10-13).
 <!-- /enrichment:post -->
 
 ## Market Research

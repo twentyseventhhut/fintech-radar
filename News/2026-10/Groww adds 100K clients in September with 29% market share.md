@@ -9,7 +9,7 @@ tags:
   - type/earnings
 sources:
   - https://entrackr.com/news-analysis/groww-adds-over-1-lakh-active-clients-in-september-sahi-clocks-11-growth-12636259
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "This Week in Fintech"
@@ -127,7 +127,7 @@ Groww will keep topping the monthly league table; the open question is Zerodha v
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-13]] (2026-10-13).
 <!-- /enrichment:post -->
 
 ## Market Research

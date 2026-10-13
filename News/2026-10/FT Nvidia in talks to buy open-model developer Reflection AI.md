@@ -10,7 +10,7 @@ tags:
   - type/m-and-a
 sources:
   - https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "42 секунды"
@@ -104,7 +104,7 @@ Reflection AI: founded **2024** by two ex-Google DeepMind researchers; ~$2.6B ra
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-13]] (2026-10-13).
 <!-- /enrichment:post -->
 
 ## Market Research

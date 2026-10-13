@@ -10,7 +10,7 @@ tags:
   - type/product
 sources:
   - https://www.sberbank.ru/ru/sberpress/all/article
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "News & Trends by Sber"
@@ -115,7 +115,7 @@ Expect Sber to roll the autonomous engine across remaining guarantee types (44-F
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-13]] (2026-10-13).
 <!-- /enrichment:post -->
 
 ## Market Research

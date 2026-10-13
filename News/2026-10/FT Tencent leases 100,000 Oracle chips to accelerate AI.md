@@ -10,7 +10,7 @@ tags:
   - type/partnership
 sources:
   - https://www.ft.com/content/8799b33d-f07c-4a03-82f0-bf5d3d1d29e9
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "42 секунды"
@@ -110,7 +110,7 @@ Importance: 3/5 — Strategically salient: a large (~$7bn/~100k-GPU/5yr) frontie
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-13]] (2026-10-13).
 <!-- /enrichment:post -->
 
 ## Market Research

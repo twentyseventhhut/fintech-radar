@@ -10,7 +10,7 @@ tags:
   - type/expansion
 sources:
   - https://www.businesswire.com/news/home/20261012881259/en/Kraken-Plans-UAE-Launch-Following-Full-Market-Approval-from-VARA-in-Dubai
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -89,7 +89,7 @@ Importance: 3/5 — A real, final regulatory milestone (not just intent) that un
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-13]] (2026-10-13).
 <!-- /enrichment:post -->
 
 ## Market Research

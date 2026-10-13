@@ -10,7 +10,7 @@ tags:
   - type/m-and-a
 sources:
   - https://www.wsj.com/business/deals/amazon-in-talks-to-buy-ai-startup-decart-for-around-7-billion-9433abad
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "42 секунды"
@@ -111,7 +111,7 @@ WSJ reported (Sun 11 Oct 2026, wires picked it up 11–12 Oct) that Amazon is **
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-13]] (2026-10-13).
 <!-- /enrichment:post -->
 
 ## Market Research

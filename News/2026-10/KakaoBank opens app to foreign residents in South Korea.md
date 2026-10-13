@@ -10,7 +10,7 @@ tags:
   - type/product
 sources:
   - https://www.koreajoongangdaily.com/business/kakaobank-opens-app-to-foreign-residents-enabling-remote-account-opening/12914315
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -128,7 +128,7 @@ Sources: [Korea JoongAng Daily](https://www.koreajoongangdaily.com/business/kaka
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-13]] (2026-10-13).
 <!-- /enrichment:post -->
 
 ## Market Research
