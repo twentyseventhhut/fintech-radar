@@ -11,7 +11,7 @@ tags:
   - type/m-and-a
 sources:
   - https://www.pymnts.com/loans/working-capital/2026/stripe-to-buy-parafin-to-scale-embedded-finance-across-18000-platforms
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "The Fintech Blueprint"
@@ -103,7 +103,7 @@ _Analytical notes (not a post). Importance: 4/5. Freshness: FRESH (dedicated M&A
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-14]] (2026-10-14).
 <!-- /enrichment:post -->
 
 ## Market Research

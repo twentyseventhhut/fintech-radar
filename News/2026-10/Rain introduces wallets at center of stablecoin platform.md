@@ -10,7 +10,7 @@ tags:
   - type/product
 sources:
   - https://www.prnewswire.com/in/news-releases/rain-introduces-wallets-putting-the-account-at-the-center-of-its-stablecoin-payments-platform-302906722.html
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -165,7 +165,7 @@ Importance: 3/5 — A logical, well-timed deepening of Rain's full-stack thesis 
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-14]] (2026-10-14).
 <!-- /enrichment:post -->
 
 ## Market Research

@@ -9,7 +9,7 @@ tags:
   - type/regulation
 sources:
   - https://fintechnews.sg/138798/thailand/thailand-sme-lending-revival
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "This Week in Fintech"
@@ -130,7 +130,7 @@ Importance: 3/5 — real structural problem (15–16 quarters of SME credit decl
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-14]] (2026-10-14).
 <!-- /enrichment:post -->
 
 ## Market Research

@@ -10,7 +10,7 @@ tags:
   - type/funding
 sources:
   - https://www.coindesk.com/business/2026/10/12/swi-raises-usd894-million-to-repurpose-former-ftx-bitcoin-miner-genesis-digital-to-ai
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -151,7 +151,7 @@ Importance: 3/5 — a real, sizable (€800M) new financing against a genuinely 
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-14]] (2026-10-14).
 <!-- /enrichment:post -->
 
 ## Market Research

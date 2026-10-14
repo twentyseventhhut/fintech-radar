@@ -11,7 +11,7 @@ tags:
   - type/m-and-a
 sources:
   - https://disruptafrica.com/2026/10/12/kenyan-cross-border-payments-startup-gtxn-acquired-by-luno
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "This Week in Fintech"
@@ -122,7 +122,7 @@ _Caveat: primary PR pages (BitcoinKE, TechCabal) 403'd on fetch; figures corrobo
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-14]] (2026-10-14).
 <!-- /enrichment:post -->
 
 ## Market Research

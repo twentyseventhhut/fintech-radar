@@ -11,7 +11,7 @@ tags:
   - type/product
 sources:
   - https://thedefiant.io/converge/tradfi-and-fintech/citi-details-stablecoin-checkout-with-coinbase-and-fiat-payouts
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "The Fintech Blueprint"
@@ -151,7 +151,7 @@ See challenge file + note sources; external URLs listed below.
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-14]] (2026-10-14).
 <!-- /enrichment:post -->
 
 ## Market Research

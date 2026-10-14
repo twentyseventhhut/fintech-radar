@@ -10,7 +10,7 @@ tags:
   - type/earnings
 sources:
   - https://www.techinasia.com/news/indian-fintech-firm-juspay-revenue-rises-30-75m
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -265,7 +265,7 @@ Importance: 3/5 — Juspay is a tracked, SoftBank-backed $1.2B unicorn and a cor
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-14]] (2026-10-14).
 <!-- /enrichment:post -->
 
 ## Market Research

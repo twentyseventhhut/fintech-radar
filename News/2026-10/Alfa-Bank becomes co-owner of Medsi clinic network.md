@@ -13,7 +13,7 @@ sources:
   - https://www.whitesquarepartners.com/ru/services/legal
   - https://www.whitesquarepartners.com/ru/services/corporate-services
   - https://whitesquarepartners.com/ru/services/corporate-services/bank-brokerage-accounts
-status: enriched
+status: published
 n_mentions: 2
 channels:
   - "Mergers.ru"
@@ -513,7 +513,7 @@ Internal corpus (grep fallback; semsearch DOWN — OpenRouter 402):
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-14]] (2026-10-14).
 <!-- /enrichment:post -->
 
 ## Market Research

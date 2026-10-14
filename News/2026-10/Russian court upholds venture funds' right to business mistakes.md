@@ -9,7 +9,7 @@ tags:
   - type/regulation
 sources:
   - https://kad.arbitr.ru/Document/Pdf/738a5241-8abd-4698-9520-134cb0745d19/62b2ddf6-051f-4809-a07d-300b64f5766b/A40-350334-2025_20261009_Reshenija_i_postanovlenija.pdf
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Mergers.ru"
@@ -102,7 +102,7 @@ _Analytical notes (not a post). Importance: 4/5._
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-14]] (2026-10-14).
 <!-- /enrichment:post -->
 
 ## Market Research

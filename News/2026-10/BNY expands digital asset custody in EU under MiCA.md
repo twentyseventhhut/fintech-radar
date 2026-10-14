@@ -10,7 +10,7 @@ tags:
   - type/expansion
 sources:
   - https://www.bny.com/corporate/global/en/about-us/newsroom/press-release/bny-expands-digital-asset-custody-platform-in-europe.html
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -144,7 +144,7 @@ Materially real (a G-SIB with the world's largest asset-servicing franchise now 
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-14]] (2026-10-14).
 <!-- /enrichment:post -->
 
 ## Market Research

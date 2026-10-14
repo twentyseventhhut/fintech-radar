@@ -10,7 +10,7 @@ tags:
   - type/funding
 sources:
   - https://ffnews.com/news/news-international-investors-back-id-finance-with-545-million-funding-to-scale-p-f6cd90c6
-status: enriched
+status: published
 n_mentions: 2
 channels:
   - "Connecting the Dots in Fintech"
@@ -195,7 +195,7 @@ Trajectory: emerging-markets lender (Moneyman, operating across Spain/Kazakhstan
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-14]] (2026-10-14).
 <!-- /enrichment:post -->
 
 ## Market Research

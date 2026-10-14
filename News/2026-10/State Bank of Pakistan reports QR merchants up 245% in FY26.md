@@ -9,7 +9,7 @@ tags:
   - type/research-report
 sources:
   - https://www.techjuice.pk/qr-payment-merchants-surge-245-in-pakistan
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "This Week in Fintech"
@@ -99,7 +99,7 @@ Raast is projected to process >$500B (~Rs 140T) in 2026, exceeding Pakistan's ~$
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-14]] (2026-10-14).
 <!-- /enrichment:post -->
 
 ## Market Research

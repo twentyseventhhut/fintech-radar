@@ -9,7 +9,7 @@ tags:
   - type/regulation
 sources:
   - https://news.bitcoin.com/regulation-and-legal/argentinas-central-bank-rejects-near-term-crypto-banking-integration
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -100,7 +100,7 @@ Sources: https://news.bitcoin.com/regulation-and-legal/argentinas-central-bank-r
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-14]] (2026-10-14).
 <!-- /enrichment:post -->
 
 ## Market Research

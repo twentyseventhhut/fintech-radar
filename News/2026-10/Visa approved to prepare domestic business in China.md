@@ -9,7 +9,7 @@ tags:
   - type/regulation
 sources:
   - https://investor.visa.com/news/news-details/2026/Visa-Receives-Approval-to-Begin-Preparations-for-a-Domestic-Business-in-China/default.aspx
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -433,7 +433,7 @@ Importance: 4/5 — Strategically significant (first-ever path for Visa into a m
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-14]] (2026-10-14).
 <!-- /enrichment:post -->
 
 ## Market Research

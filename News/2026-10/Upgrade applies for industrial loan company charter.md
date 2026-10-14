@@ -10,7 +10,7 @@ tags:
   - type/regulation
 sources:
   - https://www.upgrade.com/press/releases/upgrade-submits-ilc-application
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -137,7 +137,7 @@ Upgrade: founded 2016/2017 by Renaud Laplanche after he was pushed out of Lendin
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-14]] (2026-10-14).
 <!-- /enrichment:post -->
 
 ## Market Research

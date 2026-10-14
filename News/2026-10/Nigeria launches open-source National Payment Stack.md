@@ -10,7 +10,7 @@ tags:
   - type/product
 sources:
   - https://www.arise.tv/nibss-launches-open-source-payment-stack-for-instant-transfers-qr-codes-phone-payments
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -150,7 +150,7 @@ See challenge section.
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-14]] (2026-10-14).
 <!-- /enrichment:post -->
 
 ## Market Research

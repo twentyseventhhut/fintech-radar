@@ -8,7 +8,7 @@ tags:
   - type/regulation
 sources:
   - https://www.livemint.com/news/india/india-uk-agree-to-explore-cross-border-equity-bond-listings-through-gift-ifsc-11791376410985.html
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "This Week in Fintech"
@@ -130,7 +130,7 @@ Sources:
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-14]] (2026-10-14).
 <!-- /enrichment:post -->
 
 ## Market Research

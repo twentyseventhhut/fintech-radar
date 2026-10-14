@@ -11,7 +11,7 @@ tags:
   - type/product
 sources:
   - https://www.thebanker.com/content/38e1c371-ca68-4a84-a540-8bdc0fb431e2
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "The Fintech Blueprint"
@@ -107,7 +107,7 @@ _Analytical notes (not a post). Importance: 4/5._
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-14]] (2026-10-14).
 <!-- /enrichment:post -->
 
 ## Market Research

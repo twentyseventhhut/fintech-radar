@@ -10,7 +10,7 @@ tags:
   - type/regulation
 sources:
   - https://crypto.news/south-korea-blocks-kucoin-mexc-and-25-other-sites
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -158,7 +158,7 @@ FIU will: monitor alternative domains and request further blocks; coordinate wit
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-14]] (2026-10-14).
 <!-- /enrichment:post -->
 
 ## Market Research

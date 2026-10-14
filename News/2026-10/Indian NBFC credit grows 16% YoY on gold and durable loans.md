@@ -9,7 +9,7 @@ tags:
   - type/research-report
 sources:
   - https://economictimes.indiatimes.com/industry/banking/finance/nbfc-credit-growth-rises-to-15-8-in-august-as-gold-consumer-durable-loans-surge/articleshow/134745477.cms
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "This Week in Fintech"
@@ -103,7 +103,7 @@ Sources:
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-14]] (2026-10-14).
 <!-- /enrichment:post -->
 
 ## Market Research

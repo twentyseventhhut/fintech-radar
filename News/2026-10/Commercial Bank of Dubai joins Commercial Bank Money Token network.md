@@ -10,7 +10,7 @@ tags:
   - type/partnership
 sources:
   - https://www.zawya.com/en/press-release/commercial-bank-of-dubai-becomes-first-bank-outside-europe-to-join-the-cbmt-network-1379426
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "This Week in Fintech"
@@ -133,7 +133,7 @@ To the fullest extent permitted by applicable law, this website, its parent comp
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-14]] (2026-10-14).
 <!-- /enrichment:post -->
 
 ## Market Research

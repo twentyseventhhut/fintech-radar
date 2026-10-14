@@ -11,7 +11,7 @@ sources:
   - https://www.thehindu.com/news/national/mobile-phone-retailers-to-protest-against-upi-mdr-charges-on-october-2/article71515807.ece
   - https://www.ndtv.com/india-news/petrol-pumps-may-stop-accepting-upi-payments-above-rs-2-000-from-october-15-12067600
   - https://www.npci.org.in/product/ecosystem-statistics/upi
-status: enriched
+status: published
 n_mentions: 2
 channels:
   - "TechCrunch — Fintech"
@@ -277,7 +277,7 @@ Expect the rate to go live **post-Diwali, likely Nov 2026 or slip to Jan 2027** 
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-14]] (2026-10-14).
 <!-- /enrichment:post -->
 
 ## Market Research

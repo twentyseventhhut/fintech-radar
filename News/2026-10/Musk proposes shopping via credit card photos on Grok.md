@@ -11,7 +11,7 @@ tags:
   - type/product
 sources:
   - https://www.ndtv.com/feature/elon-musk-wants-users-to-shop-by-uploading-credit-card-photos-to-grok-users-raise-security-concerns-12169575
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -149,7 +149,7 @@ The discussion comes as AI companies explore ways to allow chatbots to perform t
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-14]] (2026-10-14).
 <!-- /enrichment:post -->
 
 ## Market Research
