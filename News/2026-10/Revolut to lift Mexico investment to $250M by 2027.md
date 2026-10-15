@@ -9,7 +9,7 @@ tags:
   - type/expansion
 sources:
   - https://mexicobusiness.news/finance/news/revolut-plans-us250-million-investment-mexico-2027
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "This Week in Fintech"
@@ -168,7 +168,7 @@ Next: continued $50–60M half-yearly injections; mortgage entry; possible 2027 
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-15]] (2026-10-15).
 <!-- /enrichment:post -->
 
 ## Market Research

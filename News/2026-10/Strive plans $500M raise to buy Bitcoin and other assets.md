@@ -10,7 +10,7 @@ tags:
   - type/funding
 sources:
   - https://www.kucoin.com/news/flash/strive-plans-500m-fundraising-to-buy-bitcoin-and-other-assets
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -538,7 +538,7 @@ This is a **genuinely new event** — the IPO of a *second* preferred class (SAT
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-15]] (2026-10-15).
 <!-- /enrichment:post -->
 
 ## Market Research

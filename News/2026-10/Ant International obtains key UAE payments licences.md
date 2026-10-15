@@ -9,7 +9,7 @@ tags:
   - type/regulation
 sources:
   - https://www.businesswire.com/news/home/20261014662732/en/Ant-International-Obtains-Key-Licenses-from-the-Central-Bank-of-the-UAE-to-Support-Digital-Payments-in-the-AI-Era
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -111,7 +111,7 @@ Importance: 3/5 — a real, confirmed "IPA → full licence" milestone (not stal
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-15]] (2026-10-15).
 <!-- /enrichment:post -->
 
 ## Market Research

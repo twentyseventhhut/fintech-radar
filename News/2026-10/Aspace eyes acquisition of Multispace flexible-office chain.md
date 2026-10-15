@@ -10,7 +10,7 @@ tags:
   - type/m-and-a
 sources:
   - https://mergers.ru/news/Aspace-interesuetsya-pokupkoj-seti-gibkih-ofisov-Multispace-87635
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Mergers.ru"
@@ -181,7 +181,7 @@ See column two / note first-sources block. Key external: Kommersant doc/9023921 
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-15]] (2026-10-15).
 <!-- /enrichment:post -->
 
 ## Market Research

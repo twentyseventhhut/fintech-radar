@@ -10,7 +10,7 @@ tags:
   - type/product
 sources:
   - https://ffnews.com/news/starling-first-bank-to-train-ai-model-on-uk-sovereign-cloud-6ebc0c41
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -257,7 +257,7 @@ Importance: 3/5 — Fresh and strategically interesting (sovereign-cloud/data-re
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-15]] (2026-10-15).
 <!-- /enrichment:post -->
 
 ## Market Research

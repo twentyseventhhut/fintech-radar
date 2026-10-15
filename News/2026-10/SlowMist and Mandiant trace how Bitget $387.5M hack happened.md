@@ -11,7 +11,7 @@ tags:
   - type/outage-security
 sources:
   - https://www.bleepingcomputer.com/news/security/bitget-hacked-via-zero-day-in-third-party-security-products
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "This Week in Fintech"
@@ -117,7 +117,7 @@ What's genuinely **new in THIS item** vs the Sept loss reports: the **confirmed 
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-15]] (2026-10-15).
 <!-- /enrichment:post -->
 
 ## Market Research

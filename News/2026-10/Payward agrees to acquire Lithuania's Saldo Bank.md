@@ -11,7 +11,7 @@ tags:
   - type/m-and-a
 sources:
   - https://www.businesswire.com/news/home/20261014530263/en/Payward-to-Acquire-Saldo-Bank-Expanding-Payward-Banking-Across-Europe
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -82,7 +82,7 @@ Sources: CoinDesk "Payward targets EU banking license with acquisition of ~$190M
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-15]] (2026-10-15).
 <!-- /enrichment:post -->
 
 ## Market Research

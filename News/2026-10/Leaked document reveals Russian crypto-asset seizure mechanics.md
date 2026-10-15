@@ -10,7 +10,7 @@ tags:
   - type/regulation
 sources:
   - https://www.bybit.com/en/help-center/article/Service-Restricted-Countries/trade/spot
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Финтехно"
@@ -98,7 +98,7 @@ Importance: 3/5 — Genuinely informative: first *applied* protocol under a fast
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-15]] (2026-10-15).
 <!-- /enrichment:post -->
 
 ## Market Research

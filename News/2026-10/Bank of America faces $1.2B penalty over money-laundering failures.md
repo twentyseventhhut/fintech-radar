@@ -10,7 +10,7 @@ tags:
   - type/regulation
 sources:
   - https://finance.yahoo.com/markets/stocks/articles/bank-america-just-got-hit-115034606.html
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -119,7 +119,7 @@ Genuinely new = the **dollar figure and the "willful" admission**, crystallized 
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-15]] (2026-10-15).
 <!-- /enrichment:post -->
 
 ## Market Research

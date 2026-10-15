@@ -10,7 +10,7 @@ tags:
   - type/expansion
 sources:
   - https://www.kommersant.ru/doc/9024921
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "42 секунды"
@@ -153,7 +153,7 @@ _Analytical notes (not a post). Importance: 3/5._
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-15]] (2026-10-15).
 <!-- /enrichment:post -->
 
 ## Market Research

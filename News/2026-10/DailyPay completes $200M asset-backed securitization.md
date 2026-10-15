@@ -10,7 +10,7 @@ tags:
   - type/funding
 sources:
   - https://www.prnewswire.com/news-releases/dailypay-completes-200m-asset-backed-securitization-expanding-funding-capacity-for-on-demand-pay-302902004.html
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -116,7 +116,7 @@ See /tmp (external) + note sources. Key: PRNewswire (primary), Morningstar DBRS 
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-15]] (2026-10-15).
 <!-- /enrichment:post -->
 
 ## Market Research

@@ -10,7 +10,7 @@ tags:
   - type/product
 sources:
   - https://cryptobriefing.com/ramp-launches-glass-ai-workspace
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -330,7 +330,7 @@ Importance: 3/5 - A real, well-executed product launch from a hot, newly-$60bn c
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-15]] (2026-10-15).
 <!-- /enrichment:post -->
 
 ## Market Research

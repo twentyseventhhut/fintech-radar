@@ -9,7 +9,7 @@ tags:
   - type/funding
 sources:
   - https://www.reuters.com/world/asia-pacific/tencent-markets-us-dollar-dim-sum-bonds-four-tranches-2026-10-13
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -114,7 +114,7 @@ Importance: 3/5 — A fresh, priced, UPSIZED ($5.7bn vs a $5bn plan) deal with a
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-15]] (2026-10-15).
 <!-- /enrichment:post -->
 
 ## Market Research

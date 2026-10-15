@@ -10,7 +10,7 @@ tags:
   - type/commentary
 sources:
   - https://www.theinformation.com/articles/spacexs-ai-unit-turned-ai-cloud-firm
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "42 секунды"
@@ -104,7 +104,7 @@ Sources:
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-15]] (2026-10-15).
 <!-- /enrichment:post -->
 
 ## Market Research

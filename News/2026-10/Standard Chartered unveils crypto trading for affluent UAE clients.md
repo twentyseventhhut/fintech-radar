@@ -10,7 +10,7 @@ tags:
   - type/product
 sources:
   - https://www.sc.com/en/press-release/standard-chartered-unveils-first-of-its-kind-cryptocurrency-trading-solution-for-affluent-clients
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -139,7 +139,7 @@ Importance: 3/5 — A real, live, well-positioned launch by a major G-SIB that e
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-15]] (2026-10-15).
 <!-- /enrichment:post -->
 
 ## Market Research

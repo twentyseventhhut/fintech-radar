@@ -10,7 +10,7 @@ tags:
   - type/leadership
 sources:
   - https://www.housingwire.com/articles/better-vishal-garg-dispute
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "This Week in Fintech"
@@ -106,7 +106,7 @@ Founder Vishal Garg has regained control of **Better Home & Finance (NASDAQ: BET
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-15]] (2026-10-15).
 <!-- /enrichment:post -->
 
 ## Market Research

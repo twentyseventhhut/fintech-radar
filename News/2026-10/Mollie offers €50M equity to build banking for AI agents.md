@@ -10,7 +10,7 @@ tags:
   - type/product
 sources:
   - https://www.mollie.com/nightshift
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -158,7 +158,7 @@ See /tmp/chl_mollie.md for red-team questions. Primary + external URLs:
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-15]] (2026-10-15).
 <!-- /enrichment:post -->
 
 ## Market Research
