@@ -19,13 +19,15 @@ sources:
   - https://www.consumerfinance.gov/rules-policy/regulations/1005/6
   - https://www.consumerfinance.gov/rules-policy/regulations/1005/11
   - https://www.consumerfinance.gov/rules-policy/regulations/1005/2
-status: tagged
+status: enriched
 n_mentions: 7
 channels:
   - "Fintech Brainfood"
 story_id: sdf5b26fb
 month: 2026-10
-enriched: false
+enriched: true
+importance: 4
+freshness: fresh
 ---
 
 # Fintech Brainfood: the protocols for agentic banking and payments
@@ -1521,13 +1523,88 @@ Footnotes
 ## Контекст
 
 <!-- enrichment:context -->
-_(пусто — заполняется при обогащении)_
+# Context-enrichment: Fintech Brainfood — the protocols for agentic banking and payments
+_Analytical notes (not a post). Importance: 4/5._
+
+## [0] What exactly happened (de-PR'd)
+Simon Taylor's Fintech Brainfood essay is a **map-making, not a news event**: it tries to impose order on the now-crowded agentic-commerce protocol stack by sorting the pieces into **four jobs** rather than treating them as rival "winners":
+- **Personal Agent Protocol (PAP / "Poppy")** — recognise the agent and sign the customer in; scoped, revocable access. (Meta + Sierra; draft 0.1 published **9 Oct 2026**, 35+ design partners incl. OpenAI, Visa, Mastercard, PayPal, Plaid, BofA, Wells Fargo, Chime.) The "who do I let in and with what rights" layer. See [[Meta and Sierra introduce Personal Agent Protocol standard]].
+- **x401** (Proof, launched **15 Oct 2026**; v0.1.0 had shipped Jun 2026) — "bring proof about the human": a service asks for verified identity/age/eligibility to **NIST IAL2**, the agent presents a credential, the service verifies issuer/claim/scope. The identity-and-authorization layer.
+- **MCP** (Model Context Protocol) — "give the agent things it can do": OAuth 2.1-based tool discovery/invocation; the provider decides what's allowed.
+- **Verifiable Intent** (Mastercard + Google, **Mar 2026**) — "prove what the user authorised": a tamper-resistant, privacy-preserving record binding identity → intent → action, integrated into Mastercard Agent Pay's intent APIs. See [[Mastercard launches Verifiable Intent trust layer with Google]].
+
+**Why framed this way, and what it reveals:** Taylor's real argument is that these are **complementary layers, not competitors** — identity (x401), permission/capability (MCP, PAP), and proof-of-authorisation (Verifiable Intent / AP2) sit on top of payment rails (x402, ACP, Agent Pay). The de-PR'd punchline: the "protocol wars" headline is mostly **stack-layering**, and the genuinely new, under-covered brick is **x401** — because it plugs the identity hole, and because **FinCEN's Sep 2026 CIP guidance** (banks may use verifiable digital credentials under the Customer Identification Program) makes reusable, IAL2-grade proof **bank-ready**, not just a consumer handshake. The essay also flags the **regulatory gap nobody's protocol solves**: US **Reg E** (unauthorized-transfer liability, error resolution) still governs anyone moving money, and none of these specs by themselves answer "who eats the loss when an agent buys the wrong thing."
+
+## [1] Competitors / peers
+The field is now a **layered stack with multiple contenders per layer** — the essay's whole point:
+- **Payment / checkout layer:** OpenAI+Stripe **ACP** (announced 29 Sep 2025; Shared Payment Token; merchant stays merchant-of-record; Instant Checkout in ChatGPT launched Feb 2026 then **scaled back Mar 2026** — see [[OpenAI scales back ChatGPT shopping plans]]); Google **AP2** (16 Sep 2025, 60→100+ partners, Mandate VCs, rail-agnostic; **donated to FIDO Alliance**, v0.2.0 added "Human Not Present" autonomous pay Apr 2026); Coinbase **x402** (HTTP-402 stablecoin pay-per-request, now under **Linux Foundation**, 40+ members incl. Visa/MC/Stripe/Google/AWS/Circle; V2 Dec 2025); **Mastercard Agent Pay** and **Visa Intelligent Commerce / Trusted Agent Protocol (TAP)** (Visa+Cloudflare PKI "digital passport"; see [[Visa launches Trusted Agent Protocol for AI commerce]]).
+- **Identity layer:** **x401** (Proof) is essentially alone as a *live, IAL2* implementation; competes conceptually with Visa TAP's lighter agent-attestation and AP2's mandate model.
+- **Authorisation-record layer:** Verifiable Intent vs AP2 Mandates — now **converging inside FIDO's Agentic Authentication WG** (formed Apr 2026; Google donated AP2, Mastercard donated Verifiable Intent). See [[Google and Mastercard back FIDO Alliance on agentic commerce standards]].
+
+**Why the landscape is this way / second-order:** the networks (Visa/Mastercard) and the AI platforms (OpenAI, Google, Meta) are each trying to **own the trust/authorisation layer** because that is where durable rent lives — the rails are commoditising (stablecoins via x402 settle "with no accounts or API keys"). So the fight isn't "which protocol pays" but **"whose record of intent/identity merchants and issuers rely on"**. Consolidation into FIDO/Linux Foundation is the tell: when everyone donates their spec to a neutral body, it means **no single sponsor could win it alone**, and the value migrates from the protocol to whoever controls distribution (the issuer relationship, the agent platform, the identity wallet).
+
+## [2] Company history / fit
+Brainfood/11:FS (Taylor) is a **synthesiser/standard-explainer**, not a vendor — its "product" is sense-making for banks, so a four-box taxonomy that de-hypes the protocol wars is exactly on-brand. The underlying actors fit their structural incentives: **Mastercard/Visa** keep adding trust layers (Verifiable Intent, TAP, Agent Pay) because their take-rate is defensible only if they remain the **dispute/liability arbiter** as checkout de-materialises; **Proof** (identity-authorization co., prior bank/Visa tie-ups — [[Proof partners with Visa to secure high-risk transactions]]) is pushing x401 to become the **reusable KYC credential**, leveraging the FinCEN CIP opening to sell into banks; **Meta/Sierra/OpenAI** push PAP because the agent platform that owns the *sign-in handshake* owns the customer. Each is extending from its moat toward the one scarce asset: **a trusted record of who authorised what.**
+
+## [3] Novelty / value-add / traction
+**Genuinely new (vs the Mar 2026 Verifiable Intent note and the 2025 protocol announcements):** (a) **x401 going live (15 Oct 2026)** as the first IAL2 identity answer with a working MCP server usable from Claude/ChatGPT — identity was the missing brick everyone hand-waved; (b) the **FinCEN CIP / verifiable-digital-credential bridge** that makes agent identity *regulatorily usable inside banks* (see the NCUA/FinCEN FAQ, Sep 2026) — this is the real "bank-ready" unlock, not the protocol handshake; (c) the **PAP/Poppy** sign-in layer (Oct 2026) formalising scoped, revocable agent access.
+
+**Traction reality check (anti-PR):** most of this is **specs + reference implementations + design partners**, not GMV. Verifiable Intent is still "being integrated into Agent Pay in coming months"; PAP is **draft 0.1**; x401 is live docs + sample apps + "participating orgs will announce as available." ACP's flagship (ChatGPT Instant Checkout) was **pulled back** in Mar 2026. So: **announced/piloted, not yet adopted at scale.** The only hard live-transaction evidence in the corpus is network pilots (Mastercard/Visa first-agent-payments in Portugal, Netherlands, France, Mexico, Brazil — single transactions, not volume).
+
+**Who captures the margin (1 level deeper):** if settlement commoditises to stablecoins (x402) and checkout tokens (ACP), the margin moves **up to identity + authorisation-record + dispute**. Whoever owns the IAL2 credential (Proof?) or the issuer-side intent record (Visa/MC via FIDO) captures rent; the AI platforms capture it only if they own the sign-in (PAP). The risk for banks: they become the **balance-sheet-of-last-resort for Reg E liability** while the record-of-intent — and the fee — sits with a network or an identity provider.
+
+## [4] What's next / market sentiment
+Direction: **standards consolidation, then a liability fight.** FIDO's Agentic Authentication WG (AP2 + Verifiable Intent) and the Linux Foundation's x402 are collapsing the "wars" into a shared stack through 2026–27; Secure Technology Alliance meets Nov 2026. McKinsey-cited sizing: **$3–5T agentic transaction volume by 2030** (vendor-quoted, treat as directional). The counterintuitive second-order effect: **more/better protocols do not resolve the hard question** — Reg E error-resolution and unauthorized-transfer liability are **unsolved by any spec**, so the binding constraint shifts from "can the agent pay" to **"who is liable when the agent is wrong, and whose record proves intent in a dispute."** Risks: fragmentation (too many overlapping specs → merchants adopt none), prompt-injection / "whisper" attacks on mandate-signing (noted in arXiv security analyses of AP2/x402), and **regulatory lag** — banks will move only once CIP/Reg E treatment is unambiguous.
+
+**Freshness verdict: FRESH.** This is original analysis/synthesis by Simon Taylor; no prior Brainfood essay note covers this taxonomy. It *references* events already in the corpus (Verifiable Intent [[Mastercard launches Verifiable Intent trust layer with Google]], PAP [[Meta and Sierra introduce Personal Agent Protocol standard]], TAP [[Visa launches Trusted Agent Protocol for AI commerce]]) but is not a re-report of any single one — it is the connective tissue. Keep.
+
+## Sources
+- personalagentprotocol.org/docs/introduction; sierra.ai/blog/poppy (PAP/Poppy draft 0.1, 9 Oct 2026)
+- proof.com/blog/identity-infrastructure-agentic-internet-x401; x401.id (x401 launch 15 Oct 2026, IAL2)
+- mastercard.com .../verifiable-intent.html (Verifiable Intent, Mar 2026, co-dev w/ Google)
+- ncua.gov / FinCEN CIP FAQ on verifiable digital credentials (8 Sep 2026)
+- MCP authorization spec (OAuth 2.1); consumerfinance.gov Reg E (1005)
+- fidoalliance.org — Google donates AP2 to FIDO; Agentic Authentication WG (Apr 2026)
+- crossmint.com / openfort.io / openhermit.com — ACP vs AP2 vs x402 vs MPP comparisons (2026)
+- Internal: [[Fintech Wrap Up ACP vs AP2 vs TAP protocol wars reference]], [[Mastercard launches Verifiable Intent trust layer with Google]], [[Meta and Sierra introduce Personal Agent Protocol standard]], [[Google and Mastercard back FIDO Alliance on agentic commerce standards]], [[Visa launches Trusted Agent Protocol for AI commerce]], [[OpenAI scales back ChatGPT shopping plans]], [[Proof partners with Visa to secure high-risk transactions]]
 <!-- /enrichment:context -->
 
 ## Челлендж / ред-тим
 
 <!-- enrichment:challenge -->
-_(пусто)_
+## Red-team / challenge questions
+
+1. **Is this actually one stack or competing stacks?** Taylor says complementary layers; but ACP (merchant-of-record + card token) and x402 (accountless stablecoin) and AP2 (mandate VCs) overlap on "how does the agent pay." Answer: *mostly* layered, but the payment layer itself has 3+ rivals → fragmentation risk is real, not resolved. (partially open)
+
+2. **What is genuinely NEW here vs March 2026?** Only x401 going live (15 Oct) + FinCEN CIP bridge + PAP draft are new; Verifiable Intent, AP2, ACP, TAP all pre-date. The novelty is the *identity brick + bank-readiness*, not payments. (answered)
+
+3. **Announced vs live?** PAP = draft 0.1; Verifiable Intent = "coming months" into Agent Pay; x401 = live docs/sample apps, no named production merchants; ACP = Instant Checkout *pulled back* Mar 2026. Verdict: specs + pilots, near-zero GMV disclosed. (answered)
+
+4. **Who eats Reg E liability when an agent buys wrong?** No protocol answers this. Reg E error-resolution/unauthorized-transfer rules still bind. This is the unsolved core, and the essay flags it. (open — structural)
+
+5. **Does FinCEN's CIP guidance really make agent identity "bank-ready"?** The FAQ *permits* verifiable digital credentials but neither requires them nor sets new expectations; banks remain responsible for third-party assurance. So "bank-ready" is permission, not mandate. (answered — overstated by PR)
+
+6. **Why donate everything to FIDO/Linux Foundation?** Because no single sponsor could win the standard alone; value migrates from spec to distribution (issuer relationship, identity wallet, agent sign-in). (analysis)
+
+7. **Who captures the margin if rails commoditise?** Identity (Proof/x401), authorisation-record (Visa/MC via FIDO), or sign-in owner (Meta/OpenAI via PAP). Banks risk becoming liability balance-sheet while fee sits elsewhere. (analysis)
+
+8. **Is x401 really alone at IAL2, or marketing?** Proof claims first live IAL2 + transaction-signing, Kantara-certified. Plausible but unverified at merchant scale; "participating orgs announce as available." (partly open)
+
+9. **Could MCP's OAuth 2.1 auth layer make a dedicated identity protocol redundant?** MCP handles tool authz, not human IAL2 identity — different job. So no, but boundaries blur (confused-deputy risks noted in MCP spec). (answered)
+
+10. **What's the attack surface?** arXiv work documents prompt-injection/"whisper" attacks on AP2 mandate-signing and free-riding/PII attacks on x402. Signing the transaction ≠ signing the decision. Security is unsettled. (open)
+
+11. **Is the $3–5T-by-2030 TAM credible?** McKinsey/vendor-quoted; directional only, no adoption base to extrapolate from. Treat skeptically. (open)
+
+12. **Does ChatGPT Instant Checkout's pullback undercut the thesis?** Yes — the most-hyped live deployment retrenched to app-model in Mar 2026, evidence that UX/liability isn't solved. (answered)
+
+13. **Who needs whom more — networks or AI platforms?** Networks need agent distribution; AI platforms need trusted settlement + dispute. Symbiotic now, but whoever owns identity+intent record has leverage. (analysis)
+
+14. **Downside trigger?** A high-profile agent-mis-purchase dispute with unclear Reg E recourse, or regulators demanding issuer liability, would freeze bank adoption regardless of protocol maturity. (open)
+
+15. **Is this note stale (dup of prior)?** No — it's Taylor's original taxonomy/synthesis, not a re-report of any single prior note. Fresh. (answered)
+
+Importance: 4/5 — a clear, well-sourced synthesis of THE defining fintech-infra fight (who owns agentic trust/identity/authorisation), surfacing the genuinely new bricks (x401 live, FinCEN CIP bridge, PAP) and the unsolved liability core (Reg E), with named protocols, dates and partners. Not 5/5 because it's commentary on mostly-announced/piloted specs with little disclosed adoption, and it re-packages events already in the corpus rather than breaking news.
 <!-- /enrichment:challenge -->
 
 ## Связь с постом
@@ -1539,11 +1616,37 @@ _(пусто)_
 ## Market Research
 
 <!-- enrichment:market_research -->
-_(пусто)_
+**Sector & drivers.** Agentic commerce = AI agents searching, deciding and paying on a user's behalf. This essay sits at the *protocol/trust* layer below the money movement. Market sizing is wide and vendor-driven, so treat as directional: McKinsey projects up to ~$5tn global agentic commerce volume by 2030 (per McKinsey, via digitalcommerce360, 2025-10-20); Morgan Stanley sees US agentic e-commerce spend of ~$190–385bn by 2030 (per Morgan Stanley Research); Juniper pegs global agentic transaction value at ~$8bn in 2026 rising to ~$3.5tn by 2031 (per Juniper Research). The spread itself is the signal — nobody can size live volume yet; current adoption is pilots, not scale. **Structure:** fragmented at the protocol layer and consolidating fast around a few sponsors. Six-plus overlapping standards now exist — ACP (OpenAI/Stripe, Sep 2025), AP2 (Google, donated to FIDO Alliance Apr 2026), UCP (Google/Shopify), MCP (Anthropic), A2A (Google), x402/x401 (Circle/Proof), plus the networks' own Mastercard Agent Pay and Visa Trusted Agent Protocol/Intelligent Commerce (per digitalapplied, honeyb.ai, reactify, 2026). The note's own framing (PAP/Poppy for sign-in, x401 for human-identity, MCP for capabilities, Verifiable Intent for authorization) correctly reads these as *complementary layers*, not one winner — but that is also the generous reading. **Why now:** three forces converge — (1) agents are already generating site traffic that companies either block or let masquerade as the user (the PAP "all-or-nothing" problem); (2) FinCEN/Agencies' Sep 2026 FAQ lets banks use verifiable digital credentials inside CIP, making IAL2 proofs (x401/Proof) genuinely bank-ready; (3) the card networks are racing to avoid being disintermediated by stablecoin-native rails (x402 settles in USDC with no accounts/API keys — a direct bypass of card economics).
+
+**Competitive landscape.** Sector KPIs at this layer: adoption breadth (issuers/processors live), interoperability (does an agent built to one spec clear across networks), and assurance level (IAL2 vs handshake). **Key players & basis of competition** — not price but *standard-setting and trust capture*: Mastercard (Agent Pay + Verifiable Intent, co-developed with Google, open-sourced on GitHub/verifiableintent.dev), Visa (Trusted Agent Protocol, launched 2025-10-14 — see [[Visa launches Trusted Agent Protocol for AI commerce]], [[Nuvei supports Visa Trusted Agent Protocol]]), Google (AP2, now FIDO-governed), OpenAI/Stripe (ACP), Circle/Proof (x402/x401 stablecoin + identity stack). **Recent moves:** both networks joined Google's AP2 in Sep 2025, and Mastercard maps AP2 mandates to its Agentic Tokens so an AP2 agent clears across both (per digitalapplied, 2026) — convergence, not a pure war. Mastercard completed *live* agentic transactions across LatAm with 17 issuers/processors (incl. Bancolombia, Santander, Itaú, Banamex, Pomelo) (per Mastercard newsroom/thepaypers, Mar 2026); Verifiable Intent has commitments from Google, Fiserv, IBM, Checkout.com, Adyen, Worldpay, Basis Theory, Getnet (per Mastercard story, finextra/pymnts, 2026). Internal precedent: [[PayPal integrates Mastercard Agent Pay into wallet]], [[Google and Mastercard back FIDO Alliance on agentic commerce standards]], [[PhotonPay completes first live agentic payment with Mastercard]], [[Mastercard and Rabobank complete Netherlands' first AI agent payment]]. **Mastercard's position:** *ahead on distribution, not on the stack* — its moat is the network (acceptance, issuer relationships, switching scale) and tokenization, not the protocol itself, which is deliberately open and protocol-agnostic. That is the honest read of Verifiable Intent: Mastercard isn't trying to own the standard, it's trying to keep the *authorization/dispute record* (and therefore the transaction) on its rails regardless of which agent protocol wins. De-PR: the Mastercard release is heavy on "trust is the product" and silent on economics — who pays the take rate on an agent-initiated purchase, and whether agent volume carries the same interchange.
+
+**Comps & multiples.** This is an essay, not a Mastercard print, so comps are the two network duopolists as a sanity check on who can afford to set the standard. As of 2026-10-12 (per macrotrends/companiesmarketcap/simplywall.st):
+- **Mastercard (MA):** market cap ≈ $523.3bn, P/E ≈ 32.8x, revenue TTM ≈ $35.1bn → P/S = $523.3bn / $35.1bn = **14.9x**.
+- **Visa (V):** market cap ≈ $730.2bn, P/E ≈ 33.2x.
+Both sit at the top of the P/E sanity range (~10–50x) — rich, but *in-line with each other* and justified by Mastercard's Q2 2026 growth (below). No standalone "agentic commerce" comps are publicly valuable: x402/Circle, Proof and the AI-agent settlement names are private or early (internal: [[Basis Theory raises $33 million for agentic commerce]] — $33m round, agentic-commerce infra; [[AEON raises $8 million to build settlement layer for AI agents]] — $8m), so distribution not computed, qualitative comparison only. EV/EBITDA / clean EV not computed — no free source → `[UNSOURCED]`.
+
+**IR grounding (Mastercard Q2 2026, per 8-K EX-99.1 / earnings release, filed ~2026-07-30):** net revenue **$9.3bn, +12% currency-neutral**; GDV **$2.9tn, +8%** local-currency; switched transactions **+9%**; cross-border volume **+12%**; adjusted net income **$4.5bn (+16% c-n)**; adjusted diluted EPS **$5.04 (+19% c-n)**; **value-added services & solutions net revenue +20% (+18% c-n)** — the fastest-growing segment, and the bucket where agentic-commerce/trust products (Agent Pay, Verifiable Intent, tokenization, identity) actually monetize. The thesis link: Mastercard can fund an open, "give-it-away" trust layer precisely because the payoff is keeping a $2.9tn-GDV / 14%-revenue-growth franchise relevant as volume shifts to agents — the standard is a defensive moat spend, not a new revenue line yet. Source: SEC 8-K FY2026 earnings release.
+
+**Risk flags.**
+1. **Fraud/liability gap in agent-initiated payments (regulatory).** Reg E and EFTA were written for human-initiated transfers; as of late 2026 there's no federal framework clarifying whether delegating to an agent satisfies "authorization," and no reason code separating "agent error" from a genuine cardholder purchase (per chargeflow, worldpay, fenwick, 2026). PYMNTS (Sep 2026) found 93% of merchants think the AI/agent provider should eat the loss — today the merchant does. Verifiable Intent is explicitly aimed at this (tamper-resistant authorization record), but it mitigates *evidence*, not the unsettled legal allocation of loss. Second-order: until liability is settled, scaled autonomous (human-not-present) spend stays capped at pilots.
+2. **Standards fragmentation / integration tax.** Six-plus overlapping protocols mean merchants and PSPs face an interop matrix, not one rail. Convergence via AP2/FIDO reduces this but isn't settled; a wrong bet on the losing spec is sunk cost. Second-order: fragmentation delays the volume the whole thesis depends on and favors whoever already has distribution (the networks) over pure-protocol startups.
+3. **Disintermediation by stablecoin-native rails.** x402 (Circle/USDC) lets agents pay per-request with no card account or interchange. If agent commerce standardizes on that where it can, the card networks' take rate is bypassed at exactly the new-volume layer — the reason Mastercard is spending to stay in the authorization path. Second-order: Mastercard's defensive moat works only if issuers/merchants keep settlement on cards rather than stablecoins.
+
+**What this changes (idea-lens).** `(analysis)` The agentic-payments fight is not "which protocol wins" but "who owns the authorization-and-dispute record," because that is what anchors the transaction to a rail and a liability chain. Falsifiable thesis: the card networks hold the money layer *if* liability law resolves in a card-friendly way and agent volume clears through tokenized card credentials rather than stablecoins. **Trigger/catalyst to watch:** (a) a CFPB/FinCEN rule or EFTA interpretation that explicitly covers agent-delegated authorization; (b) Verifiable Intent moving from "commitments" to disclosed *live cleared volume* in Agent Pay intent APIs; (c) first material agent dispute/chargeback that tests who pays. **What breaks the thesis:** stablecoin x402-style rails capturing a visible share of agent transaction value (watch Circle's x402 USDC volume), which would show the networks' trust layer didn't keep the money on cards.
+
+Sources: https://www.sec.gov/Archives/edgar/data/0001141391/000114139126000081/ma06302026-exx991xearnings.htm · https://www.mastercard.com/gb/en/news-and-trends/stories/2026/verifiable-intent.html · https://www.mastercard.com/news/latin-america/en/newsroom/press-releases/pr-en/2026/march/mastercard-advances-agentic-payments-in-latin-america-and-the-caribbean-with-live-transactions-completed-across-the-region/ · https://www.digitalapplied.com/blog/agentic-commerce-standards-ucp-acp-ap2-2026-merchant-guide · https://www.chargeflow.io/blog/agentic-commerce-regulation-what-merchants-need-to-know · https://www.worldpay.com/en/insights/articles/agentic-commerce-liability-is-still-being-written · https://www.digitalcommerce360.com/2025/10/20/mckinsey-forecast-5-trillion-agentic-commerce-sales-2030/ · https://www.morganstanley.com/insights/articles/agentic-commerce-market-impact-outlook · https://www.macrotrends.net/stocks/charts/MA/mastercard/pe-ratio · https://simplywall.st/stocks/us/diversified-financials/nyse-ma/mastercard · https://www.proof.com/blog/identity-infrastructure-agentic-internet-x401
 <!-- /enrichment:market_research -->
 
 ## Earnings Review
 
 <!-- enrichment:earnings_review -->
-_(пусто)_
+This is a commentary/essay on agentic-payment protocols, not an earnings event — **no full earnings report in the news**. But Mastercard is IR-covered and its own latest print materially grounds the thesis (the note cites Mastercard's Verifiable Intent as one of the four protocol building blocks), so a brief grounding:
+
+**Latest print: Q2 2026 (quarter ended 2026-06-30, released ~2026-07).** Net revenue $9.3bn, +14% (+12% currency-neutral); GAAP diluted EPS $4.97 (+22% YoY), adjusted diluted EPS $5.04 (+21%); net income $4.4bn. Gross dollar volume +8%, cross-border volume +12%, switched transactions +9% (local-currency); Value-Added Services & Solutions revenue +20% (+18% cn). Management raised the FY outlook to the high end of the low-double-digit range. Verdict: BEAT / accelerating — but this only matters here as context, not as an event.
+
+**Why it informs the agentic thesis.** On the Q2 call, CEO Michael Miebach framed agentic commerce as "shaping what's next in commerce" and flagged a "market-first Agentic Payment capability." Management's thesis: cards "prevail in both consumer and commercial use cases due to the security, transparency, and control offered by the card ecosystem." For the machine-to-machine (low-ticket, high-velocity) class, Mastercard launched **Agent Pay for Machines**, described as "the only network protocol facilitating this," with "over 30 industry leaders at launch." On settlement, management said stablecoins "are not the only option" — Mastercard wants to "enable choice" (spend stablecoin balances, settle on its network, move money). (earnings-call commentary)
+
+**Thesis-flag (de-PR).** The Brainfood note slots Mastercard's **Verifiable Intent** (the "prove what the user authorised" layer, co-developed with Google, aligned to AP2) alongside PAP, x401 and MCP. Fact → the Q2 numbers show agentic has no measurable P&L contribution yet (growth is the familiar cross-border + VAS engine, not agents); why it matters → Verifiable Intent / Agent Pay are still "announced, not live/adopted at scale" — "over 30 industry leaders" is an intent-to-participate count, not volume; second-order → the real test is whether a card-network trust layer out-adopts the open, issuer-neutral stack (x401 + MCP + PAP) the note argues could become "part of the foundation of the internet." Mastercard is positioning to be the trust/record layer on top of those open protocols rather than compete with them — consistent with the note's "Verifiable Intent links authorisation to the purchase" framing.
+
+Sources: https://www.sec.gov/Archives/edgar/data/0001141391/000114139126000081/ma06302026-exx991xearnings.htm (Q2 2026 8-K earnings release) · Q2 2026 earnings-call highlights · note's own Mastercard source https://www.mastercard.com/gb/en/news-and-trends/stories/2026/verifiable-intent.html · public consensus: not pulled (not an earnings event).
 <!-- /enrichment:earnings_review -->
