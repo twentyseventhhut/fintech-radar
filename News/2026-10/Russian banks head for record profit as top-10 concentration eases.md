@@ -8,7 +8,7 @@ tags:
   - type/research-report
 sources:
   - https://max.ru/fintexno
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Финтехно"
@@ -94,7 +94,7 @@ Sources: https://raexpert.ru/researches/banks/bank_forecast_2026/ · https://www
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-16]] (2026-10-16).
 <!-- /enrichment:post -->
 
 ## Market Research

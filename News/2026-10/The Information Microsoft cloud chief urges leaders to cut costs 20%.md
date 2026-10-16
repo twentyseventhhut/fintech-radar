@@ -10,7 +10,7 @@ tags:
   - type/commentary
 sources:
   - https://www.theinformation.com/articles/microsoft-cloud-president-asks-leaders-find-20-cost-cuts
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "42 секунды"
@@ -364,7 +364,7 @@ _Analytical notes (not a post). Importance: 3/5._
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-16]] (2026-10-16).
 <!-- /enrichment:post -->
 
 ## Market Research

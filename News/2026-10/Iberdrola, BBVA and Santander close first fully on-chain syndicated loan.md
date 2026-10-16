@@ -11,7 +11,7 @@ tags:
   - type/product
 sources:
   - https://www.santander.com/en/press-room/press-releases/2026/10/iberdrola-bbva-and-santander-deliver-the-first-syndicated-financing-managed-entirely-on-blockchain
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -216,7 +216,7 @@ _Freshness: FRESH — genuine new event (first live deal); no prior note covers 
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-16]] (2026-10-16).
 <!-- /enrichment:post -->
 
 ## Market Research

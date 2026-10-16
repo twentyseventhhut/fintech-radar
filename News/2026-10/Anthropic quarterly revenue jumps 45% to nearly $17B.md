@@ -9,7 +9,7 @@ tags:
   - type/earnings
 sources:
   - https://www.wsj.com/tech/ai/anthropics-quarterly-revenue-jumped-45-to-nearly-17-billion-1c7e28b8
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "42 секунды"
@@ -87,7 +87,7 @@ Sources:
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-16]] (2026-10-16).
 <!-- /enrichment:post -->
 
 ## Market Research

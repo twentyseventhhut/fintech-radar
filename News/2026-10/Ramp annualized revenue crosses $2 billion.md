@@ -12,7 +12,7 @@ sources:
   - https://agents.ramp.com/cards
   - https://ramp.com/blog/introducing-glass
   - https://www.bloomberg.com/news/articles/2026-06-04/ramp-notches-44-billion-valuation-in-new-funding-round
-status: enriched
+status: published
 n_mentions: 3
 channels:
   - "TechCrunch — Fintech"
@@ -209,7 +209,7 @@ Sources: <https://getlatka.com/companies/brex.com> · <https://sacra.com/c/mercu
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-16]] (2026-10-16).
 <!-- /enrichment:post -->
 
 ## Market Research

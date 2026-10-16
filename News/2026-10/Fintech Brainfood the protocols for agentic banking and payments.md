@@ -19,7 +19,7 @@ sources:
   - https://www.consumerfinance.gov/rules-policy/regulations/1005/6
   - https://www.consumerfinance.gov/rules-policy/regulations/1005/11
   - https://www.consumerfinance.gov/rules-policy/regulations/1005/2
-status: enriched
+status: published
 n_mentions: 7
 channels:
   - "Fintech Brainfood"
@@ -1610,7 +1610,7 @@ Importance: 4/5 — a clear, well-sourced synthesis of THE defining fintech-infr
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-16]] (2026-10-16).
 <!-- /enrichment:post -->
 
 ## Market Research

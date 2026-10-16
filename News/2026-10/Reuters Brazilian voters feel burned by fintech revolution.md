@@ -9,7 +9,7 @@ tags:
   - type/commentary
 sources:
   - https://share.google/bRNXipLyV8zG4VLD4
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Fintech Brainfood"
@@ -93,7 +93,7 @@ Sources:
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-16]] (2026-10-16).
 <!-- /enrichment:post -->
 
 ## Market Research

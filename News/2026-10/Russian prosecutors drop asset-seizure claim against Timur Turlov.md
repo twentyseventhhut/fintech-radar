@@ -9,7 +9,7 @@ tags:
   - type/regulation
 sources:
   - https://mergers.ru/news/Genprokuratura-otkazalas-ot-iska-ob-obraschenii-v-dohod-RF-imuschestva-prezidenta-FIDE-Timura-Turlova-87649
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Mergers.ru"
@@ -181,7 +181,7 @@ Sources:
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-16]] (2026-10-16).
 <!-- /enrichment:post -->
 
 ## Market Research

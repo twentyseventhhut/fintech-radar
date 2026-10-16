@@ -10,7 +10,7 @@ tags:
   - type/regulation
 sources:
   - https://www.financexmagazine.com/post/usdc-named-eu-s-first-significant-e-money-token
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -129,7 +129,7 @@ Circle (NYSE: CRCL; founded 2013 by Jeremy Allaire & Sean Neville; IPO June 2025
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-16]] (2026-10-16).
 <!-- /enrichment:post -->
 
 ## Market Research

@@ -11,7 +11,7 @@ tags:
   - type/product
 sources:
   - https://www.globenewswire.com/news-release/2026/10/14/3380316/0/en/coinshares-launches-onchain-asset-management-business-through-strategic-partnership-with-safe.html
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -215,7 +215,7 @@ Sources:
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-16]] (2026-10-16).
 <!-- /enrichment:post -->
 
 ## Market Research

@@ -9,7 +9,7 @@ tags:
   - type/regulation
 sources:
   - https://max.ru/fintexno
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Финтехно"
@@ -102,7 +102,7 @@ Importance: 4/5 — Major, time-sensitive geopolitical-finance story directly im
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-16]] (2026-10-16).
 <!-- /enrichment:post -->
 
 ## Market Research

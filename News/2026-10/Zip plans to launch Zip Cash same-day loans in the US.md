@@ -10,7 +10,7 @@ tags:
   - type/product
 sources:
   - https://zip.co/investors/newsroom/zip-us-extends-cashflow-flexibility-beyond-point-of-purchase-with-zip-cash
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -94,7 +94,7 @@ We use cookies on our website to give you the most relevant experience by rememb
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-16]] (2026-10-16).
 <!-- /enrichment:post -->
 
 ## Market Research

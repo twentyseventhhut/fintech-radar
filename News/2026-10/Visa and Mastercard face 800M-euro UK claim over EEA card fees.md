@@ -11,7 +11,7 @@ tags:
   - type/regulation
 sources:
   - https://www.pymnts.com/news/investment-tracker/ipo/2026/opay-files-for-us-ipo-with-50-million-active-users-and-expansion-plan
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "This Week in Fintech"
@@ -87,7 +87,7 @@ _(нет загруженного полного текста первоисто
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-16]] (2026-10-16).
 <!-- /enrichment:post -->
 
 ## Market Research

@@ -9,7 +9,7 @@ tags:
   - type/research-report
 sources:
   - https://economictimes.indiatimes.com/industry/banking/finance/banking/nbfcs-account-for-nearly-half-of-small-loans-while-delinquencies-stay-low/articleshow/134702678.cms
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "This Week in Fintech"
@@ -97,7 +97,7 @@ _(нет загруженного полного текста первоисто
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-16]] (2026-10-16).
 <!-- /enrichment:post -->
 
 ## Market Research

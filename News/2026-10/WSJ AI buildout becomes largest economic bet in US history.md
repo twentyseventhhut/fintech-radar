@@ -9,7 +9,7 @@ tags:
   - type/research-report
 sources:
   - https://www.wsj.com/economy/the-ai-build-out-is-becoming-the-biggest-economic-bet-in-u-s-history-c60716dd
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "42 секунды"
@@ -108,7 +108,7 @@ Logical culmination of the 2025→2026 step-change in this corpus: hyperscaler c
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-16]] (2026-10-16).
 <!-- /enrichment:post -->
 
 ## Market Research

@@ -11,7 +11,7 @@ tags:
   - type/product
 sources:
   - https://www.einpresswire.com/article/949066946/sbs-launches-banking-s-first-sovereign-ai-platform
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -158,7 +158,7 @@ Importance: 3/5 — A credible, well-integrated product from a top-8 global core
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-16]] (2026-10-16).
 <!-- /enrichment:post -->
 
 ## Market Research

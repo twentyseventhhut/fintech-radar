@@ -9,7 +9,7 @@ tags:
   - type/regulation
 sources:
   - https://finance.yahoo.com/economy/policy/articles/china-closed-hundreds-banks-sweeping-102501006.html
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "This Week in Fintech"
@@ -137,7 +137,7 @@ No single company — the "actor" is NFRA/PBOC and provincial governments. Traje
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-16]] (2026-10-16).
 <!-- /enrichment:post -->
 
 ## Market Research

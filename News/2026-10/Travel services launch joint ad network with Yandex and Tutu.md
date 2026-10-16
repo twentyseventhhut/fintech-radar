@@ -10,7 +10,7 @@ tags:
   - type/product
 sources:
   - https://www.sostav.ru/publication/yandeks-zapustil-reklamnuyu-set-dlya-trevel-servisov-87586.html
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "News & Trends by Sber"
@@ -114,7 +114,7 @@ Importance: 3/5 — A real, net-new product (first unified travel-vertical ad ne
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-16]] (2026-10-16).
 <!-- /enrichment:post -->
 
 ## Market Research

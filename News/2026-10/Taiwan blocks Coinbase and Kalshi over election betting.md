@@ -10,7 +10,7 @@ tags:
   - type/regulation
 sources:
   - https://www.bloomberg.com/news/articles/2026-10-15/taiwan-blocks-coinbase-kalshi-over-suspected-election-bets
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -109,7 +109,7 @@ Expect Kalshi to geofence Taiwan explicitly (as with India) and Coinbase to rest
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-16]] (2026-10-16).
 <!-- /enrichment:post -->
 
 ## Market Research

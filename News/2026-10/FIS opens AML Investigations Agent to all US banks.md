@@ -11,7 +11,7 @@ tags:
   - type/product
 sources:
   - https://www.finextra.com/pressarticle/111288/fis-aml-investigations-agent-made-commercially-available
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -106,7 +106,7 @@ Importance: 3/5 — Genuine GA milestone from a major core processor (data-moat 
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-16]] (2026-10-16).
 <!-- /enrichment:post -->
 
 ## Market Research

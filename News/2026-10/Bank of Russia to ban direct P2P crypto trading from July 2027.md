@@ -9,7 +9,7 @@ tags:
   - type/regulation
 sources:
   - https://cbr.ru/develop/cryptocurrency
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Финтехно"
@@ -138,7 +138,7 @@ This fits the CBR's long-running **monetary-sovereignty + control** posture: dig
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-16]] (2026-10-16).
 <!-- /enrichment:post -->
 
 ## Market Research

@@ -10,7 +10,7 @@ tags:
   - type/m-and-a
 sources:
   - https://www.theinformation.com/articles/openai-early-talks-buy-security-startup-trail-bits
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "42 секунды"
@@ -385,7 +385,7 @@ Related notes: [[OpenAI offers nine UK banks access to GPT-5.5 Cyber model]] · 
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-16]] (2026-10-16).
 <!-- /enrichment:post -->
 
 ## Market Research

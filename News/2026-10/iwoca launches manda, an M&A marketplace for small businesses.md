@@ -10,7 +10,7 @@ tags:
   - type/product
 sources:
   - https://www.iwoca.co.uk/news/iwoca-launches-m-a-marketplace
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -152,7 +152,7 @@ Importance: 3/5 — Genuinely new, capital-light product off a real data moat an
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-16]] (2026-10-16).
 <!-- /enrichment:post -->
 
 ## Market Research

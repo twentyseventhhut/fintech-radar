@@ -11,7 +11,7 @@ tags:
   - type/partnership
 sources:
   - https://coinlaw.io/privy-xrp-ledger-embedded-wallets-ripple
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -121,7 +121,7 @@ On **2026-10-13** Stripe-owned embedded-wallet provider **Privy** announced a pa
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-16]] (2026-10-16).
 <!-- /enrichment:post -->
 
 ## Market Research

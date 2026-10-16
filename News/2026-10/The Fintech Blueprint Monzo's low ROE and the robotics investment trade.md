@@ -12,7 +12,7 @@ sources:
   - https://a16z.com/the-algorithm-that-keeps-compounding
   - https://www.wsj.com/finance/u-k-digital-bank-monzo-to-exit-u-s-c6889060
   - https://genventures.xyz
-status: enriched
+status: published
 n_mentions: 3
 channels:
   - "The Fintech Blueprint"
@@ -124,7 +124,7 @@ This is a Lex Sokolin (Fintech Blueprint / Generative Ventures) essay bundling t
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-16]] (2026-10-16).
 <!-- /enrichment:post -->
 
 ## Market Research

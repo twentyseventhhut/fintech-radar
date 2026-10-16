@@ -11,7 +11,7 @@ tags:
   - type/outage-security
 sources:
   - https://fintechnews.my/61364/blockchain/ledger-cryptobilis
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -164,7 +164,7 @@ Ledger is investigating a **supply-chain tampering incident** — NOT a breach o
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-16]] (2026-10-16).
 <!-- /enrichment:post -->
 
 ## Market Research
