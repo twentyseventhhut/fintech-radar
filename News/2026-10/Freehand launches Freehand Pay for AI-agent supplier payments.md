@@ -11,7 +11,7 @@ tags:
   - type/product
 sources:
   - https://www.globenewswire.com/news-release/2026/10/13/3379529/0/en/freehand-launches-freehand-pay-expanding-ai-teams-from-invoice-audit-to-payment.html
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "This Week in Fintech"
@@ -200,7 +200,7 @@ Explore
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-17]] (2026-10-17).
 <!-- /enrichment:post -->
 
 ## Market Research

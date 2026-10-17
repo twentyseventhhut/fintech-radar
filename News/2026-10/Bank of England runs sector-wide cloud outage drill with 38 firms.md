@@ -10,7 +10,7 @@ tags:
   - type/outage-security
 sources:
   - https://www.bankofengland.co.uk/news/2026/october/cmorg-holds-sector-wide-cloud-outage-simulation-exercise
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "This Week in Fintech"
@@ -123,7 +123,7 @@ CMORG holds sector-wide cloud outage simulation exercise
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-17]] (2026-10-17).
 <!-- /enrichment:post -->
 
 ## Market Research

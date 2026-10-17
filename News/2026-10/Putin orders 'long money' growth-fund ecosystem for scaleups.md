@@ -9,7 +9,7 @@ tags:
   - type/regulation
 sources:
   - https://max.ru/fintexno
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Финтехно"
@@ -84,7 +84,7 @@ The CBR also said it is ready to **adjust NPF regulation** to give an impulse to
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-17]] (2026-10-17).
 <!-- /enrichment:post -->
 
 ## Market Research

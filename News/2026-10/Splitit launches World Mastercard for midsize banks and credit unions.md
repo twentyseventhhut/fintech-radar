@@ -12,7 +12,7 @@ tags:
 sources:
   - https://www.mastercard.com/us/en.html
   - https://www.prnewswire.com/news-releases/splitit-launches-the-splitit-world-mastercard-built-for-mid-sized-banks-and-credit-unions-302906599.html
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -1298,7 +1298,7 @@ Splitit's differentiator is the single-card UX (debit-like simplicity + threshol
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-17]] (2026-10-17).
 <!-- /enrichment:post -->
 
 ## Market Research

@@ -12,7 +12,7 @@ sources:
   - https://www.vedomosti.ru/media/articles/2026/10/16/1237602-vladeltsem-gk-lesta
   - https://www.kommersant.ru/doc/9027870
   - https://www.rusprofile.ru
-status: enriched
+status: published
 n_mentions: 3
 channels:
   - "42 секунды"
@@ -204,7 +204,7 @@ Large, headline-grabbing RU asset transfer (~RUB 50bn, 29bn-revenue studio) with
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-17]] (2026-10-17).
 <!-- /enrichment:post -->
 
 ## Market Research

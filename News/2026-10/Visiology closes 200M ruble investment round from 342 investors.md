@@ -9,7 +9,7 @@ tags:
   - type/funding
 sources:
   - https://preqveca.ru/news/57487
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Mergers.ru"
@@ -90,7 +90,7 @@ Importance: 2/5
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-17]] (2026-10-17).
 <!-- /enrichment:post -->
 
 ## Market Research

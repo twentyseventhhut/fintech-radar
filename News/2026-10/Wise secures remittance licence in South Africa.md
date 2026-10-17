@@ -9,7 +9,7 @@ tags:
   - type/regulation
 sources:
   - https://thecondia.com/wise-gets-fx-regulatory-approval
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -120,7 +120,7 @@ Importance: 3/5 — First African operating licence for a major global fintech a
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-17]] (2026-10-17).
 <!-- /enrichment:post -->
 
 ## Market Research

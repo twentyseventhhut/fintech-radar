@@ -10,7 +10,7 @@ tags:
 sources:
   - https://www.getpliant.com/en
   - https://www.getpliant.com/en-gb/press/uk-fca-emi
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -250,7 +250,7 @@ Importance: 3/5 — real, distinct regulatory milestone that cuts partner depend
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-17]] (2026-10-17).
 <!-- /enrichment:post -->
 
 ## Market Research

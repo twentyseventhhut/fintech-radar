@@ -11,7 +11,7 @@ tags:
   - type/partnership
 sources:
   - https://www.globenewswire.com/news-release/2026/10/15/3381637/0/en/stifel-makes-strategic-investment-in-meow-partners-to-launch-next-generation-digital-banking-platform.html
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -205,7 +205,7 @@ Watch for: (1) actual client onboarding in early 2027 and whether scope expands 
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-17]] (2026-10-17).
 <!-- /enrichment:post -->
 
 ## Market Research

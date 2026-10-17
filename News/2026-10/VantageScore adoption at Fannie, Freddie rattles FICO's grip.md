@@ -11,7 +11,7 @@ tags:
   - type/commentary
 sources:
   - https://www.wsj.com/finance/regulation/fannie-freddie-vantagescore-mortgages-85b41d3f
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "This Week in Fintech"
@@ -96,7 +96,7 @@ _(нет загруженного полного текста первоисто
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-17]] (2026-10-17).
 <!-- /enrichment:post -->
 
 ## Market Research

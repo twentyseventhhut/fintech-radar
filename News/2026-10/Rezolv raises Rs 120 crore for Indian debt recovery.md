@@ -10,7 +10,7 @@ tags:
   - type/funding
 sources:
   - https://thefintechtimes.com/rezolv-raises-12-5m-series-a-to-scale-ai-lending-platform
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "This Week in Fintech"
@@ -138,7 +138,7 @@ Position: Rezolv is **mid-pack by capital** (behind Credgenics/Spocto/Yubi) but 
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-17]] (2026-10-17).
 <!-- /enrichment:post -->
 
 ## Market Research

@@ -11,7 +11,7 @@ tags:
   - type/product
 sources:
   - https://www.bloomberg.com/news/articles/2026-10-15/ambani-s-jio-hits-crypto-rails-ahead-of-record-india-ipo
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -117,7 +117,7 @@ Near-term catalyst is the **21–23 Oct bidding window** and listing: at IPO the
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-17]] (2026-10-17).
 <!-- /enrichment:post -->
 
 ## Market Research

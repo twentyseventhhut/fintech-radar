@@ -11,7 +11,7 @@ tags:
   - type/funding
 sources:
   - https://tether.io/news/tether-invests-in-aisa-to-expand-its-push-into-ai-powered-payments-and-programmable-money
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -115,7 +115,7 @@ Expect (unconfirmed) follow-on WDK/QVAC/USDT integration announcements if the th
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-17]] (2026-10-17).
 <!-- /enrichment:post -->
 
 ## Market Research

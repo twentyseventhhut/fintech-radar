@@ -11,7 +11,7 @@ tags:
   - type/partnership
 sources:
   - https://www.straitsx.com/blog-post/straitsx-partners-visa-to-expand-its-reach-to-over-100-markets-globally-on-stablecoin-backed-card-programs
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -143,7 +143,7 @@ The stablecoin-card-issuing layer is suddenly crowded and the "100+ countries wi
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-17]] (2026-10-17).
 <!-- /enrichment:post -->
 
 ## Market Research

@@ -10,7 +10,7 @@ tags:
 sources:
   - https://mergers.ru/news/MGKL-nashla-investora-dlya-finansirovaniya-pokupki-banka-87651
   - https://max.ru/fintexno
-status: enriched
+status: published
 n_mentions: 2
 channels:
   - "Mergers.ru"
@@ -197,7 +197,7 @@ Importance: 3/5 — rationale: materially more consequential than the CEO stake-
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-17]] (2026-10-17).
 <!-- /enrichment:post -->
 
 ## Market Research

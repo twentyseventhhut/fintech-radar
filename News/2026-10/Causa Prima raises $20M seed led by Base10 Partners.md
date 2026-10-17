@@ -10,7 +10,7 @@ tags:
   - type/funding
 sources:
   - https://fortune.com/2026/10/13/startup-causa-prima-20-million-billing-disputes-ai-agents
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -146,7 +146,7 @@ Prior corpus notes cited: [[Creandum invests $10 million in B2B payments startup
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-17]] (2026-10-17).
 <!-- /enrichment:post -->
 
 ## Market Research

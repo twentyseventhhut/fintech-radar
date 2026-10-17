@@ -11,7 +11,7 @@ tags:
 sources:
   - https://www.dlocal.com/press-releases/dlocal-and-western-union-expand-their-partnership-to-cover-remittance-payouts-in-africa
   - https://www.dlocal.com
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -141,7 +141,7 @@ Importance: 3/5
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-17]] (2026-10-17).
 <!-- /enrichment:post -->
 
 ## Market Research

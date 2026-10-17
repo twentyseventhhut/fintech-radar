@@ -9,7 +9,7 @@ tags:
   - type/regulation
 sources:
   - https://pressreleasehub.pa.media/article/nuvei-secures-license-to-offer-local-payment-acceptance-in-south-africa-86078.html
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -118,7 +118,7 @@ View original content to download multimedia:https://www.prnewswire.co.uk/news-r
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-17]] (2026-10-17).
 <!-- /enrichment:post -->
 
 ## Market Research

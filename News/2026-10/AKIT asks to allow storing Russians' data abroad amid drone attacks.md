@@ -9,7 +9,7 @@ tags:
   - type/regulation
 sources:
   - https://www.forbes.ru/biznes/570397-akit-poprosila-razresit-hranit-dannye-rossian-za-rubezom-iz-za-atak-bpla-na-cody
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "42 секунды"
@@ -101,7 +101,7 @@ Sources:
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-17]] (2026-10-17).
 <!-- /enrichment:post -->
 
 ## Market Research

@@ -10,7 +10,7 @@ tags:
   - type/partnership
 sources:
   - https://press.vivid.money/press-releases-feed/vivid-selects-wise-platform-for-international-payments-for-smes
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -98,7 +98,7 @@ Vivid team di PR
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-17]] (2026-10-17).
 <!-- /enrichment:post -->
 
 ## Market Research

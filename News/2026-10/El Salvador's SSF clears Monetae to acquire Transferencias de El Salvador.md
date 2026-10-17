@@ -10,7 +10,7 @@ tags:
   - type/m-and-a
 sources:
   - https://diario.elmundo.sv/economia/monetae-recibe-aval-de-la-ssf-para-adquirir-la-proveedora-de-dinero-electronico-de-airpak
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "This Week in Fintech"
@@ -134,7 +134,7 @@ Prior internal notes: [[Monetae to acquire Transferencias de El Salvador from Ai
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-17]] (2026-10-17).
 <!-- /enrichment:post -->
 
 ## Market Research

@@ -9,7 +9,7 @@ tags:
   - type/product
 sources:
   - https://bosfera.ru/press-release/vtb-zapustil-perevody-na-mobilnye-koshelki-v-shesti-stranah-afriki
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "News & Trends by Sber"
@@ -191,7 +191,7 @@ Expect VTB to extend the same phone-number product to more African/Asian "friend
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-17]] (2026-10-17).
 <!-- /enrichment:post -->
 
 ## Market Research
