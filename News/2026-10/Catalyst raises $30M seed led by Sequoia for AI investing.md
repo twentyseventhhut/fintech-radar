@@ -10,7 +10,7 @@ tags:
   - type/funding
 sources:
   - https://www.thesaasnews.com/news/catalyst-raises-30m-seed
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "This Week in Fintech"
@@ -114,7 +114,7 @@ Importance: 3/5 — A large, Sequoia-led seed in the hottest fintech-AI theme (a
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-18]] (2026-10-18).
 <!-- /enrichment:post -->
 
 ## Market Research

@@ -9,7 +9,7 @@ tags:
   - type/product
 sources:
   - https://www.latamfintech.co/articles/fintech-argentina-cocos-lanza-cocos-crypto-una-app-independiente-para-operar-y-pagar-con-activos-digitales
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -141,7 +141,7 @@ Watch: (1) BCRA approval of Cocos Bank name change, capital raise and Martín Di
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-18]] (2026-10-18).
 <!-- /enrichment:post -->
 
 ## Market Research

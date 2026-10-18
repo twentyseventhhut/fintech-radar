@@ -10,7 +10,7 @@ tags:
   - type/product
 sources:
   - https://www.bleepingcomputer.com/news/security/microsoft-teams-to-add-third-party-deepfake-detection-impersonation-protection
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "This Week in Fintech"
@@ -111,7 +111,7 @@ Importance: 3/5 — Real and topical threat (Arup $25M vector), Teams is the dom
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-18]] (2026-10-18).
 <!-- /enrichment:post -->
 
 ## Market Research

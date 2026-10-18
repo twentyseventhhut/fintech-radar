@@ -10,7 +10,7 @@ tags:
   - type/funding
 sources:
   - https://fundingsouq.com/sa/en/blog/fundingsouq-foodics-strategic-investment-embedded-financing
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "This Week in Fintech"
@@ -118,7 +118,7 @@ Importance: 3/5 — A legitimate, strategically sensible embedded-finance + dist
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-18]] (2026-10-18).
 <!-- /enrichment:post -->
 
 ## Market Research

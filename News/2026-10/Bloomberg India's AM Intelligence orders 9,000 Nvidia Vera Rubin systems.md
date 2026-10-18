@@ -10,7 +10,7 @@ tags:
   - type/product
 sources:
   - https://www.bloomberg.com/news/articles/2026-08-25/india-ai-data-center-firm-orders-9-000-nvidia-vera-rubin-systems
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "42 секунды"
@@ -97,7 +97,7 @@ Sources:
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-18]] (2026-10-18).
 <!-- /enrichment:post -->
 
 ## Market Research

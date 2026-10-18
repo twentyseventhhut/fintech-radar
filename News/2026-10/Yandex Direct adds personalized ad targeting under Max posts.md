@@ -9,7 +9,7 @@ tags:
   - type/product
 sources:
   - https://www.cnews.ru/news/line/2026-10-07_yandeks_zapuskaet_personalnyj
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "News & Trends by Sber"
@@ -95,7 +95,7 @@ Sources: https://www.cnews.ru/news/line/2026-10-07_yandeks_zapuskaet_personalnyj
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-18]] (2026-10-18).
 <!-- /enrichment:post -->
 
 ## Market Research

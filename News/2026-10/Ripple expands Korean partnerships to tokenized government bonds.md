@@ -10,7 +10,7 @@ tags:
   - type/partnership
 sources:
   - https://pluang.com/en/news-feed/perluasan-ripple-di-korea-dari-remitansi-hingga-obligasi-pemerintah
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -110,7 +110,7 @@ New event = the **Meritz Securities** MOU (2026-10-14), Ripple's first Korean *b
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-18]] (2026-10-18).
 <!-- /enrichment:post -->
 
 ## Market Research

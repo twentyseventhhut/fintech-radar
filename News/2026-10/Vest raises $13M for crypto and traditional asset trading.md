@@ -10,7 +10,7 @@ tags:
   - type/funding
 sources:
   - https://markets.businessinsider.com/news/currencies/vest-raises-13m-to-build-a-prop-trading-firm-that-doesn-t-bet-against-its-traders-1036606603
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "This Week in Fintech"
@@ -104,7 +104,7 @@ Importance: 3/5 — Novel model (VC-backed prop firm flipping the funded-trader 
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-18]] (2026-10-18).
 <!-- /enrichment:post -->
 
 ## Market Research

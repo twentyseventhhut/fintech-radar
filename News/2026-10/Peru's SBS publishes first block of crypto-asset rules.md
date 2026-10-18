@@ -10,7 +10,7 @@ tags:
   - type/regulation
 sources:
   - https://www.sbs.gob.pe/noticia/detallenoticia/idnoticia/4015
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "This Week in Fintech"
@@ -485,7 +485,7 @@ The SBS has been steadily building a digital-finance rulebook: 24-hour outage/cy
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-18]] (2026-10-18).
 <!-- /enrichment:post -->
 
 ## Market Research

@@ -9,7 +9,7 @@ tags:
   - type/funding
 sources:
   - https://pulse2.com/oraseya-capital-expands-venture-fund-to-aed-1-billion-and-broadens-international-investment-mandate
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "This Week in Fintech"
@@ -108,7 +108,7 @@ Importance: 3/5 — A genuine structural shift (bigger checks, global/later-stag
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-18]] (2026-10-18).
 <!-- /enrichment:post -->
 
 ## Market Research

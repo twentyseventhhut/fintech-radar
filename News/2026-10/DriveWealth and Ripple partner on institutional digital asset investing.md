@@ -11,7 +11,7 @@ tags:
   - type/partnership
 sources:
   - https://www.businesswire.com/news/home/20261014151281/en/DriveWealth-and-Ripple-Partner-to-Bring-Institutional-Digital-Asset-Infrastructure-to-Global-Investing
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -119,7 +119,7 @@ Importance: 3/5 — A real, strategically coherent deal (RLUSD enters securities
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-18]] (2026-10-18).
 <!-- /enrichment:post -->
 
 ## Market Research

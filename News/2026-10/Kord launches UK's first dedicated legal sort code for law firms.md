@@ -10,7 +10,7 @@ tags:
   - type/product
 sources:
   - https://www.legalfutures.co.uk/associate-news/kord-launches-uks-first-dedicated-legal-sort-code/print
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "This Week in Fintech"
@@ -114,7 +114,7 @@ UK "law-firm client-money without holding it yourself" is an established, FCA-bo
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-18]] (2026-10-18).
 <!-- /enrichment:post -->
 
 ## Market Research

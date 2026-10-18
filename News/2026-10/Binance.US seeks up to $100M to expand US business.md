@@ -10,7 +10,7 @@ tags:
   - type/funding
 sources:
   - https://finance.yahoo.com/markets/crypto/articles/binance-us-seeks-100-million-161110219.html
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "This Week in Fintech"
@@ -122,7 +122,7 @@ See challenge file.
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-18]] (2026-10-18).
 <!-- /enrichment:post -->
 
 ## Market Research

@@ -9,7 +9,7 @@ tags:
   - type/regulation
 sources:
   - https://www.livemint.com/market/sebi-weighs-allowing-mutual-fund-distributors-become-investment-advisers-mfds-dual-licences-ria-11791453548147.html
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "This Week in Fintech"
@@ -130,7 +130,7 @@ Watch for SEBI's **incidental-advice guidelines (expected "soon")** as the first
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-18]] (2026-10-18).
 <!-- /enrichment:post -->
 
 ## Market Research

@@ -10,7 +10,7 @@ tags:
   - type/funding
 sources:
   - https://www.businesswire.com/news/home/20261014039312/en/Fragment-Raises-%2412-Million-Series-A-to-Turn-Agents-into-Financial-Operators
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -118,7 +118,7 @@ Importance: 3/5 — Real, logo-backed traction and a coherent, well-timed thesis
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-18]] (2026-10-18).
 <!-- /enrichment:post -->
 
 ## Market Research

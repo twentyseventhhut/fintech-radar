@@ -11,7 +11,7 @@ tags:
   - type/partnership
 sources:
   - https://ffnews.com/news/embargoed-natwest-improves-ai-speech-recognition-for-uk-banking-customers-with-n-abea2e1e
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -173,7 +173,7 @@ Sources: https://ffnews.com/news/embargoed-natwest-improves-ai-speech-recognitio
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-18]] (2026-10-18).
 <!-- /enrichment:post -->
 
 ## Market Research

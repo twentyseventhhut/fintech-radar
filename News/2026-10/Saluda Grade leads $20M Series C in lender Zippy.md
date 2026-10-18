@@ -11,7 +11,7 @@ tags:
   - type/funding
 sources:
   - https://www.housingwire.com/articles/saluda-grade-20-million-series-c-zippy
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "This Week in Fintech"
@@ -87,7 +87,7 @@ Sources:
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-18]] (2026-10-18).
 <!-- /enrichment:post -->
 
 ## Market Research

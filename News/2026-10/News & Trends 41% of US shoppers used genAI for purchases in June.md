@@ -9,7 +9,7 @@ tags:
   - type/research-report
 sources:
   - http://clc.to/YTUZUA
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "News & Trends by Sber"
@@ -105,7 +105,7 @@ Together these show the plumbing (OpenAI/Stripe ACP, Visa TAP, Mastercard Agent 
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-18]] (2026-10-18).
 <!-- /enrichment:post -->
 
 ## Market Research

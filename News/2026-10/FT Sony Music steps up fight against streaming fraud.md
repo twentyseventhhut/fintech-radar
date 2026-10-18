@@ -9,7 +9,7 @@ tags:
   - type/commentary
 sources:
   - https://www.ft.com/content/51aed058-f8e0-4426-b92a-790b7863d350
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "42 секунды"
@@ -133,7 +133,7 @@ Sony Music is one of three majors whose revenue is overwhelmingly streaming-driv
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-18]] (2026-10-18).
 <!-- /enrichment:post -->
 
 ## Market Research

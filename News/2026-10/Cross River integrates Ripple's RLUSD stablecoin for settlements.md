@@ -11,7 +11,7 @@ tags:
   - type/product
 sources:
   - https://www.cryptotimes.io/2026/10/15/cross-river-adds-ripples-rlusd-to-banking-platform-for-settlements
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -141,7 +141,7 @@ Watch for: a disclosed client/volume number or a full-US-availability date (the 
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-18]] (2026-10-18).
 <!-- /enrichment:post -->
 
 ## Market Research

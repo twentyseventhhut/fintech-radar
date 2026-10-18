@@ -9,7 +9,7 @@ tags:
   - type/research-report
 sources:
   - https://www.cbinsights.com/research/report/fintech-trends-q3-2026
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "This Week in Fintech"
@@ -111,7 +111,7 @@ Importance: 4/5 — a widely-cited quarterly benchmark (CB Insights) confirming 
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-18]] (2026-10-18).
 <!-- /enrichment:post -->
 
 ## Market Research

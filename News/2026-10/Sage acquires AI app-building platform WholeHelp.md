@@ -10,7 +10,7 @@ tags:
   - type/m-and-a
 sources:
   - https://www.sage.com/en-gb/company/digital-newsroom/2026/10/sage-acquires-wholehelp-to-empower-customers-and-partners
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "This Week in Fintech"
@@ -117,7 +117,7 @@ Importance: 3/5 — A **well-timed strategic tuck-in**: Sage converts a 4-month-
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-18]] (2026-10-18).
 <!-- /enrichment:post -->
 
 ## Market Research

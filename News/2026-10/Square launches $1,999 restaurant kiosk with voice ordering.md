@@ -10,7 +10,7 @@ tags:
   - type/product
 sources:
   - https://www.kioskmarketplace.com/news/square-introduces-ai-powered-restaurant-kiosk-with-conversational-voice-ordering
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "This Week in Fintech"
@@ -89,7 +89,7 @@ Internal: [[Square launches Square for Drive-Thru with Howard Company and Nanona
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-18]] (2026-10-18).
 <!-- /enrichment:post -->
 
 ## Market Research

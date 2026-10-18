@@ -12,7 +12,7 @@ tags:
 sources:
   - https://25749991.hs-sites-eu1.com/fraudio-data-led-insights
   - https://www.paymentsdive.com/news/mastercard-bolsters-scam-defense/826259
-status: enriched
+status: published
 n_mentions: 2
 channels:
   - "This Week in Fintech"
@@ -168,7 +168,7 @@ The study quantifies a long-assumed but poorly-measured risk: new merchants are 
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-18]] (2026-10-18).
 <!-- /enrichment:post -->
 
 ## Market Research
