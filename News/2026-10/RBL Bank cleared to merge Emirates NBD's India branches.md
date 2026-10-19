@@ -10,7 +10,7 @@ tags:
   - type/m-and-a
 sources:
   - https://www.tribuneindia.com/news/business/rbi-approves-merger-of-emirates-nbds-indian-branches-with-rbl-bank-from-dec-1
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "This Week in Fintech"
@@ -109,7 +109,7 @@ Importance: 3/5 — materially significant deal (largest foreign FDI into Indian
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-19]] (2026-10-19).
 <!-- /enrichment:post -->
 
 ## Market Research

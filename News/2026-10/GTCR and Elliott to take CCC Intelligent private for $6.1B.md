@@ -11,7 +11,7 @@ tags:
   - type/m-and-a
 sources:
   - https://rss.globenewswire.com/news-release/2026/10/15/3381595/0/en/ccc-intelligent-solutions-signs-definitive-agreement-to-be-acquired-by-gtcr-and-elliott.html
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "This Week in Fintech"
@@ -164,7 +164,7 @@ Importance: 3/5 — Large ($6.1B), clean, fully-signed take-private of the US au
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-19]] (2026-10-19).
 <!-- /enrichment:post -->
 
 ## Market Research

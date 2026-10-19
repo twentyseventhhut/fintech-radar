@@ -10,7 +10,7 @@ tags:
   - type/m-and-a
 sources:
   - https://www.fairfax.ca/press-releases/fairfax-declared-strategic-buyer-in-auction-to-acquire-interest-in-idbi-bank-plans-to-contribute-digit-insurance-and-iifl-capital-to-idbi-bank-2026-10-14
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "This Week in Fintech"
@@ -106,7 +106,7 @@ On **14 Oct 2026** India's Cabinet Committee on Economic Affairs (CCEA) cleared 
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-19]] (2026-10-19).
 <!-- /enrichment:post -->
 
 ## Market Research

@@ -9,7 +9,7 @@ tags:
   - type/product
 sources:
   - https://www.reuters.com/business/finance/deutsche-bank-prepares-crypto-custody-launch-targets-asia-growth-2026-10-16
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -109,7 +109,7 @@ Importance: 3/5 — A GSIB formally entering regulated crypto custody with a har
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-19]] (2026-10-19).
 <!-- /enrichment:post -->
 
 ## Market Research

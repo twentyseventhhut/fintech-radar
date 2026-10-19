@@ -10,7 +10,7 @@ tags:
   - type/regulation
 sources:
   - https://tradersunion.com/news/institutions/show/3849745-us-banks-limit-ai-agent-access
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -88,7 +88,7 @@ URLs:
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-19]] (2026-10-19).
 <!-- /enrichment:post -->
 
 ## Market Research

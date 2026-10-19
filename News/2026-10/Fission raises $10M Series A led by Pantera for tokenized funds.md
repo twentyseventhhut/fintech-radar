@@ -10,7 +10,7 @@ tags:
   - type/funding
 sources:
   - https://www.prnewswire.com/news-releases/fission-raises-10m-series-a-led-by-pantera-capital-to-bring-liquidity-to-digital-private-markets-302908670.html
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "This Week in Fintech"
@@ -120,7 +120,7 @@ Importance: 3/5 — A well-backed (Pantera-led), thesis-coherent bet on the most
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-19]] (2026-10-19).
 <!-- /enrichment:post -->
 
 ## Market Research

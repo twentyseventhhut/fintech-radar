@@ -9,7 +9,7 @@ tags:
   - type/regulation
 sources:
   - https://cryptonews.net/news/finance/33599083
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -164,7 +164,7 @@ Importance: 3/5 — a real and clean policy reversal by a notable central bank w
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-19]] (2026-10-19).
 <!-- /enrichment:post -->
 
 ## Market Research

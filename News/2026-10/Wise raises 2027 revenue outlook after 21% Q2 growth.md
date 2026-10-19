@@ -9,7 +9,7 @@ tags:
   - type/earnings
 sources:
   - https://pluang.com/en/news-feed/wise-naikkan-proyeksi-pendapatan-2027-setelah-pertumbuhan-kuartal-2-21-persen
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -130,7 +130,7 @@ Importance: 3/5 — Fresh, distinct reporting period (Q2/H1 FY2027, quarter ende
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-19]] (2026-10-19).
 <!-- /enrichment:post -->
 
 ## Market Research

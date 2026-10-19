@@ -10,7 +10,7 @@ tags:
   - type/ipo
 sources:
   - https://preqveca.ru/news/57463
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Mergers.ru"
@@ -117,7 +117,7 @@ Igronik is a **1992-vintage, founder-run services business** with a blue-chip bu
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-19]] (2026-10-19).
 <!-- /enrichment:post -->
 
 ## Market Research

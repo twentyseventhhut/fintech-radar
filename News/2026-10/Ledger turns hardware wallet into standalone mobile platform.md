@@ -10,7 +10,7 @@ tags:
   - type/product
 sources:
   - https://max.ru/fintexno
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Финтехно"
@@ -117,7 +117,7 @@ Next: pre-orders now, **ships summer 2027**; Seeker-app ecosystem bundling; like
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-19]] (2026-10-19).
 <!-- /enrichment:post -->
 
 ## Market Research

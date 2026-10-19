@@ -10,7 +10,7 @@ tags:
   - type/m-and-a
 sources:
   - https://www.lseg.com/en/media-centre/press-releases/2026/lseg-response-to-press-speculation-octus-acquisition
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "This Week in Fintech"
@@ -252,7 +252,7 @@ LSEG's identity since the **$27bn Refinitiv acquisition (closed Jan 2021)** is "
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-19]] (2026-10-19).
 <!-- /enrichment:post -->
 
 ## Market Research

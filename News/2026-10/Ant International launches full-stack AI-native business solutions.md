@@ -10,7 +10,7 @@ tags:
   - type/product
 sources:
   - https://www.ant-intl.com/en/news/detail
-status: enriched
+status: published
 n_mentions: 4
 channels:
   - "Fintech Wrap Up"
@@ -123,7 +123,7 @@ Importance: 3/5 — A substantive, well-sequenced flagship launch from a top-tie
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-19]] (2026-10-19).
 <!-- /enrichment:post -->
 
 ## Market Research

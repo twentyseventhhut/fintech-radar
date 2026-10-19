@@ -9,7 +9,7 @@ tags:
   - type/leadership
 sources:
   - https://www1.folha.uol.com.br/colunas/painelsa/2026/10/recargapay-troca-gestao-financeira-para-se-preparar-para-ipo-nos-eua.shtml
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "This Week in Fintech"
@@ -438,7 +438,7 @@ Importance: 3/5 — A credible, buy-side-connected CFO materially raises the pro
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-19]] (2026-10-19).
 <!-- /enrichment:post -->
 
 ## Market Research

@@ -9,7 +9,9 @@ tags:
   - region/us
   - type/m-and-a
 sources:
-  - https://www.investegate.co.uk/announcement/rns/plus500-ltd-di---plus/acquisition-of-hedge-and-launch-of-super-app-/9819149
+  - https://www.investegate.co.uk/announcement/rns/plus500-ltd-di
+status: published
+---plus/acquisition-of-hedge-and-launch-of-super-app-/9819149
 status: enriched
 n_mentions: 1
 channels:
@@ -366,7 +368,7 @@ What's genuinely new: **direct SEC-regulated securities access** for Plus500 for
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-19]] (2026-10-19).
 <!-- /enrichment:post -->
 
 ## Market Research

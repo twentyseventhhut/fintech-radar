@@ -9,7 +9,7 @@ tags:
   - type/ipo
 sources:
   - https://www.nasdaqtrader.com/TraderNews.aspx
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "This Week in Fintech"
@@ -453,7 +453,7 @@ Importance: 3/5 — The largest public XRP treasury and a symbolically notable "
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-19]] (2026-10-19).
 <!-- /enrichment:post -->
 
 ## Market Research

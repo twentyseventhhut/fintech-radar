@@ -10,7 +10,7 @@ tags:
   - type/m-and-a
 sources:
   - https://mergers.ru/news/RusGazDobycha-peredala-49-v-postavschike-neftegazovogo-oborudovaniya-GMS-87659
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Mergers.ru"
@@ -190,7 +190,7 @@ Importance: 3/5
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-19]] (2026-10-19).
 <!-- /enrichment:post -->
 
 ## Market Research

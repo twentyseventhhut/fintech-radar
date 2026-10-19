@@ -10,7 +10,7 @@ tags:
 sources:
   - https://www.mastercard.com/us/en.html
   - https://www.mastercard.com/news/latin-america/es/sala-de-prensa/comunicados-de-prensa/pr-es/2026/octubre/mastercard-lanza-programa-para-impulsar-la-aceptacion-de-pagos-sin-contacto-en-mexico
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -1284,7 +1284,7 @@ URLs:
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-19]] (2026-10-19).
 <!-- /enrichment:post -->
 
 ## Market Research

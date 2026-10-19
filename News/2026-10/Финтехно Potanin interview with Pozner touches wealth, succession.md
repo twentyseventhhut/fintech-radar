@@ -9,7 +9,7 @@ tags:
   - type/commentary
 sources:
   - https://max.ru/fintexno
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Финтехно"
@@ -106,7 +106,7 @@ Importance: 2/5 — A high-profile UBO airs macro/personal views (sanctions, imp
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-19]] (2026-10-19).
 <!-- /enrichment:post -->
 
 ## Market Research

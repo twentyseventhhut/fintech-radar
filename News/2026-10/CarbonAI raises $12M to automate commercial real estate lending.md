@@ -10,7 +10,7 @@ tags:
   - type/funding
 sources:
   - https://wbnstv.marketminute.com/article/bizwire-2026-10-15-carbonai-raises-12m-to-bring-ai-agents-to-commercial-real-estate-lending
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "This Week in Fintech"
@@ -128,7 +128,7 @@ _Analytical notes (not a post). Importance: 3/5._
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-19]] (2026-10-19).
 <!-- /enrichment:post -->
 
 ## Market Research

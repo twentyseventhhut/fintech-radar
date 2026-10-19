@@ -10,7 +10,7 @@ tags:
   - type/partnership
 sources:
   - https://www.businesswire.com/news/home/20261016304815/en/Marqeta-and-Coinbase-Collaborate-to-Enable-Stablecoin-Backed-Card-Payments
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -115,7 +115,7 @@ Stablecoin card **issuing/enablement** is already a crowded, faster-moving field
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-19]] (2026-10-19).
 <!-- /enrichment:post -->
 
 ## Market Research

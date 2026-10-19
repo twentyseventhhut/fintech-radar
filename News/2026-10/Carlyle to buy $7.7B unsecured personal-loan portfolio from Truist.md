@@ -11,7 +11,7 @@ tags:
   - type/m-and-a
 sources:
   - https://www.carlyle.com/media-room/news-release-archive/carlyle-acquire-approximately-77-billion-personal-loan-portfolio
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "This Week in Fintech"
@@ -135,7 +135,7 @@ Importance: 4/5 — Large ($7.7B), named buyer and seller, quantified bank capit
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-19]] (2026-10-19).
 <!-- /enrichment:post -->
 
 ## Market Research

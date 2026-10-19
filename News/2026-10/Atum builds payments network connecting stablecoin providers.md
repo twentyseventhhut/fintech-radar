@@ -11,7 +11,7 @@ tags:
 sources:
   - https://www.prnewswire.com/news-releases/atum-emerges-from-stealth-with-the-open-payments-network-for-global-money-movement-302886088.html
   - https://atum.xyz
-status: enriched
+status: published
 n_mentions: 2
 channels:
   - "Fintech Brainfood"
@@ -123,7 +123,7 @@ Importance: 3/5 — Credible team, strong backers (Variant/PayPal Ventures), and
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-19]] (2026-10-19).
 <!-- /enrichment:post -->
 
 ## Market Research

@@ -10,7 +10,7 @@ tags:
   - type/research-report
 sources:
   - https://beincrypto.com/japan-megabanks-yen-stablecoin-cross-border-pilot
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -451,7 +451,7 @@ Importance: 3/5 — A credible, FSA-backed milestone by Japan's three largest ba
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-19]] (2026-10-19).
 <!-- /enrichment:post -->
 
 ## Market Research

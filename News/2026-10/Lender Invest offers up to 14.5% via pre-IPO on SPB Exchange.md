@@ -9,7 +9,7 @@ tags:
   - type/ipo
 sources:
   - https://preqveca.ru/news/57489
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Mergers.ru"
@@ -126,7 +126,7 @@ Rationale: real, profitable micro-platform doing a small (415M ₽) equity raise
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-19]] (2026-10-19).
 <!-- /enrichment:post -->
 
 ## Market Research
