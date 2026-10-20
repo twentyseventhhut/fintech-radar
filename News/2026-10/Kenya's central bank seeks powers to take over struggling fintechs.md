@@ -10,7 +10,7 @@ tags:
   - type/regulation
 sources:
   - https://www.businessdailyafrica.com/bd/economy/cbk-seeks-power-to-raid-oust-top-bosses-at-payment-firms-5616460
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "This Week in Fintech"
@@ -419,7 +419,7 @@ Importance: 3/5 — A substantive, systemically-relevant regulatory overhaul of 
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-20]] (2026-10-20).
 <!-- /enrichment:post -->
 
 ## Market Research

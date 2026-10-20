@@ -9,7 +9,7 @@ tags:
   - type/commentary
 sources:
   - https://www.ft.com/content/3beab58d-4269-4722-b299-8fa5a93f5a52
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "42 секунды"
@@ -111,7 +111,7 @@ Importance: 3/5 — A genuinely new, large-headline-number corporate action from
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-20]] (2026-10-20).
 <!-- /enrichment:post -->
 
 ## Market Research

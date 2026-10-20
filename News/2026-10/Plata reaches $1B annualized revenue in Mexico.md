@@ -10,7 +10,7 @@ tags:
   - type/earnings
 sources:
   - https://www.bloomberg.com/news/articles/2026-10-19/plata-ceo-says-fintech-s-annualized-revenue-reaches-1-billion
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -102,7 +102,7 @@ Importance: **4/5** — a genuinely notable traction milestone (fastest-to-$1B-r
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-20]] (2026-10-20).
 <!-- /enrichment:post -->
 
 ## Market Research

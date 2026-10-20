@@ -9,7 +9,7 @@ tags:
   - type/product
 sources:
   - https://www.retail.ru/news/marketpleys-ozon-uchredil-dve-strakhovye-kompanii-15-oktyabrya-2026-283360
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "News & Trends by Sber"
@@ -114,7 +114,7 @@ Importance: 3/5 — Rationale: Fresh, strategically coherent, and about Russia's
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-20]] (2026-10-20).
 <!-- /enrichment:post -->
 
 ## Market Research

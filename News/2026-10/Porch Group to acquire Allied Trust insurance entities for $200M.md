@@ -10,7 +10,7 @@ tags:
   - type/m-and-a
 sources:
   - https://www.alliedtrustins.com/post/allied-trust-announces-agreement-to-be-acquired-by-porch-group
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "This Week in Fintech"
@@ -130,7 +130,7 @@ Pro-forma 2027 targets (Jan-1-close basis): RWP **>$900M**, >360k policies, Adj.
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-20]] (2026-10-20).
 <!-- /enrichment:post -->
 
 ## Market Research

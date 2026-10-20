@@ -10,7 +10,7 @@ tags:
   - type/product
 sources:
   - https://www.sberbank.ru/ru/sberpress/all/article
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "News & Trends by Sber"
@@ -108,7 +108,7 @@ Importance: 3/5 — real product with genuine domestic traction (45k installs, i
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-20]] (2026-10-20).
 <!-- /enrichment:post -->
 
 ## Market Research

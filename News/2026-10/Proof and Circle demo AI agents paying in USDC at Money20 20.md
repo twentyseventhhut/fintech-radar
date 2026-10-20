@@ -11,7 +11,7 @@ tags:
   - type/product
 sources:
   - https://www.proof.com/blog/proof-and-circle-show-how-ai-agents-can-prove-who-they-act-for-and-pay-in-usdc
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -232,7 +232,7 @@ The agentic-commerce rails race is crowded and card-network-led:
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-20]] (2026-10-20).
 <!-- /enrichment:post -->
 
 ## Market Research

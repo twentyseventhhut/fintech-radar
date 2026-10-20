@@ -11,7 +11,7 @@ tags:
   - type/partnership
 sources:
   - https://www.thunes.com/news/thunes-and-coinbase-join-forces-to-drive-next-generation-global-payments
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -111,7 +111,7 @@ Importance: 3/5 — a real, fresh new counterparty pairing between two meaningfu
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-20]] (2026-10-20).
 <!-- /enrichment:post -->
 
 ## Market Research

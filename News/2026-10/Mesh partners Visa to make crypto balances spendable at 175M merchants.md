@@ -11,7 +11,7 @@ tags:
   - type/partnership
 sources:
   - https://www.morningstar.com/news/pr-newswire/20261019sf74872/mesh-and-visa-partner-to-make-stablecoin-and-crypto-balances-spendable-across-175-million-merchants
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -151,7 +151,7 @@ Importance: 3/5 — fresh, real sector tailwind and a credible big-name counterp
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-20]] (2026-10-20).
 <!-- /enrichment:post -->
 
 ## Market Research

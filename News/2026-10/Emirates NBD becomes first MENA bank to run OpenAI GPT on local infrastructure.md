@@ -11,7 +11,7 @@ tags:
   - type/product
 sources:
   - https://ffnews.com/news/emirates-nbd-becomes-first-mena-bank-to-harness-openai-s-sovereign-ai-infrastruc-09cf5332
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -160,7 +160,7 @@ Different flavours (self-trained vs. hyperscaler-hosted vs. vendor platform), bu
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-20]] (2026-10-20).
 <!-- /enrichment:post -->
 
 ## Market Research

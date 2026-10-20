@@ -9,7 +9,7 @@ tags:
   - type/regulation
 sources:
   - https://max.ru/fintexno
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Финтехно"
@@ -112,7 +112,7 @@ FNS under its digitisation drive has been steadily widening its data reach: 2021
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-20]] (2026-10-20).
 <!-- /enrichment:post -->
 
 ## Market Research

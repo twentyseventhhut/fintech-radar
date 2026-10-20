@@ -10,7 +10,7 @@ tags:
   - type/product
 sources:
   - https://www.globenewswire.com/news-release/2026/10/15/3381757/0/en/stripe-and-plasma-co-develop-a-new-multi-currency-card-experience.html
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -178,7 +178,7 @@ On 2026-10-15 Stripe and **Plasma** (Paul Faecks' stablecoin company — the Pla
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-20]] (2026-10-20).
 <!-- /enrichment:post -->
 
 ## Market Research

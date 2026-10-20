@@ -10,7 +10,7 @@ tags:
   - type/m-and-a
 sources:
   - https://mergers.ru/news/Rosatom-gotovit-sdelku-s-arabskim-DP-World-87667
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Mergers.ru"
@@ -188,7 +188,7 @@ Importance: 3/5 — Strategically meaningful (rare top-tier global port operator
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-20]] (2026-10-20).
 <!-- /enrichment:post -->
 
 ## Market Research

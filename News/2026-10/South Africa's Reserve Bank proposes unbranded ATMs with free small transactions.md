@@ -10,7 +10,7 @@ tags:
   - type/regulation
 sources:
   - https://africa.businessinsider.com/local/markets/south-africa-wants-banks-to-share-its-30000-atms-and-make-smaller-withdrawals-free/yhrl9f6
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "This Week in Fintech"
@@ -251,7 +251,7 @@ _Importance: 3/5._
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-20]] (2026-10-20).
 <!-- /enrichment:post -->
 
 ## Market Research

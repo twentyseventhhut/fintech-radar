@@ -11,7 +11,7 @@ tags:
   - type/partnership
 sources:
   - https://www.pymnts.com/news/banking/2026/santander-turns-to-nvidia-to-build-new-ai-banking-capabilities
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -145,7 +145,7 @@ Roadmap: foundation models, AI agents, fraud/AML, real-time decisioning, banking
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-20]] (2026-10-20).
 <!-- /enrichment:post -->
 
 ## Market Research

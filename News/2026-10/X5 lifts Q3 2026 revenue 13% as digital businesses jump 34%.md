@@ -9,7 +9,7 @@ tags:
   - type/earnings
 sources:
   - https://www.retail.ru/news/vyruchka-x5-v-3-kvartale-2026-goda-vyrosla-na-13--16-oktyabrya-2026-283373
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "News & Trends by Sber"
@@ -112,7 +112,7 @@ On **2026-10-16** X5 Group (Russia's #1 grocer; MOEX: X5) published **preliminar
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-20]] (2026-10-20).
 <!-- /enrichment:post -->
 
 ## Market Research

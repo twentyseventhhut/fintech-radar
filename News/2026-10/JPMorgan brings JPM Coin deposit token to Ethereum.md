@@ -10,7 +10,7 @@ tags:
   - type/product
 sources:
   - https://www.bloomberg.com/news/articles/2026-10-19/jpmorgan-brings-deposit-token-jpm-coin-to-ethereum-for-institutional-clients
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -106,7 +106,7 @@ Importance: 3/5 — JPMorgan is the bellwether and Ethereum mainnet is a real di
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-20]] (2026-10-20).
 <!-- /enrichment:post -->
 
 ## Market Research

@@ -11,7 +11,7 @@ tags:
   - type/m-and-a
 sources:
   - https://www.koreatimes.co.kr/business/banking-finance/20261019/finda-to-become-1st-fintech-firm-to-acquire-savings-bank
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -143,7 +143,7 @@ Founded 2015; built a loan-comparison marketplace, collecting **loan-matching da
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-20]] (2026-10-20).
 <!-- /enrichment:post -->
 
 ## Market Research

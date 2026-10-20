@@ -10,7 +10,7 @@ tags:
   - type/m-and-a
 sources:
   - https://www.cohnreznick.com/insights/cohnreznick-expands-west-coast-footprint-and-wealth-advisory-through-aldrich-acquisition
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "This Week in Fintech"
@@ -139,7 +139,7 @@ CohnReznick: Top-20, ~5,000 staff, 350+ partners, 29 offices, $1.12B FY25 revenu
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-20]] (2026-10-20).
 <!-- /enrichment:post -->
 
 ## Market Research

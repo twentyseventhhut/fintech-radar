@@ -9,7 +9,7 @@ tags:
   - type/regulation
 sources:
   - https://www.cbr.ru/Crosscut/LawActs/File/12196
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Финтехно"
@@ -454,7 +454,7 @@ Expect convergence: the binding 445-P redraft (comment period to 21 Oct, Rosfinm
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-20]] (2026-10-20).
 <!-- /enrichment:post -->
 
 ## Market Research

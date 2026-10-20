@@ -12,7 +12,7 @@ tags:
 sources:
   - https://www.klarna.com/international/press/klarna-expands-fiserv-partnership-to-enterprise-merchants-after-going-live-at-100-000-u-s-locations-via-clover
   - https://www.klarna.com/international
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -108,7 +108,7 @@ FRESHNESS/DUPLICATE VERDICT: **FRESH.** No existing note covers the Klarna–Fis
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-20]] (2026-10-20).
 <!-- /enrichment:post -->
 
 ## Market Research

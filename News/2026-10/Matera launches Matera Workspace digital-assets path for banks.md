@@ -9,7 +9,7 @@ tags:
   - type/product
 sources:
   - https://www.businesswire.com/news/home/20261016469184/en/Matera-Launches-Matera-Workspace-Giving-Banks-and-Credit-Unions-the-Shortest-Path-to-Offer-Digital-Assets-Alongside-Fiat
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -87,7 +87,7 @@ Importance: 3/5 — Real, differentiated product (non-core-replacement unified l
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-20]] (2026-10-20).
 <!-- /enrichment:post -->
 
 ## Market Research

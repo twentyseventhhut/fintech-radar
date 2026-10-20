@@ -9,7 +9,7 @@ tags:
   - type/regulation
 sources:
   - https://www.ft.com/content/d05f87bf-225b-43f9-86e6-2f9537cd75c6
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -103,7 +103,7 @@ Sequence: CMA publishes proposal → consultation → final conduct requirement 
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-20]] (2026-10-20).
 <!-- /enrichment:post -->
 
 ## Market Research

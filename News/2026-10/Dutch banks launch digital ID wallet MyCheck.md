@@ -11,7 +11,7 @@ tags:
   - type/product
 sources:
   - https://www.dutchbrief.com/p/dutch-banks-and-firms-to-launch-a
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -146,7 +146,7 @@ _Analytical notes (not a post). Importance: 3/5._
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-20]] (2026-10-20).
 <!-- /enrichment:post -->
 
 ## Market Research

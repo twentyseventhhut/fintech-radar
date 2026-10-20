@@ -9,7 +9,7 @@ tags:
   - type/product
 sources:
   - https://www.cnews.ru/news/line/2026-10-19_v_prilozhenii_mts_banka
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "News & Trends by Sber"
@@ -124,7 +124,7 @@ Roadmap: add **air tickets** (stated plan), expand the transport vertical inside
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-20]] (2026-10-20).
 <!-- /enrichment:post -->
 
 ## Market Research

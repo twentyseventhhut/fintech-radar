@@ -10,7 +10,7 @@ tags:
   - type/regulation
 sources:
   - https://techcentral.co.za/banks-lose-grip-south-africa-payments-system/287396
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "This Week in Fintech"
@@ -108,7 +108,7 @@ This mirrors a global wave of giving non-bank PSPs **direct** rails access, so S
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-20]] (2026-10-20).
 <!-- /enrichment:post -->
 
 ## Market Research
