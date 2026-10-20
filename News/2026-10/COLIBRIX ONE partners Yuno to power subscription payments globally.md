@@ -10,13 +10,15 @@ tags:
   - type/partnership
 sources:
   - https://colibrix.one/news/colibrix-one-partners-with-yuno-to-power-subscription-payments-globally
-status: tagged
+status: enriched
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
 story_id: s0df16899
 month: 2026-10
-enriched: false
+enriched: true
+importance: 2
+freshness: fresh
 ---
 
 # COLIBRIX ONE partners Yuno to power subscription payments globally
@@ -117,13 +119,70 @@ At the Merchant Payments Eco
 ## Контекст
 
 <!-- enrichment:context -->
-_(пусто — заполняется при обогащении)_
+# Context-enrichment: COLIBRIX ONE partners Yuno to power subscription payments globally
+_Analytical notes (not a post). Importance: 2/5._
+
+## [0] What exactly happened (de-PR'd)
+On 2026-10-16 COLIBRIX ONE (a Malta/UK-based acquirer and EMI, commercial brand of the Mellifera group; FCA-authorised Colibrix Limited FRN 927920 + MFSA-authorised Mellifera Kartiera) announced a **partnership/integration with Yuno**, a Colombian-born payment-orchestration platform. The mechanism: COLIBRIX ONE plugs its **acquiring + local payment methods** into Yuno's orchestration layer, so European merchants can run **recurring/subscription payments** into "130+ countries" through a single Yuno integration, while Yuno supplies subscription-management tooling (customisable billing, smart routing, retries, card account updater, revenue recovery).
+
+De-PR'd reality:
+- This is a **connector announcement, not a product launch with metrics**. There is **no GMV, no merchant count, no go-live date, no conversion/approval-rate uplift, no pricing, no exclusivity**. It is "merchants can now…", i.e. availability, not adoption.
+- The headline "globally" is really **European merchants selling into 130+ countries** — the acceptance footprint, not a new global presence for either party.
+- **Why structured this way:** COLIBRIX is a commodity acquirer competing on human support ("named account manager", "48h onboarding") and breadth of connectors. Being discoverable **inside** orchestrators (Yuno, and already Primer) is pure distribution: it puts COLIBRIX's acquiring in front of enterprise merchants who have already standardised on an orchestration layer. The "subscription" framing is the current go-to-market theme COLIBRIX is leaning on hard (see its own recent content barrage on failed renewals, churn, recurring billing).
+- The subscription features described (retries, account updater, dunning, usage/per-seat billing) are **Yuno's existing capabilities**, not something built for this deal. Yuno has documented Subscriptions APIs, trial intervals, tiered/usage metering, and even Pix Automático for recurring debit — all pre-existing. COLIBRIX contributes the acquiring/card-processing leg.
+
+## [1] Competitors / peers
+Payment-orchestration layer (where Yuno sits): **Primer** (UK, raised $100M Series C 2026-05, [[Primer raises $100 million Series C for payments orchestration]]), **Spreedly**, **Gr4vy** (active in LatAm/global, [[Gr4vy partners Unlimit for worldwide local payment methods]]), **dLocal** (also a Yuno partner, [[dLocal and Yuno expand emerging-markets payments partnership]]), Corefy, Solidgate.
+- Yuno positions as the **AI-native / emerging-markets-heavy** orchestrator (1,000+ payment methods, 460+ integrations, 190+ countries; marquee logos McDonald's, Rappi, inDrive, GoFundMe, NetEase). It is small financially — ~$10M seed (2022) → $25M Series A (2024, ~$150M valuation, DST/Tiger/a16z) → $45M Series B (2026-08). So it is **far smaller than the enterprise PSPs it routes to**.
+- COLIBRIX's position on this deal: **catching up / parity, not ahead.** COLIBRIX is one of many acquirers that an orchestrator will happily add; being inside Yuno does not differentiate it from the dozens of other connectors Yuno already supports.
+- **Why the lay of the land is this way:** orchestrators win by being connector-agnostic (Yuno is explicitly "agnostic by design"). That means each individual acquirer inside them is **commoditised** — the orchestrator captures the routing/intelligence margin, the acquirer is interchangeable. Yuno's own CFO quote ("flexibility to choose the providers… that work best") underlines that COLIBRIX is one option among many, not a preferred rail.
+
+## [2] Company history / fit
+- **COLIBRIX ONE** is a mid-tier cross-border acquirer/EMI pushing a "service-first" differentiation (human account managers, 48h onboarding, 90%-area approval rates claimed, 130+ countries). 2026 activity is heavy on events (Money20/20 Europe, Visa Payments Forum), awards shortlists, and a strong **subscription/recurring-payments content push**.
+- Direct precedent and the key fit point: **weeks earlier COLIBRIX ONE did the near-identical deal with Primer** — "COLIBRIX ONE x Primer: subscription payment processing / win back failed renewals", where COLIBRIX built and owns the integration via "Primer for Partners" (smart routing, card vaulting, dunning, automatic fallbacks). The Yuno deal is the **same template applied to a second orchestrator**.
+- **Why the company acts this way:** as a commodity take-rate acquirer, COLIBRIX cannot win on price or brand against Adyen/Checkout.com/Stripe. Its structural play is **being present wherever enterprise merchants route** — so it integrates into every orchestrator (Primer, now Yuno) to harvest subscription volume it would otherwise never see. This is a distribution land-grab, logically consistent but low-moat.
+
+## [3] Novelty / value-add / traction
+- **Novelty: low.** Orchestrator-plus-acquirer integrations for recurring payments are a mature, crowded category; COLIBRIX itself shipped the same thing with Primer just before. The marginal new information here is "COLIBRIX is now also inside Yuno."
+- **Traction: none disclosed.** No merchants named, no volume, no live reference. "Can accept" ≠ live.
+- **Value-add reality:** genuine but modest and one-directional. For COLIBRIX it is incremental distribution; for Yuno it is one more acquiring option in an already 1,000-method catalogue. **Who captures the margin:** Yuno (the orchestration/intelligence layer) retains the routing decision and the merchant relationship; COLIBRIX is the interchangeable processing leg → it earns acquiring economics only when Yuno's routing happens to send it the transaction. That is a **structurally weak position** — the orchestrator can reroute to a cheaper/better acquirer at will.
+
+## [4] What's next / market sentiment
+- Expect more such connector announcements from COLIBRIX (pattern already visible: Primer then Yuno); watch for any that actually cite **live merchants or volume** — those would be the real signal.
+- Sector backdrop: payment orchestration is consolidating and well-funded (Primer $100M, Yuno $45M Series B). Subscription/recurring is a genuine growth vector (cited industry stat: failed payments drive a large share of subscription churn), so the demand thesis is real.
+- **Risk / second-order:** COLIBRIX's reliance on living inside third-party orchestrators means its subscription growth is **gated by other platforms' routing logic and commercial priorities**. If orchestrators standardise on preferred acquirers or vertically integrate acquiring (Yuno is already adding payins/payouts/stablecoins directly), COLIBRIX's connector position erodes. The more COLIBRIX leans on "service-first human support," the more it signals it is losing the infrastructure/price argument.
+
+## Top challenge/extra questions
+See challenge column (/tmp/chl_s0df16899.md).
+
+## Sources
+- COLIBRIX ONE press release (primary, in note): https://colibrix.one/news/colibrix-one-partners-with-yuno-to-power-subscription-payments-globally
+- COLIBRIX ONE x Primer (near-identical prior deal): https://colibrix.one/news/colibrix-one-joins-primer-to-rescue-failed-subscription-renewals ; https://internationalfintech.com/colibrix-one-partners-with-primer-to-help-subscription-merchants-win-back-failed-renewals/
+- Yuno $25M round / orchestration: https://y.uno/en/newsroom/yunos-25-million-round ; Yuno $45M Series B: https://fintech.global/2026/08/12/yuno-raises-45m-series-b-to-scale-payments-os/ ; valuation/backers: https://techcrunch.com/2024/03/05/yunos-payments-orchestration-valuation-fintech/
+- Yuno subscriptions capability (pre-existing): https://docs.y.uno/docs/subscriptions ; https://y.uno/en/blog/a-smarter-approach-to-subscription-management
+- Internal: [[Primer raises $100 million Series C for payments orchestration]], [[Gr4vy partners Unlimit for worldwide local payment methods]], [[dLocal and Yuno expand emerging-markets payments partnership]], [[SEON partners Yuno to expand global fraud prevention]]
 <!-- /enrichment:context -->
 
 ## Челлендж / ред-тим
 
 <!-- enrichment:challenge -->
-_(пусто)_
+_Red-team / challenge questions. Importance: 2/5._
+
+1. **Is this live or just available?** No merchants, no volume, no go-live date disclosed — the PR says "can accept," not "are processing." → **open; treat as availability, not adoption.**
+2. **Is it a duplicate of the COLIBRIX x Primer deal?** Structurally the same move (acquiring-into-orchestrator for subscriptions) done weeks earlier with Primer. → **fresh (different counterparty/terms), but the Yuno deal is the second instance of one template, which caps its weight.**
+3. **Who built/owns the integration?** With Primer, COLIBRIX built it via "Primer for Partners." For Yuno, ownership/effort split is unstated. → **open.**
+4. **Who captures the margin?** Yuno holds routing + merchant relationship; COLIBRIX is an interchangeable acquiring leg paid only when Yuno routes to it. → **orchestrator-favoured; weak for COLIBRIX.**
+5. **What's genuinely new vs Yuno's existing stack?** Subscription features (retries, account updater, dunning, usage/per-seat billing, Pix Automático) are pre-existing Yuno capabilities, not built for this deal. → **net-new = one more acquiring connector only.**
+6. **Does "globally / 130+ countries" mean new reach?** No — it's the acceptance footprint for European merchants, not new geographic presence for either firm. → **PR inflation.**
+7. **Any exclusivity or preferred-acquirer status inside Yuno?** None claimed; Yuno is explicitly "agnostic." → **no; COLIBRIX is one option among 1,000+ methods.**
+8. **Fraud/chargeback liability and economics split?** Silent. → **open (typical PR omission).**
+9. **How financially solid is Yuno?** ~$80M raised total ($10M+$25M+$45M), ~$150M valuation (2024). Small vs the PSPs it routes to. → **counterparty is a startup, not an incumbent.**
+10. **Is COLIBRIX's "service-first / human AM / 48h onboarding" a moat or a tell?** Reads as compensation for lacking price/scale advantage vs Adyen/Checkout.com/Stripe. → **tell, not moat (analysis).**
+11. **What would make this important?** Named enterprise merchants live, disclosed volume, or an approval-rate uplift stat. None present. → **nothing yet.**
+12. **Disintermediation risk?** Yuno is adding payins/payouts/stablecoins directly; orchestrators could narrow preferred acquirers or integrate acquiring. → **structural downside for connector-dependent COLIBRIX (hypothesis).**
+13. **Does the demand thesis hold?** Yes — subscription churn from failed payments is a real, cited problem; recurring is a growth vector. → **category is real even if this specific deal is thin.**
+14. **Why announce two orchestrator deals in quick succession?** Distribution land-grab; also a marketing cadence (COLIBRIX runs a heavy content/awards program). → **GTM pattern, expect more.**
+15. **Verdict rationale (2/5):** Real but low-novelty, no traction, orchestrator-favoured margin, second instance of a template already covered weeks prior. Fresh enough to keep, not weighty.
 <!-- /enrichment:challenge -->
 
 ## Связь с постом
@@ -135,7 +194,25 @@ _(пусто)_
 ## Market Research
 
 <!-- enrichment:market_research -->
-_(пусто)_
+**Sector & drivers.** This sits at the intersection of two layers: **payment orchestration** (Yuno's role) and **cross-border acquiring + recurring/subscription billing** (COLIBRIX ONE's role). Orchestration market: ~$3.1–3.7bn in 2026 on the mainstream estimates, ~19–26% CAGR to ~$7–30bn by 2030–2035 depending on scope (per Grand View / Mordor / Technavio / Business Research Insights secondary citations, as of 2026; estimates diverge widely — treat as order-of-magnitude, not precise). Subscription/recurring-billing management: ~$8–12bn in 2026, ~14–17% CAGR (per researchandmarkets / GMInsights / Coherent secondary citations, 2026; same wide dispersion). Structure: **fragmented** — every market has its own local methods, so merchants historically wired up separate integrations per geography; the value proposition on both sides is collapsing that to "one integration." Barriers differ by layer: acquiring (COLIBRIX ONE) needs capital + regulation (it is an FCA/MFSA-authorised EMI and a Visa/Mastercard principal member — a real moat); orchestration (Yuno) needs breadth of integrations + network data, not a licence. **Why now:** (1) subscriptions are now the default monetisation model for fast-growing digital brands, so recurring-revenue recovery is a board-level KPI; (2) involuntary (failed-payment) churn is large — industry estimates put it at ~20–30% of subscriber attrition (secondary citations, 2026), which is what makes retries / card-account-updater / revenue-recovery the commercial hook here.
+
+**Competitive landscape.** Sector KPIs: for orchestration/acquiring — **TPV/transaction volume, acceptance (authorisation) rate, take rate, retry/recovery uplift**; COLIBRIX ONE's own PR claims approval rates "near 90%" across 130+ countries (company claim, not independently verified → treat as marketing). Two distinct peer sets: (a) **orchestrators** — Yuno itself, Primer, Gr4vy, Spreedly, plus acquirer-orchestrator hybrids (Adyen, Checkout.com); (b) **cross-border acquirers / local-payment-method aggregators** — dLocal, EBANX, Unlimit, Flutterwave. Basis of competition: breadth of local methods + acceptance-rate uplift + economics kept by the merchant (vs. a stacking of fees). Recent peer moves: Yuno — Series B $45m (Aug 2026), plus a string of connectivity deals through 2026 (Tabby/BNPL, Coinbase stablecoin, SEON fraud, Flutterwave, Onafriq); Primer — $100m Series C (May 2026); Gr4vy — $15m Series A extension; Spreedly — Dodgeball fraud-orchestration acquisition (Sep 2025), standalone vault (Jul 2026). **Protagonist position:** COLIBRIX ONE is a **niche acquirer** plugging into an orchestrator's distribution, not a platform in its own right here — it becomes *one connector among 1,000+* on Yuno's network. Its differentiators (de-PR'd): a direct Visa/Mastercard acquiring licence (real), 48-hour onboarding, and a "named human account manager" (service, not technology — and easy for rivals to copy) `(analysis)`.
+
+**Comps & multiples.** No valuation attaches to this item — it is a connectivity partnership, not a raise, and **neither COLIBRIX ONE nor Yuno discloses TPV, revenue or take rate** → protagonist multiples = no data. Orchestration-peer round valuations for context (private, post-money — round marks, NOT market cap):
+- **Yuno** (the partner): $45m Series B, Aug 2026; post-money not disclosed → `[UNSOURCED]`.
+- **Primer**: $100m Series C, May 2026; total raised ~$170m; post-money explicitly withheld by the company → `[UNSOURCED]`. Internal comp: [[Primer raises $100 million Series C for payments orchestration]].
+- **Gr4vy**: ~$27m total raised across 4 rounds; valuation reportedly ~$115m (secondary, Tracxn/PitchBook) — a round mark, not verified against revenue. Internal comp: [[Payment orchestrator Gr4vy partners with Mastercard on integration]].
+- **Spreedly**: funding undisclosed; growth qualitative only. Internal comp: [[Spreedly launches standalone payment vault for merchants]].
+Distribution not computed — no revenue denominators are public for any of these, so no EV/Revenue or price-per-user can be shown. Qualitative read: the orchestration layer is being funded at modest absolute cheque sizes ($15–100m rounds), consistent with a **thin-take-rate infrastructure layer**, not a high-multiple SaaS story.
+
+**Risk flags.**
+1. **COLIBRIX ONE is disintermediated / commoditised by the orchestrator.** On Yuno's network it is one of 1,000+ payment methods the merchant can route to or away from; Yuno's own quote stresses merchants "keep the flexibility to choose the providers that work best" — i.e. COLIBRIX ONE must compete on acceptance rate and price per transaction or get routed out. Second-order: pricing power sits with the layer that owns the routing decision (Yuno), not the acquirer.
+2. **"Announced" vs "live" + unverified economics.** The release says European merchants "will" be able to accept payments — adoption, volume commitments and the fee split are all silent. No merchant names, no TPV, no take rate. De-PR: a connectivity announcement is cheap; revenue from it is not demonstrated.
+3. **Concentration / dependence on someone else's rails.** COLIBRIX ONE's distribution upside here depends on Yuno winning the enterprise merchants (McDonald's, Rappi, inDrive are Yuno's, not COLIBRIX ONE's); if Yuno's momentum stalls or Yuno strikes equivalent deals with rival acquirers, COLIBRIX ONE's incremental volume evaporates. Regulatory overhang is modest (COLIBRIX ONE is already licensed) but cross-border recurring billing invites SCA/3DS and local-method compliance per market.
+
+**What this changes (idea-lens).** `(analysis)` This is a distribution play, not a re-rating: a licensed acquirer renting reach it can't build alone, and an orchestrator adding one more supply node to its network. The falsifiable thesis — *that acquiring and orchestration are converging into a "merchant keeps more revenue" bundle* — would be confirmed if COLIBRIX ONE discloses live TPV/merchant wins through Yuno within 2–3 quarters, and broken if the relationship stays a logo-swap with no volume. Watch next: whether Yuno signs other acquirers into the same subscription-recovery slot (which would commoditise COLIBRIX ONE), and whether COLIBRIX ONE can convert its earlier Primer integration + this Yuno tie-up into named recurring-revenue references rather than more conference/award PR.
+
+Sources: https://colibrix.one/news/colibrix-one-partners-with-yuno-to-power-subscription-payments-globally · https://www.grandviewresearch.com/industry-analysis/payment-orchestration-platform-market-report · https://www.mordorintelligence.com/industry-reports/payment-orchestration-platform-market · https://www.gminsights.com/industry-analysis/subscription-billing-management-market · https://fintech.global/2026/08/12/yuno-raises-45m-series-b-to-scale-payments-os/ · https://www.fintechfutures.com/venture-capital-funding/fintech-yuno-45m-series-b · https://finance.yahoo.com/sectors/technology/articles/primer-raises-100m-series-c-101722127.html · https://tracxn.com/d/companies/gr4vy/___az08uJzLsWdnu8vQcKOipTDT4S90iNYyxeVohbzh5I
 <!-- /enrichment:market_research -->
 
 ## Earnings Review
