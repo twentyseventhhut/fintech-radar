@@ -11,7 +11,7 @@ tags:
   - type/expansion
 sources:
   - https://max.ru/fintexno
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Финтехно"
@@ -79,7 +79,7 @@ _(нет загруженного полного текста первоисто
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-21]] (2026-10-21).
 <!-- /enrichment:post -->
 
 ## Market Research

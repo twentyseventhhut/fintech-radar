@@ -10,7 +10,7 @@ tags:
   - type/m-and-a
 sources:
   - https://tradetecheye.com/news/acquisition-of-guru-a-broker-dealer-in-brazil-the-second-largest-derivatives-mar-b8db6be5
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -194,7 +194,7 @@ Genuinely new: **Plus500's first direct, locally-licensed operational presence i
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-21]] (2026-10-21).
 <!-- /enrichment:post -->
 
 ## Market Research

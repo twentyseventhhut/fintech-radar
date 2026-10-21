@@ -10,7 +10,7 @@ tags:
   - type/m-and-a
 sources:
   - https://preqveca.ru/news/57497
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Mergers.ru"
@@ -103,7 +103,7 @@ After 20 Oct trading ceases; remaining minorities are cashed out at 551.4 ₽; P
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-21]] (2026-10-21).
 <!-- /enrichment:post -->
 
 ## Market Research

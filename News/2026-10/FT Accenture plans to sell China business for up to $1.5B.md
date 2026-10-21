@@ -9,7 +9,7 @@ tags:
   - type/m-and-a
 sources:
   - https://www.ft.com/content/2dfdd513-26a6-4a10-9cae-5242eb4ee3ed
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "42 секунды"
@@ -78,7 +78,7 @@ _(нет загруженного полного текста первоисто
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-21]] (2026-10-21).
 <!-- /enrichment:post -->
 
 ## Market Research

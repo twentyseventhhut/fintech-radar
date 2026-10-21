@@ -9,7 +9,7 @@ tags:
   - type/m-and-a
 sources:
   - https://mergers.ru/news/VTB-prodala-agroholding-Labinskij-strukturam-kompanii-Prostory-87671
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Mergers.ru"
@@ -164,7 +164,7 @@ Related internal notes: [[VTB takes large Ozon share stake as collateral]], [[VT
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-21]] (2026-10-21).
 <!-- /enrichment:post -->
 
 ## Market Research

@@ -10,7 +10,7 @@ tags:
   - type/partnership
 sources:
   - https://www.cryptotimes.io/2026/10/20/anchorage-digital-securitize-partner-to-bring-stablecoin-issuance-directly-to-bank
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -129,7 +129,7 @@ Watch for: first *named* tokenized-fund settlements running on this rail; whethe
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-21]] (2026-10-21).
 <!-- /enrichment:post -->
 
 ## Market Research

@@ -9,7 +9,7 @@ tags:
   - type/ipo
 sources:
   - https://startupfortune.com/revolut-hits-a-1212-billion-valuation-mark-as-ipo-talk-turns-serious
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -111,7 +111,7 @@ Importance: 4/5 — Clean, specific, quantified milestone (+5% in 3 months on a 
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-21]] (2026-10-21).
 <!-- /enrichment:post -->
 
 ## Market Research

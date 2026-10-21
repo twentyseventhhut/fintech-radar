@@ -9,7 +9,7 @@ tags:
   - type/earnings
 sources:
   - https://www.ft.com/content/8943785b-0919-4a49-8ab5-48e4a35a6e00
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "42 секунды"
@@ -87,7 +87,7 @@ Importance: 3/5 — Genuinely major, record-setting semiconductor earnings and a
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-21]] (2026-10-21).
 <!-- /enrichment:post -->
 
 ## Market Research

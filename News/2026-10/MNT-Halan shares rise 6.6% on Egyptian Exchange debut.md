@@ -9,7 +9,7 @@ tags:
   - type/ipo
 sources:
   - https://www.zawya.com/en/capital-markets/egypt-fintech-firm-mnt-halan-rises-6.6-on-debut-after-biggest-ipo-since-2021-1794118
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -118,7 +118,7 @@ Trajectory unchanged (see [[MNT-Halan plans $150M IPO on Egyptian Exchange]]): 2
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-21]] (2026-10-21).
 <!-- /enrichment:post -->
 
 ## Market Research

@@ -10,7 +10,7 @@ tags:
   - type/product
 sources:
   - https://financialit.net/news/artificial-intelligence/sumsub-expands-know-your-agent-putting-businesses-control-what-ai
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -174,7 +174,7 @@ Sumsub (UK-based, "AI-powered trust infrastructure for compliance at scale") has
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-21]] (2026-10-21).
 <!-- /enrichment:post -->
 
 ## Market Research

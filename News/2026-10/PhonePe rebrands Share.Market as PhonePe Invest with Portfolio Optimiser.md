@@ -10,7 +10,7 @@ tags:
   - type/product
 sources:
   - https://economictimes.indiatimes.com/tech/technology/phonepe-evolves-its-stock-broking-platform-into-phonepe-invest-launches-portfolio-optimiser/articleshow/135040456.cms
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -464,7 +464,7 @@ Related PhonePe notes: [[PhonePe secures SEBI approval for IPO]], [[Walmart-back
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-21]] (2026-10-21).
 <!-- /enrichment:post -->
 
 ## Market Research

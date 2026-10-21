@@ -10,7 +10,7 @@ tags:
   - type/product
 sources:
   - https://www.ilgiornaleditalia.it/news/mondo-imprese/830731/satispay-supera-i-650-mila-iban-e-lancia-la-carta-di-debito-red-senza-abbonamento-per-oltre-6-5-milioni-di-utenti.html
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -132,7 +132,7 @@ Importance: 3/5 — Fresh follow-on, not a strategic reset: it executes the pre-
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-21]] (2026-10-21).
 <!-- /enrichment:post -->
 
 ## Market Research

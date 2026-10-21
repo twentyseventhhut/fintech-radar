@@ -8,7 +8,7 @@ tags:
   - type/research-report
 sources:
   - https://www.kommersant.ru/doc/9007468
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "42 секунды"
@@ -126,7 +126,7 @@ Real traction/weight: the *measured* numbers (−1.5% H1, +8.4% 2025 vs +40%) ar
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-21]] (2026-10-21).
 <!-- /enrichment:post -->
 
 ## Market Research

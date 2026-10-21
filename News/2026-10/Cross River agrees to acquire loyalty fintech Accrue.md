@@ -10,7 +10,7 @@ tags:
   - type/m-and-a
 sources:
   - https://www.crossriver.com/newsroom/cross-river-to-acquire-accrue-expanding-financial-infrastructure-with-integrated-wallet-capabilities
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -147,7 +147,7 @@ Importance: **3/5** — A clean, well-sourced, genuinely new M&A that neatly ill
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-21]] (2026-10-21).
 <!-- /enrichment:post -->
 
 ## Market Research

@@ -12,7 +12,7 @@ tags:
 sources:
   - https://noah.com/blog/noah-western-union-partnership
   - https://noah.com
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -137,7 +137,7 @@ Importance: 3/5 — A genuinely new, credible partnership: Western Union, the wo
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-21]] (2026-10-21).
 <!-- /enrichment:post -->
 
 ## Market Research

@@ -9,7 +9,7 @@ tags:
   - type/regulation
 sources:
   - https://www.forbes.ru/tekhnologii/570646-abd-zaavila-o-gotovnosti-razrabotat-principy-bezopasnogo-hranenia-dannyh-za-rubezom
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "42 секунды"
@@ -99,7 +99,7 @@ Sources: [Forbes](https://www.forbes.ru/tekhnologii/570646-abd-zaavila-o-gotovno
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-21]] (2026-10-21).
 <!-- /enrichment:post -->
 
 ## Market Research

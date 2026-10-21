@@ -9,7 +9,7 @@ tags:
   - type/earnings
 sources:
   - https://www.newcomer.co/p/mercury-crosses-1-billion-annualized
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -123,7 +123,7 @@ Importance: 3/5 — A real, newly-disclosed milestone ($1B ARR, 450k customers) 
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-21]] (2026-10-21).
 <!-- /enrichment:post -->
 
 ## Market Research

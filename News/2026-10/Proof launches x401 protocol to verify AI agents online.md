@@ -9,7 +9,9 @@ tags:
   - region/us
   - type/product
 sources:
-  - https://www.proof.com/blog/proof-launches-x401-giving-ai-agents-a-way-to-prove-who-they-represent---and-what-theyre-authorized-to-do
+  - https://www.proof.com/blog/proof-launches-x401-giving-ai-agents-a-way-to-prove-who-they-represent
+status: published
+---and-what-theyre-authorized-to-do
 status: enriched
 n_mentions: 1
 channels:
@@ -151,7 +153,7 @@ Can AI Deepfakes Bypass Identity V
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-21]] (2026-10-21).
 <!-- /enrichment:post -->
 
 ## Market Research

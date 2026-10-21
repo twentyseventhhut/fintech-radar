@@ -9,7 +9,7 @@ tags:
   - type/expansion
 sources:
   - https://en.globes.co.il/en/article-payments-giant-stripe-to-launch-israel-operations-1001560134
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -340,7 +340,7 @@ See challenge file.
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-21]] (2026-10-21).
 <!-- /enrichment:post -->
 
 ## Market Research

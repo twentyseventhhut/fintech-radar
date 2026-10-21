@@ -9,7 +9,7 @@ tags:
   - type/layoffs
 sources:
   - https://www.reuters.com/business/world-at-work/australias-nab-cut-up-2500-jobs-it-simplifies-operating-model-2026-10-19
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -126,7 +126,7 @@ Importance: 3/5 — A genuine, sizeable (A$300m charge, 2,500 roles) and fresh e
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-21]] (2026-10-21).
 <!-- /enrichment:post -->
 
 ## Market Research

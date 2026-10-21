@@ -11,7 +11,7 @@ tags:
   - type/funding
 sources:
   - https://fortune.com/2026/10/20/mural-startup-former-palantir-engineers-15-million-bid-banks-bot-economy
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -112,7 +112,7 @@ See challenge file + URLs: Fortune (2026-10-20), PRNewswire (Mural Raises $28M),
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-21]] (2026-10-21).
 <!-- /enrichment:post -->
 
 ## Market Research
