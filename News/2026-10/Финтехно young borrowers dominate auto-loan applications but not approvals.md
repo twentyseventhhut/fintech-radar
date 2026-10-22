@@ -9,7 +9,7 @@ tags:
   - type/research-report
 sources:
   - https://max.ru/fintexno
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Финтехно"
@@ -122,7 +122,7 @@ Importance: 3/5 — a clean, well-caveated illustration of CBR retail-tightening
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-22]] (2026-10-22).
 <!-- /enrichment:post -->
 
 ## Market Research

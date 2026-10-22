@@ -10,7 +10,7 @@ tags:
 sources:
   - https://www.mastercard.com/us/en.html
   - https://www.zawya.com/en/press-release/companies-news/mastercard-gateway-goes-live-in-syria-enabling-international-digital-payments-1810894
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -1312,7 +1312,7 @@ Watch: (a) actual acquiring volume and how many Syrian banks adopt Gateway beyon
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-22]] (2026-10-22).
 <!-- /enrichment:post -->
 
 ## Market Research

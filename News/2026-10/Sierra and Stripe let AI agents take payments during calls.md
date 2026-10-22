@@ -11,7 +11,7 @@ tags:
   - type/partnership
 sources:
   - https://sierra.ai/uk/blog/from-conversation-to-payment-sierra-and-stripe
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -121,7 +121,7 @@ Importance: 3/5 — Credible, well-sourced, production (Cedar) launch from a top
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-22]] (2026-10-22).
 <!-- /enrichment:post -->
 
 ## Market Research

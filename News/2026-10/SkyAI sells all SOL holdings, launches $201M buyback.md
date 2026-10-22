@@ -10,7 +10,7 @@ tags:
   - type/commentary
 sources:
   - https://www.tradingview.com/news/cointelegraph:5f0f48e7b094b:0-solana-treasury-firm-skyai-sells-all-sol-holdings-launches-201m-buyback
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -114,7 +114,7 @@ Importance: 4/5 — Above the DAT-accumulation stories (which sit at 3/5) becaus
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-22]] (2026-10-22).
 <!-- /enrichment:post -->
 
 ## Market Research

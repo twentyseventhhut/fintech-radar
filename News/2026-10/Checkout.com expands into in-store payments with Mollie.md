@@ -11,7 +11,7 @@ tags:
 sources:
   - https://www.checkout.com/newsroom/checkout-com-expands-into-in-person-payments
   - https://www.checkout.com
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -114,7 +114,7 @@ Importance: 3/5 — A strategically logical, well-sourced move: Checkout.com mon
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-22]] (2026-10-22).
 <!-- /enrichment:post -->
 
 ## Market Research

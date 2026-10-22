@@ -10,7 +10,7 @@ tags:
   - type/product
 sources:
   - https://ffnews.com/news/starling-s-agentic-fincrime-investigator-takes-17-seconds-c023a7ba
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -179,7 +179,7 @@ Importance: 3/5 — rationale. A credible, strategically coherent step from a fl
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-22]] (2026-10-22).
 <!-- /enrichment:post -->
 
 ## Market Research

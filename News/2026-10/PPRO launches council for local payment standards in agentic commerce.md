@@ -10,7 +10,7 @@ tags:
   - type/product
 sources:
   - https://www.ppro.com/news/ppro-launches-local-payments-council-for-agentic-commerce
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -87,7 +87,7 @@ A council is **governance, not a shipped standard** — the deliverable is specs
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-22]] (2026-10-22).
 <!-- /enrichment:post -->
 
 ## Market Research

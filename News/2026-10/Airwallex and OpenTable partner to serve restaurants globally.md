@@ -11,7 +11,7 @@ tags:
 sources:
   - https://www.airwallex.com/global
   - https://www.airwallex.com/en-us/airwallex-opentable-partnership
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -238,7 +238,7 @@ Importance: 3/5 — Validates Airwallex's embedded-payments-for-verticals strate
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-22]] (2026-10-22).
 <!-- /enrichment:post -->
 
 ## Market Research

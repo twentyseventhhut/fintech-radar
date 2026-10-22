@@ -10,7 +10,7 @@ tags:
   - type/product
 sources:
   - https://www.businesswire.com/news/home/20261021490151/en/LemFi-Launches-Its-Biggest-Product-Expansion-Yet-Alongside-a-New-Global-Brand-Ambition-has-no-passport
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -110,7 +110,7 @@ On 21 Oct 2026 LemFi — UK-HQ'd, Nigeria-born cross-border payments app for imm
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-22]] (2026-10-22).
 <!-- /enrichment:post -->
 
 ## Market Research

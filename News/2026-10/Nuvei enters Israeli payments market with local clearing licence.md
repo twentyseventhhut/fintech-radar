@@ -9,7 +9,7 @@ tags:
   - type/expansion
 sources:
   - https://www.calcalistech.com/ctechnews/article/6t07bknbi
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -402,7 +402,7 @@ Israel's card-clearing market is dominated by three issuers/acquirers — **Isra
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-22]] (2026-10-22).
 <!-- /enrichment:post -->
 
 ## Market Research

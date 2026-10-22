@@ -10,7 +10,7 @@ tags:
   - type/partnership
 sources:
   - https://allariainversiones.com.ar/Novedades/View/62
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -186,7 +186,7 @@ Importance: 3/5 — Genuinely relevant: Argentina is a top global stablecoin-use
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-22]] (2026-10-22).
 <!-- /enrichment:post -->
 
 ## Market Research

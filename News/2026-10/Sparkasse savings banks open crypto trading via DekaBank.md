@@ -10,7 +10,7 @@ tags:
   - type/product
 sources:
   - https://beincrypto.com/sparkasse-crypto-trading-dekabank
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -439,7 +439,7 @@ Sparkassen's move is a **hard U-turn**: the group **banned** crypto-related cust
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-22]] (2026-10-22).
 <!-- /enrichment:post -->
 
 ## Market Research

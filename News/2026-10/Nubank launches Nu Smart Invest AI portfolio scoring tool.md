@@ -10,7 +10,7 @@ tags:
   - type/product
 sources:
   - https://www.bloomberglinea.com.br/tech/nubank-lanca-ferramenta-de-ia-que-promete-recomendacoes-neutras-de-investimento
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "This Week in Fintech"
@@ -124,7 +124,7 @@ On **2026-10-15** Nubank launched **Nu Smart Invest** inside the Nubank app in B
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-22]] (2026-10-22).
 <!-- /enrichment:post -->
 
 ## Market Research

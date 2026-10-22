@@ -12,7 +12,7 @@ sources:
   - https://mergers.ru/news/Fond-VIM-investicij-voshel-v-kapital-Swordfish-Security-87673
   - https://secpost.ru/bankovskij-investor-voshel-v-kapital-rossijskogo-devsecops-vendora-swordfish-security
   - https://www.vedomosti.ru/investments/articles/2026/10/21/1238677-fond-vim-investitsii-voshel-v-kapital-swordfish-security
-status: enriched
+status: published
 n_mentions: 3
 channels:
   - "Mergers.ru"
@@ -600,7 +600,7 @@ _Importance: 3/5._
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-22]] (2026-10-22).
 <!-- /enrichment:post -->
 
 ## Market Research

@@ -9,7 +9,7 @@ tags:
   - type/commentary
 sources:
   - https://www.wsj.com/tech/ai/anthropic-revenue-growth-ipo-accaf0f1
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "42 секунды"
@@ -113,7 +113,7 @@ Importance: 4/5 — real audited-for-S-1 hypergrowth ($16.3B H1, +45% QoQ) + the
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-22]] (2026-10-22).
 <!-- /enrichment:post -->
 
 ## Market Research

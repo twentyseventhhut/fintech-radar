@@ -10,7 +10,7 @@ tags:
   - type/m-and-a
 sources:
   - https://www.bloomberg.com/news/articles/2026-10-20/salesforce-to-buy-marketing-platform-braze-for-5-7-billion
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "42 секунды"
@@ -106,7 +106,7 @@ _(нет загруженного полного текста первоисто
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-22]] (2026-10-22).
 <!-- /enrichment:post -->
 
 ## Market Research

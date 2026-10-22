@@ -11,7 +11,7 @@ tags:
 sources:
   - https://www.mastercard.com/us/en.html
   - https://www.mastercard.com/news/eemea/en/newsroom/press-releases/en/2026/october/mastercard-joins-forces-with-enjaz-company-to-introduce-innovative-card-products-and-enhance-digital-experiences-to-the-kingdom
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -1275,7 +1275,7 @@ Importance: 3/5 — A credible, strategically coherent move: Mastercard converti
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-22]] (2026-10-22).
 <!-- /enrichment:post -->
 
 ## Market Research

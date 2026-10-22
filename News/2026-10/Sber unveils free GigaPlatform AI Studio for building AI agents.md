@@ -9,7 +9,7 @@ tags:
   - type/product
 sources:
   - https://www.sberbank.ru/ru/sberpress/all/article
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "News & Trends by Sber"
@@ -113,7 +113,7 @@ Sber's 2026 AI cadence is dense and consistent: [[Sber unveils flagship GigaChat
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-22]] (2026-10-22).
 <!-- /enrichment:post -->
 
 ## Market Research

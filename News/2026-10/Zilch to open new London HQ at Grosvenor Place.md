@@ -9,7 +9,7 @@ tags:
   - type/expansion
 sources:
   - https://www.zilch.com/news/new-london-headquarters-victoria
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -131,7 +131,7 @@ Trajectory: 5m customers by mid-2025 ([[Zilch doubles revenue and reaches 5 mill
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-22]] (2026-10-22).
 <!-- /enrichment:post -->
 
 ## Market Research

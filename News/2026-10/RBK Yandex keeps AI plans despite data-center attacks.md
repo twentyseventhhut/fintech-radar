@@ -10,7 +10,7 @@ tags:
   - type/commentary
 sources:
   - https://www.rbc.ru/technology_and_media/20/10/2026/6ad77fba8598b41cf2d77f6e
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "42 секунды"
@@ -549,7 +549,7 @@ iOSAndroidAppGallery
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-22]] (2026-10-22).
 <!-- /enrichment:post -->
 
 ## Market Research

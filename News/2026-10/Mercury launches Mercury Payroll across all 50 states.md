@@ -10,7 +10,7 @@ tags:
   - type/product
 sources:
   - https://mercury.com/blog/introducing-mercury-payroll
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -153,7 +153,7 @@ Importance: 3/5 — A concrete, well-integrated product launch from a notable US
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-22]] (2026-10-22).
 <!-- /enrichment:post -->
 
 ## Market Research
