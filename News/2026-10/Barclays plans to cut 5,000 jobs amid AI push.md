@@ -10,7 +10,7 @@ tags:
   - type/layoffs
 sources:
   - https://www.reuters.com/business/world-at-work/barclays-cut-5000-jobs-this-year-2026-10-22
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -101,7 +101,7 @@ Importance: 4/5 — a top-tier UK bank attaching a hard ~5,000-job / ~£1.1bn nu
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-23]] (2026-10-23).
 <!-- /enrichment:post -->
 
 ## Market Research

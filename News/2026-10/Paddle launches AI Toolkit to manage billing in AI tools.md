@@ -11,7 +11,7 @@ tags:
 sources:
   - https://www.paddle.com/blog/paddle-launches-ai-toolkit-bringing-global-selling-into-ai-workflows
   - https://www.paddle.com
-status: enriched
+status: published
 n_mentions: 3
 channels:
   - "Connecting the Dots in Fintech"
@@ -129,7 +129,7 @@ Importance: **4/5** — A credible, well-timed product move from a category-defi
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-23]] (2026-10-23).
 <!-- /enrichment:post -->
 
 ## Market Research

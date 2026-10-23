@@ -10,7 +10,7 @@ tags:
   - type/product
 sources:
   - https://investors.fiserv.com/news-releases/news-release-details/fiserv-simplifies-cross-border-commerce-commerce-hubtm
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -111,7 +111,7 @@ Related acceptance/orchestration moves: [[Visa and Fiserv expand partnership wit
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-23]] (2026-10-23).
 <!-- /enrichment:post -->
 
 ## Market Research

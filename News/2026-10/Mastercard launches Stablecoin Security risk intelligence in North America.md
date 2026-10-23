@@ -11,7 +11,7 @@ tags:
 sources:
   - https://www.mastercard.com/us/en.html
   - https://www.mastercard.com/us/en/news-and-trends/press/2026/october/Mastercard-brings-risk-intelligence-to-stablecoin-payments.html
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -2436,7 +2436,7 @@ Mastercard powers economies and empowers people in 200+ countries and territorie
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-23]] (2026-10-23).
 <!-- /enrichment:post -->
 
 ## Market Research

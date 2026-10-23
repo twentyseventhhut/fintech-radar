@@ -10,7 +10,7 @@ tags:
   - type/regulation
 sources:
   - https://www.bloomberg.com/news/articles/2026-10-19/mexico-fintech-kapital-gets-first-approval-for-colombian-bank
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -109,7 +109,7 @@ Importance: 3/5 — A credible, dated regulatory milestone for a real, growing M
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-23]] (2026-10-23).
 <!-- /enrichment:post -->
 
 ## Market Research

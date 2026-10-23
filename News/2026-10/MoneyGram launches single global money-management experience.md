@@ -10,7 +10,7 @@ tags:
   - type/product
 sources:
   - https://www.prnewswire.com/news-releases/moneygram-launches-one-global-experience-for-moving-and-managing-money-302912636.html
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -123,7 +123,7 @@ Importance: 3/5
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-23]] (2026-10-23).
 <!-- /enrichment:post -->
 
 ## Market Research

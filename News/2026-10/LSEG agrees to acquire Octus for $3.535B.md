@@ -10,7 +10,7 @@ tags:
   - type/m-and-a
 sources:
   - https://www.reuters.com/business/finance/lseg-buy-octus-35-billion-data-analytics-push-2026-10-22
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -124,7 +124,7 @@ LSEG's post-**Refinitiv ($27bn, closed Jan 2021)** identity is "exchange → dat
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-23]] (2026-10-23).
 <!-- /enrichment:post -->
 
 ## Market Research

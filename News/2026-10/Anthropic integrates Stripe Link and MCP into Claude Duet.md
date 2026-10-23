@@ -10,7 +10,7 @@ tags:
   - type/product
 sources:
   - https://stripe.com/en-ro/newsroom/news/anthropic-and-stripe
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -128,7 +128,7 @@ Importance: 3/5 — Real, named, dated partner integration from two major player
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-23]] (2026-10-23).
 <!-- /enrichment:post -->
 
 ## Market Research

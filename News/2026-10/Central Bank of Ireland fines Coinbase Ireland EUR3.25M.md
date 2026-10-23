@@ -9,7 +9,7 @@ tags:
   - type/regulation
 sources:
   - https://www.finextra.com/newsarticle/48633/coinbase-fined-325m-by-irish-central-bank
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -115,7 +115,7 @@ Core finding: Coinbase Ireland's designated **safeguarding accounts were underfu
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-23]] (2026-10-23).
 <!-- /enrichment:post -->
 
 ## Market Research

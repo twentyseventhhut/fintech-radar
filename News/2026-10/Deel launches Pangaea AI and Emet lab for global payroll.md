@@ -10,7 +10,7 @@ tags:
   - type/product
 sources:
   - https://www.deel.com/blog/pangaea-emet-launch
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -89,7 +89,7 @@ Deel переходит от «AI-фичи поверх чужих LLM» к **с
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-23]] (2026-10-23).
 <!-- /enrichment:post -->
 
 ## Market Research

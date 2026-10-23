@@ -10,7 +10,7 @@ tags:
   - type/product
 sources:
   - https://investors.sofi.com/news/news-details/2026/SoFi-Launches-SoFi-Earn-SOFIE-the-First-and-Only-National-Bank-Issued-Tokenized-Deposit-for-Consumers/default.aspx
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -164,7 +164,7 @@ Importance: 4/5 — First consumer-facing bank tokenized deposit in the US, clea
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-23]] (2026-10-23).
 <!-- /enrichment:post -->
 
 ## Market Research

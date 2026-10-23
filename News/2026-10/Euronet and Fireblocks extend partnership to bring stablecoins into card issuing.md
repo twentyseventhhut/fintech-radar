@@ -11,7 +11,7 @@ tags:
   - type/partnership
 sources:
   - https://www.globenewswire.com/news-release/2026/10/19/3383475/23467/en/euronet-and-fireblocks-power-the-next-era-of-mainstream-payments-with-stablecoin-funded-card-issuing.html
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -204,7 +204,7 @@ Explore
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-23]] (2026-10-23).
 <!-- /enrichment:post -->
 
 ## Market Research

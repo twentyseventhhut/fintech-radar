@@ -9,7 +9,7 @@ tags:
   - type/product
 sources:
   - https://econotimes.com/China-Rolls-Out-Upgraded-Digital-Yuan-System-at-Beijing-Forum-1759516
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -90,7 +90,7 @@ Importance: 3/5 — a credible, well-sourced step in the world's largest CBDC pr
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-23]] (2026-10-23).
 <!-- /enrichment:post -->
 
 ## Market Research

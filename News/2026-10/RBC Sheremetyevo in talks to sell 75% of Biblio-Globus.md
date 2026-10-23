@@ -10,7 +10,7 @@ tags:
   - type/m-and-a
 sources:
   - https://mergers.ru/news/RBK-Sheremetevo-nachalo-peregovory-o-prodazhe-75-turoperatora-Biblio-Globus-87681
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Mergers.ru"
@@ -162,7 +162,7 @@ Sources: mergers.ru (RBC relay); tadviser (Biblio-Globus financials); rb.ru, exp
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-23]] (2026-10-23).
 <!-- /enrichment:post -->
 
 ## Market Research

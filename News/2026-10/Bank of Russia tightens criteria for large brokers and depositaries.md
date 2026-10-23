@@ -9,7 +9,7 @@ tags:
   - type/regulation
 sources:
   - https://www.cbr.ru/Queries/UniDbQuery/File/90134/8607
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Финтехно"
@@ -166,7 +166,7 @@ Importance: 2/5 — Technical parametric reclassification of an existing 2015 re
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-23]] (2026-10-23).
 <!-- /enrichment:post -->
 
 ## Market Research

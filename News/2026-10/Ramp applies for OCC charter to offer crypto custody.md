@@ -10,7 +10,7 @@ tags:
   - type/regulation
 sources:
   - https://www.cryptotimes.io/2026/10/19/ramp-applies-for-occ-charter-to-offer-crypto-custody-services
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -124,7 +124,7 @@ See challenge column.
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-23]] (2026-10-23).
 <!-- /enrichment:post -->
 
 ## Market Research

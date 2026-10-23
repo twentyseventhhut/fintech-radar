@@ -10,7 +10,7 @@ tags:
   - type/product
 sources:
   - https://www.ledgerinsights.com/ant-international-uses-hsbc-tokenized-deposits-to-sweep-idle-cash-into-tokenized-benji-mmf
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -115,7 +115,7 @@ Importance: 3/5 — A genuinely meaningful step (tokenized cash management movin
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-23]] (2026-10-23).
 <!-- /enrichment:post -->
 
 ## Market Research

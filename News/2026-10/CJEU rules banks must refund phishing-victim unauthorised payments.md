@@ -9,7 +9,7 @@ tags:
   - type/regulation
 sources:
   - https://curia.europa.eu/jcms/jcms/Jo2_7052/en
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "This Week in Fintech"
@@ -92,7 +92,7 @@ _(нет загруженного полного текста первоисто
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-23]] (2026-10-23).
 <!-- /enrichment:post -->
 
 ## Market Research

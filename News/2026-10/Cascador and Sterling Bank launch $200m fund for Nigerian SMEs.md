@@ -10,7 +10,7 @@ tags:
   - type/funding
 sources:
   - https://www.afrotechhorizon.com/blog/cascador-sterling-200m-sme-credit-backstop-fund
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "This Week in Fintech"
@@ -133,7 +133,7 @@ Importance: 3/5 — A substantively new, well-structured mechanism addressing a 
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-23]] (2026-10-23).
 <!-- /enrichment:post -->
 
 ## Market Research

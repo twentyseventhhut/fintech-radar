@@ -9,7 +9,7 @@ tags:
   - type/expansion
 sources:
   - https://robinhood.com/newsroom/robinhood-chooses-difc-regional-headquarters-middle-east-expansion
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -103,7 +103,7 @@ Red-team review (skeptical; grounded in sources, nothing invented):
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-23]] (2026-10-23).
 <!-- /enrichment:post -->
 
 ## Market Research

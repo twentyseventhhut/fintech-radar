@@ -8,7 +8,7 @@ tags:
   - type/regulation
 sources:
   - https://www.cityam.com/john-healey-poised-to-target-banks-with-budget-tax-raid
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "This Week in Fintech"
@@ -93,7 +93,7 @@ A higher surcharge principally hits large balance-sheet lenders, not fintechs/ne
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-23]] (2026-10-23).
 <!-- /enrichment:post -->
 
 ## Market Research

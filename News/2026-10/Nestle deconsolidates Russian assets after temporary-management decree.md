@@ -9,7 +9,7 @@ tags:
   - type/m-and-a
 sources:
   - https://mergers.ru/news/Nestle-dekonsolidirovala-rossijskie-aktivy-posle-ukaza-o-vremennom-upravlenii-87683
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Mergers.ru"
@@ -162,7 +162,7 @@ Nestle работает в России с 1994 года. Ей принадле�
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-23]] (2026-10-23).
 <!-- /enrichment:post -->
 
 ## Market Research
