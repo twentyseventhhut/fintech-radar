@@ -10,7 +10,7 @@ tags:
   - type/product
 sources:
   - https://gusto.com/company-news/start-your-business
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "This Week in Fintech"
@@ -180,7 +180,7 @@ See challenge column.
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-24]] (2026-10-24).
 <!-- /enrichment:post -->
 
 ## Market Research

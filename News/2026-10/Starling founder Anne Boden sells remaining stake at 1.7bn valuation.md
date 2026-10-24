@@ -9,7 +9,7 @@ tags:
   - type/commentary
 sources:
   - https://www.cityam.com/starling-founder-anne-boden-offloads-stake-at-slashed-1-7bn-valuation
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -122,7 +122,7 @@ Starling continues to prep for an eventual listing (IPO talk points to 2027+), p
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-24]] (2026-10-24).
 <!-- /enrichment:post -->
 
 ## Market Research

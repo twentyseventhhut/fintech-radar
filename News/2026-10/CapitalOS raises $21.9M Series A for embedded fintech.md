@@ -9,7 +9,7 @@ tags:
   - type/funding
 sources:
   - https://www.citybiz.co/article/922280/capitalos-secures-21-9m-series-a-to-help-b2b-platforms-embed-fintech-in-days-not-months
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -84,7 +84,7 @@ _(нет загруженного полного текста первоисто
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-24]] (2026-10-24).
 <!-- /enrichment:post -->
 
 ## Market Research

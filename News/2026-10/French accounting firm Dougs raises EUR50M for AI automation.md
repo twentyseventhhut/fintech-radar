@@ -10,7 +10,7 @@ tags:
   - type/funding
 sources:
   - https://www.eu-startups.com/2026/10/profitable-french-accounting-company-dougs-raises-e50-million-to-accelerate-ai-automation
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -109,7 +109,7 @@ Rahul is an experience tech journalist and the former Editor-in-Chief of Silicon
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-24]] (2026-10-24).
 <!-- /enrichment:post -->
 
 ## Market Research

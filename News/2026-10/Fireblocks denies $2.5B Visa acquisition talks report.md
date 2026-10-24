@@ -10,7 +10,7 @@ tags:
   - type/m-and-a
 sources:
   - https://www.theblock.co/news/deals/2026-10-22-visa-in-talks-acquire-crypto-custody-firm-fireblocks-around-2-5-billion-axios-421926
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -585,7 +585,7 @@ What is actually **confirmed new here is nothing operational** — no deal, no t
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-24]] (2026-10-24).
 <!-- /enrichment:post -->
 
 ## Market Research

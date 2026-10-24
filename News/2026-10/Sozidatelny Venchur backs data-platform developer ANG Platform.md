@@ -9,7 +9,7 @@ tags:
   - type/funding
 sources:
   - https://mergers.ru/news/Fond-Sozidatelnyj-venchur-vlozhilsya-v-razrabotchika-korporativnoj-platformy-dannyh-ANG-Platform-87675
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Mergers.ru"
@@ -179,7 +179,7 @@ Small, early-stage, **undisclosed-sum** deal — a 5.46% stake in a largely foun
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-24]] (2026-10-24).
 <!-- /enrichment:post -->
 
 ## Market Research

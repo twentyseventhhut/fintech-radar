@@ -10,7 +10,7 @@ tags:
   - type/funding
 sources:
   - https://www.prnewswire.com/news-releases/whop-announces-funding-round-at-5-1b-valuation-led-by-sequoia-and-shopify-ventures-to-advance-universal-economic-freedom-in-the-wake-of-ai-302915738.html
-status: enriched
+status: published
 n_mentions: 2
 channels:
   - "Connecting the Dots in Fintech"
@@ -124,7 +124,7 @@ Red-team / challenge questions:
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-24]] (2026-10-24).
 <!-- /enrichment:post -->
 
 ## Market Research

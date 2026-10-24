@@ -11,7 +11,7 @@ tags:
   - type/product
 sources:
   - https://www.finextra.com/newsarticle/48594/deutsche-bank-rolls-out-on-premise-ai-system
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "This Week in Fintech"
@@ -112,7 +112,7 @@ DB's AI trajectory: bank-wide AI programme launched 2023; Google Cloud since 202
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-24]] (2026-10-24).
 <!-- /enrichment:post -->
 
 ## Market Research

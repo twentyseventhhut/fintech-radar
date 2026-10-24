@@ -9,7 +9,7 @@ tags:
   - type/regulation
 sources:
   - https://thefintechtimes.com/ziina-secures-triple-cbuae-licensing-across-payments-stored-value-and-exchange
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -137,7 +137,7 @@ The triple license gives Ziina an **independent regulatory perimeter** — it no
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-24]] (2026-10-24).
 <!-- /enrichment:post -->
 
 ## Market Research

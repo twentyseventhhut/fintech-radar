@@ -11,7 +11,7 @@ tags:
   - type/m-and-a
 sources:
   - https://www.iproup.com/economia-digital/72338-unico-bloqueo-fraudes-por-us3500-millones-en-latinoamerica
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "This Week in Fintech"
@@ -426,7 +426,7 @@ Importance: 3/5 — Strategically meaningful LatAm identity-infrastructure conso
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-24]] (2026-10-24).
 <!-- /enrichment:post -->
 
 ## Market Research

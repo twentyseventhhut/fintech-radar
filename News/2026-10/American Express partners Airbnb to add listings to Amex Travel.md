@@ -10,7 +10,7 @@ tags:
   - type/partnership
 sources:
   - https://www.americanexpress.com/en-us/newsroom/articles/travel-and-dining/amex-travel-airbnb-partnership.html
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "This Week in Fintech"
@@ -743,7 +743,7 @@ The battleground is **card-linked travel portals** as spend-retention engines:
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-24]] (2026-10-24).
 <!-- /enrichment:post -->
 
 ## Market Research

@@ -10,7 +10,7 @@ tags:
   - type/product
 sources:
   - https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "News & Trends by Sber"
@@ -134,7 +134,7 @@ Walmart's agentic/payments arc is dense and internally consistent: ChatGPT check
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-24]] (2026-10-24).
 <!-- /enrichment:post -->
 
 ## Market Research

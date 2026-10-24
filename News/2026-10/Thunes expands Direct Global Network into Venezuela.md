@@ -10,7 +10,7 @@ tags:
   - type/expansion
 sources:
   - https://www.thunes.com/news/thunes-expands-real-time-payouts-to-venezuela-strengthening-cross-border-financial-access-in-latin-america
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -95,7 +95,7 @@ Thunes is the Smart Superhighway to move money around the world. Thunes’ propr
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-24]] (2026-10-24).
 <!-- /enrichment:post -->
 
 ## Market Research

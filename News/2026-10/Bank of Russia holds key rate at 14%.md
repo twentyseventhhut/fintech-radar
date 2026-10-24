@@ -9,7 +9,7 @@ tags:
   - type/regulation
 sources:
   - https://max.ru/fintexno
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Финтехно"
@@ -124,7 +124,7 @@ Importance: 4/5 — a top-level macro decision for the entire Russian banking/fi
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-24]] (2026-10-24).
 <!-- /enrichment:post -->
 
 ## Market Research

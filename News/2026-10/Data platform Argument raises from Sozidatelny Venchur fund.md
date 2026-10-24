@@ -12,7 +12,7 @@ sources:
   - https://www.forbes.ru/tekhnologii/570684-dom-u-ozera-vencurnyj-fond-kompanii-rosgosstrah-zizn-provel-pervuu-sdelku
   - https://argumentdata.ru
   - https://www.rusprofile.ru/id/1247700064260
-status: enriched
+status: published
 n_mentions: 2
 channels:
   - "Русский венчур"
@@ -148,7 +148,7 @@ A small, undisclosed-size seed into a **pre-revenue** (2024-founded, ₽0 2025 r
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-24]] (2026-10-24).
 <!-- /enrichment:post -->
 
 ## Market Research

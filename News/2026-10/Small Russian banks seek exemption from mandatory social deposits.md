@@ -9,7 +9,7 @@ tags:
   - type/regulation
 sources:
   - https://max.ru/fintexno
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Финтехно"
@@ -95,7 +95,7 @@ Importance: 2/5 — a lobbying letter (no bill, no decision) on a long-known Jan
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-24]] (2026-10-24).
 <!-- /enrichment:post -->
 
 ## Market Research

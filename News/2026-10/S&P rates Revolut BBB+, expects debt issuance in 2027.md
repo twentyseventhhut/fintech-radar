@@ -9,7 +9,7 @@ tags:
   - type/commentary
 sources:
   - https://www.spglobal.com/ratings/en/regulatory/article/-/view/type/HTML/id/3647875
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -171,7 +171,7 @@ Certain terms used in this report, particularly certain adjectives used to expre
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-24]] (2026-10-24).
 <!-- /enrichment:post -->
 
 ## Market Research

@@ -9,7 +9,7 @@ tags:
   - type/earnings
 sources:
   - https://www.reuters.com/business/spotify-forecasts-fourth-quarter-profit-above-estimates-ai-bets-2026-10-22
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "42 секунды"
@@ -113,7 +113,7 @@ Related notes: [[Checkout.com partners Spotify to power global payments]] · [[S
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-24]] (2026-10-24).
 <!-- /enrichment:post -->
 
 ## Market Research

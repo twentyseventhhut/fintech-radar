@@ -10,7 +10,7 @@ tags:
   - type/product
 sources:
   - https://nu.com/global/pt
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -202,7 +202,7 @@ Skeptical questions against the PR narrative; answered where sourced, flagged op
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-24]] (2026-10-24).
 <!-- /enrichment:post -->
 
 ## Market Research
