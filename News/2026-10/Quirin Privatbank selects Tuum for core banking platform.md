@@ -11,7 +11,7 @@ tags:
 sources:
   - https://tuum.com
   - https://tuum.com/news/quirin-privatbank-selects-tuum-core-banking
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -116,7 +116,7 @@ Watch for: (1) a **go-live date and phased migration plan** (the only thing that
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-25]] (2026-10-25).
 <!-- /enrichment:post -->
 
 ## Market Research

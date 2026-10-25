@@ -22,7 +22,7 @@ sources:
   - https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b
   - https://finance.yahoo.com/markets/crypto/articles/tokenized-stocks-draw-247-8-062322533.html
   - https://robinhood.com/us/en/newsroom/robinhood-is-now-open-to-agents
-status: enriched
+status: published
 n_mentions: 11
 channels:
   - "Fintech Brainfood"
@@ -445,7 +445,7 @@ Importance: 4/5 — High. This is a genuinely synthesising thesis from a top-tie
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-25]] (2026-10-25).
 <!-- /enrichment:post -->
 
 ## Market Research

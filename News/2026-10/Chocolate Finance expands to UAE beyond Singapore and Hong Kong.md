@@ -9,7 +9,7 @@ tags:
   - type/expansion
 sources:
   - https://fintechnews.sg/139205/wealthtech/chocolate-finance-uae
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -106,7 +106,7 @@ Sources: [fintechnews.sg UAE](https://fintechnews.sg/139205/wealthtech/chocolate
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-25]] (2026-10-25).
 <!-- /enrichment:post -->
 
 ## Market Research

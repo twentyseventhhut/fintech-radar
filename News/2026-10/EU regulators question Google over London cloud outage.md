@@ -10,7 +10,7 @@ tags:
   - type/regulation
 sources:
   - https://www.reuters.com/business/finance/europes-financial-regulators-query-google-over-cloud-outage-that-hit-banks-2026-10-21
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "This Week in Fintech"
@@ -84,7 +84,7 @@ _(нет загруженного полного текста первоисто
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-25]] (2026-10-25).
 <!-- /enrichment:post -->
 
 ## Market Research

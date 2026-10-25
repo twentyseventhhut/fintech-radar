@@ -12,7 +12,7 @@ tags:
 sources:
   - https://www.mastercard.com/us/en.html
   - https://www.finextra.com/pressarticle/111341/mastercard-partners-extend-to-bring-modern-spend-management-to-issuing-banks
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -1281,7 +1281,7 @@ Please accept functional cookies to watch this video.
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-25]] (2026-10-25).
 <!-- /enrichment:post -->
 
 ## Market Research

@@ -9,7 +9,7 @@ tags:
   - type/research-report
 sources:
   - https://www.ft.com/content/b7ddb6bf-c486-4e18-9c2b-b7a16029b3c5
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "This Week in Fintech"
@@ -92,7 +92,7 @@ _(нет загруженного полного текста первоисто
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-25]] (2026-10-25).
 <!-- /enrichment:post -->
 
 ## Market Research

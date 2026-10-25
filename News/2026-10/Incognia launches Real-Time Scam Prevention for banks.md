@@ -10,7 +10,7 @@ tags:
 sources:
   - https://www.incognia.com/newsroom/incognia-launches-real-time-scam-prevention-powered-by-patented-location-intelligence
   - https://www.incognia.com
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -101,7 +101,7 @@ Subscribe to Incognia’s content
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-25]] (2026-10-25).
 <!-- /enrichment:post -->
 
 ## Market Research

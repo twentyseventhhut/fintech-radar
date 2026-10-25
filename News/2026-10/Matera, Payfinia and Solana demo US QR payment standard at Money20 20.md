@@ -11,7 +11,7 @@ tags:
   - type/product
 sources:
   - https://www.businesswire.com/news/home/20261019530143/en/Matera-Payfinia-and-Solana-Foundation-Demonstrate-New-U.S.-QR-Code-Payment-Standard-at-Money2020
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -118,7 +118,7 @@ Back to Newsroom
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-25]] (2026-10-25).
 <!-- /enrichment:post -->
 
 ## Market Research

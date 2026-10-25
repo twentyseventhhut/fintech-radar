@@ -10,7 +10,7 @@ tags:
   - type/product
 sources:
   - https://www.businesswire.com/news/home/20261020664529/en/Evervault-Launches-Browser-Tokens-Enabling-Secure-Agentic-Payments
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -69,7 +69,7 @@ _(нет загруженного полного текста первоисто
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-25]] (2026-10-25).
 <!-- /enrichment:post -->
 
 ## Market Research

@@ -11,7 +11,7 @@ tags:
 sources:
   - https://www.airwallex.com/global
   - https://www.cityam.com/exclusive-airwallex-and-mclaren-to-renew-partnership-as-valuations-soar
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -185,7 +185,7 @@ Sources: airwallex.com/newsroom/airwallex-and-mclaren-partnership; cityam.com (e
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-25]] (2026-10-25).
 <!-- /enrichment:post -->
 
 ## Market Research

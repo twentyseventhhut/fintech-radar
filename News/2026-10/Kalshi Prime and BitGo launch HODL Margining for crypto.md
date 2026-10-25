@@ -10,7 +10,7 @@ tags:
   - type/product
 sources:
   - https://www.businesswire.com/news/home/20261022502407/en/Kalshi-and-BitGo-Allow-Customers-to-Unlock-Crypto-Liquidity-for-Margin
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -115,7 +115,7 @@ Importance: 3/5 — rationale: a **genuinely new, structurally meaningful** even
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-25]] (2026-10-25).
 <!-- /enrichment:post -->
 
 ## Market Research

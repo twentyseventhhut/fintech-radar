@@ -11,7 +11,7 @@ tags:
 sources:
   - https://www.mastercard.com/us/en.html
   - https://www.mastercard.com/global/en/news-and-trends/press/2026/october/Mastercard-Max-makes-benefits-easy.html
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -2422,7 +2422,7 @@ Importance: 3/5 — a meaningful, well-positioned move extending Mastercard's AI
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-25]] (2026-10-25).
 <!-- /enrichment:post -->
 
 ## Market Research

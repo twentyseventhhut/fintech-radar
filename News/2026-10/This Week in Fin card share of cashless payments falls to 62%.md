@@ -9,7 +9,7 @@ tags:
   - type/research-report
 sources:
   - https://datos-insights.com/blog/contactless-card-spending-global-payments
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "This Week in Fintech"
@@ -94,7 +94,7 @@ Importance: 3/5 — a credible, widely-cited data point that crystallizes a genu
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-25]] (2026-10-25).
 <!-- /enrichment:post -->
 
 ## Market Research

@@ -11,7 +11,7 @@ tags:
   - type/partnership
 sources:
   - https://tala.co/blog/2026/10/20/tala-brings-embedded-credit-to-el-dorado-digital-wallet-giving-customers-access-to-funds-in-seconds
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -112,7 +112,7 @@ Bolivia is in a structural dollar crunch — reserves drained by falling gas exp
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-25]] (2026-10-25).
 <!-- /enrichment:post -->
 
 ## Market Research

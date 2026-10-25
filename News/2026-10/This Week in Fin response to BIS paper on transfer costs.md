@@ -9,7 +9,7 @@ tags:
   - type/commentary
 sources:
   - https://www.bis.org/publications/working-paper-1385-competing-rails-crossborder-payments-banks-fintechs-and-stablecoins
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "This Week in Fintech"
@@ -139,7 +139,7 @@ The BIS put out a working paper (No. 1385, 2026-10-19) by **Wenxin Du, Catherine
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-25]] (2026-10-25).
 <!-- /enrichment:post -->
 
 ## Market Research

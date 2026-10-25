@@ -10,7 +10,7 @@ tags:
   - type/partnership
 sources:
   - https://markets.businessinsider.com/news/stocks/3-3-billion-fintech-flutterwave-becomes-first-company-in-africa-to-offer-techdollar-s-equity-backed-liquidity-benefit-to-employees-1036654634
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -146,7 +146,7 @@ _Red-team: second-order questions that actually decide the weight of the news. E
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-25]] (2026-10-25).
 <!-- /enrichment:post -->
 
 ## Market Research

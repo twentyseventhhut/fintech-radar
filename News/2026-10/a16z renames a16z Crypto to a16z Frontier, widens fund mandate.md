@@ -10,7 +10,7 @@ tags:
   - type/commentary
 sources:
   - https://a16z.com/a16z-frontier
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "This Week in Fintech"
@@ -115,7 +115,7 @@ Low event-novelty: it is a **naming + mandate change**, no new capital, no numbe
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-25]] (2026-10-25).
 <!-- /enrichment:post -->
 
 ## Market Research

@@ -8,7 +8,7 @@ tags:
   - type/commentary
 sources:
   - https://www.wsj.com/tech/personal-tech/ai-token-spending-businesses-431ee94a
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "42 секунды"
@@ -122,7 +122,7 @@ The WSJ thesis is the demand-side rationale for a whole emerging fintech categor
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-25]] (2026-10-25).
 <!-- /enrichment:post -->
 
 ## Market Research

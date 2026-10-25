@@ -11,7 +11,7 @@ tags:
 sources:
   - https://www.mastercard.com/us/en.html
   - https://www.mastercard.com/news/europe/en/newsroom/press-releases/en/2026/mastercard-expands-first-party-trust-program-to-help-european-merchants-from-rising-friendly-fraud
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -1325,7 +1325,7 @@ See challenge section.
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-25]] (2026-10-25).
 <!-- /enrichment:post -->
 
 ## Market Research

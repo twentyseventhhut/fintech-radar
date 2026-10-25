@@ -9,7 +9,7 @@ tags:
   - type/m-and-a
 sources:
   - https://mergers.ru/news/Nasledniki-skonchavshegosya-prezidenta-Solikamskbumproma-hotyat-vyjti-iz-biznesa-87687
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Mergers.ru"
@@ -198,7 +198,7 @@ Importance: 2/5 — Non-binding LOI inside an insolvency case for a distressed, 
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-25]] (2026-10-25).
 <!-- /enrichment:post -->
 
 ## Market Research

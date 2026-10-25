@@ -9,7 +9,7 @@ tags:
   - type/regulation
 sources:
   - https://committees.parliament.uk/committee/158/treasury-committee/news/218364/google-cloud-outage-bank-of-england-and-fca-letter-published
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "This Week in Fintech"
@@ -85,7 +85,7 @@ _(нет загруженного полного текста первоисто
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-25]] (2026-10-25).
 <!-- /enrichment:post -->
 
 ## Market Research

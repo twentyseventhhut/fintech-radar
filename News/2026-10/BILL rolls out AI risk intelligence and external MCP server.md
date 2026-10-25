@@ -10,7 +10,7 @@ tags:
   - type/product
 sources:
   - https://www.bill.com/press-release/bill-launches-new-suite-of-ai-capabilities
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "This Week in Fintech"
@@ -159,7 +159,7 @@ Importance: 3/5 — A real, well-framed product move from a large, scaled incumb
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-25]] (2026-10-25).
 <!-- /enrichment:post -->
 
 ## Market Research

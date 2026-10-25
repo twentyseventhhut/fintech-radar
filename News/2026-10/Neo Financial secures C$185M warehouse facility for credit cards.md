@@ -10,7 +10,7 @@ tags:
   - type/funding
 sources:
   - https://www.newswire.ca/news-releases/canadian-credit-unions-back-neo-financial-s-growth-through-185-million-atb-financial-led-facility-818883832.html
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "This Week in Fintech"
@@ -85,7 +85,7 @@ Sources: company release (newswire.ca, 2026-10-22); thelogic.co; sacra.com; beta
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-25]] (2026-10-25).
 <!-- /enrichment:post -->
 
 ## Market Research
