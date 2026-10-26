@@ -10,7 +10,7 @@ tags:
   - type/regulation
 sources:
   - https://www.paymentsdive.com/news/sezzle-seeks-occ-bank-charter/833847
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -87,7 +87,7 @@ Sources: <https://www.bankersonline.com/topstory/sezzle-now-seeking-federal-char
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-26]] (2026-10-26).
 <!-- /enrichment:post -->
 
 ## Market Research

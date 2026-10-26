@@ -9,7 +9,7 @@ tags:
   - type/product
 sources:
   - https://www.cnews.ru/news/line/2026-10-12_mts_predstavila_novyj_instrument
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "News & Trends by Sber"
@@ -109,7 +109,7 @@ Importance: 2/5 — A low-cost checkout donation widget launched narrow: one aff
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-26]] (2026-10-26).
 <!-- /enrichment:post -->
 
 ## Market Research

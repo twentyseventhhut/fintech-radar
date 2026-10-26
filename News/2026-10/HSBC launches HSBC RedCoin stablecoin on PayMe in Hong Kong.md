@@ -11,7 +11,7 @@ tags:
 sources:
   - https://asianbankingandfinance.net/news/hsbc-launches-hong-kong-dollar-stablecoin-payme
   - https://fintechnews.hk/41466/blockchain/hsbc-redcoin-stablecoin-payme-hong-kong
-status: enriched
+status: published
 n_mentions: 2
 channels:
   - "Connecting the Dots in Fintech"
@@ -119,7 +119,7 @@ Importance: 3/5 — First mass-retail HKD stablecoin from a globally systemic ba
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-26]] (2026-10-26).
 <!-- /enrichment:post -->
 
 ## Market Research

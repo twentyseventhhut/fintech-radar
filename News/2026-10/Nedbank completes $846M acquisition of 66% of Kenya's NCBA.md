@@ -10,7 +10,7 @@ tags:
   - type/m-and-a
 sources:
   - https://www.the-star.co.ke/business/kenya/2026-10-21-ncba-to-suspend-shares-trading-as-nedbank-completes-acquisition
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "This Week in Fintech"
@@ -184,7 +184,7 @@ Sources: https://www.the-star.co.ke/business/kenya/2026-10-19-nedbank-takes-cont
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-26]] (2026-10-26).
 <!-- /enrichment:post -->
 
 ## Market Research

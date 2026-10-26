@@ -10,7 +10,7 @@ tags:
 sources:
   - https://super.money
   - https://entrackr.com/fintrackr/flipkart-supermoneys-revenue-triples-to-rs-292-cr-in-fy26-losses-up-78-12689749
-status: enriched
+status: published
 n_mentions: 2
 channels:
   - "This Week in Fintech"
@@ -173,7 +173,7 @@ Importance: 3/5 — A fast-growing, well-backed top-5 UPI player's first real fi
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-26]] (2026-10-26).
 <!-- /enrichment:post -->
 
 ## Market Research

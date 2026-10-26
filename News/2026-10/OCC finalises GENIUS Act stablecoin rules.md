@@ -9,7 +9,7 @@ tags:
   - type/regulation
 sources:
   - https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-50.html
-status: enriched
+status: published
 n_mentions: 2
 channels:
   - "Fintech Brainfood"
@@ -626,7 +626,7 @@ The OCC under the current administration has pursued a pro-innovation digital-as
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-26]] (2026-10-26).
 <!-- /enrichment:post -->
 
 ## Market Research

@@ -9,7 +9,7 @@ tags:
   - type/product
 sources:
   - https://www.techjuice.pk/nitb-to-integrate-raast-digital-payments-across-government-platforms
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "This Week in Fintech"
@@ -74,7 +74,7 @@ Importance: 3/5 — Government-rail mandates are among the strongest adoption le
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-26]] (2026-10-26).
 <!-- /enrichment:post -->
 
 ## Market Research

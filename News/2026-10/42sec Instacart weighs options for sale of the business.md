@@ -9,7 +9,7 @@ tags:
   - type/m-and-a
 sources:
   - https://www.theinformation.com/articles/instacart-exploring-sale
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "42 секунды"
@@ -408,7 +408,7 @@ On **Oct 23, 2026** The Information (Pau/Lessin/Weinberg) reported that **Instac
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-26]] (2026-10-26).
 <!-- /enrichment:post -->
 
 ## Market Research

@@ -10,7 +10,7 @@ tags:
   - type/product
 sources:
   - https://tipalti.com/press/tipalti-ap-agent-agentic-ai
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "This Week in Fintech"
@@ -109,7 +109,7 @@ Tipalti (founded 2010) is a global AP + mass-payments platform: ~$200M ARR (Sep 
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-26]] (2026-10-26).
 <!-- /enrichment:post -->
 
 ## Market Research

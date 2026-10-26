@@ -11,7 +11,7 @@ tags:
   - type/m-and-a
 sources:
   - https://www.techmahindra.com/insights/press-releases/tech-mahindra-acquires-finastras-cash-management-product-suite
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "This Week in Fintech"
@@ -129,7 +129,7 @@ Expect Tech Mahindra to **integrate CM into its BFSI/transaction-banking offerin
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-26]] (2026-10-26).
 <!-- /enrichment:post -->
 
 ## Market Research

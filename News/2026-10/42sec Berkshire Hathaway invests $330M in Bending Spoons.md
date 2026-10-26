@@ -10,7 +10,7 @@ tags:
   - type/funding
 sources:
   - https://www.ft.com/content/3f821be4-f137-4cc9-b0b0-b2014f2607c2
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "42 секунды"
@@ -111,7 +111,7 @@ _Importance: 3/5._
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-26]] (2026-10-26).
 <!-- /enrichment:post -->
 
 ## Market Research

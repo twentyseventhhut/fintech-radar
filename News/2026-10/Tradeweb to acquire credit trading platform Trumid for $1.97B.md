@@ -11,7 +11,7 @@ tags:
   - type/m-and-a
 sources:
   - https://www.tradeweb.com/newsroom/media-center/news-releases/tradeweb-to-acquire-trumid-expanding-tradewebs-credit-capabilities-across-the-entire-bond-lifecycle-and-further-differentiating-its-multi-asset-class-platform
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "This Week in Fintech"
@@ -104,7 +104,7 @@ Importance: 4/5 — a near-$2bn consolidation of two of the top-three US electro
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-26]] (2026-10-26).
 <!-- /enrichment:post -->
 
 ## Market Research

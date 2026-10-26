@@ -10,7 +10,7 @@ tags:
   - type/m-and-a
 sources:
   - https://www.aol.com/articles/exclusive-blackstone-warburg-explore-intrafi-163740000.html
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "This Week in Fintech"
@@ -110,7 +110,7 @@ Importance: 3/5 — a large, named-advisor sell-side process for a systemically 
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-26]] (2026-10-26).
 <!-- /enrichment:post -->
 
 ## Market Research

@@ -11,7 +11,7 @@ tags:
 sources:
   - https://www.fca.org.uk/publications/guidance-consultations/gc26-7-decentralised-finance-guidance
   - https://www.crowdfundinsider.com/2026/10/319909-uk-financial-conduct-authority-fca-launches-consultations-on-defi-guidance-and-crypto-regulatory-guidelines
-status: enriched
+status: published
 n_mentions: 2
 channels:
   - "Connecting the Dots in Fintech"
@@ -645,7 +645,7 @@ The consultations arrive against the backdrop of a broader crypto roadmap that h
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-26]] (2026-10-26).
 <!-- /enrichment:post -->
 
 ## Market Research

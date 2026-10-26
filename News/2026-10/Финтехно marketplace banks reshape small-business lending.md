@@ -11,7 +11,7 @@ sources:
   - https://youtu.be/OKHkc5yqy6U
   - https://vkvideo.ru/video-234053922_456239088
   - https://rutube.ru/video/private/91a5ecffcb4e8e4c7dd33edd646fe01f
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Финтехно"
@@ -770,7 +770,7 @@ Importance: 3/5
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-26]] (2026-10-26).
 <!-- /enrichment:post -->
 
 ## Market Research

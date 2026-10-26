@@ -10,7 +10,7 @@ tags:
   - type/m-and-a
 sources:
   - https://www.latamfintech.co/articles/neobanco-brubank-esta-a-la-venta-y-nubank-inter-y-btg-pactual-evaluarian-comprarlo-para-obtener-una-licencia-bancaria-en-argentina
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -153,7 +153,7 @@ Importance: 3/5 — Strategically meaningful (a licensed foothold in Argentina i
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-26]] (2026-10-26).
 <!-- /enrichment:post -->
 
 ## Market Research

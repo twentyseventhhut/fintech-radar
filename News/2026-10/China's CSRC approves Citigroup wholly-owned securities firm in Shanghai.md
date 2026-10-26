@@ -9,7 +9,7 @@ tags:
   - type/regulation
 sources:
   - https://fintechnews.hk/41472/fintechchina/citi-securities-china-csrc-approval
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "This Week in Fintech"
@@ -77,7 +77,7 @@ _(нет загруженного полного текста первоисто
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-26]] (2026-10-26).
 <!-- /enrichment:post -->
 
 ## Market Research

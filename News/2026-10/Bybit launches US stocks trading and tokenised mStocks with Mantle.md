@@ -11,7 +11,7 @@ tags:
   - type/product
 sources:
   - https://thefintechtimes.com/bybit-adds-stock-trading-and-tokenised-equities-in-tradfi-push
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "This Week in Fintech"
@@ -96,7 +96,7 @@ Sources: https://cryptobriefing.com/bybit-mstocks-tokenized-equity-trading-launc
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-26]] (2026-10-26).
 <!-- /enrichment:post -->
 
 ## Market Research
