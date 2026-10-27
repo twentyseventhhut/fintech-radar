@@ -9,7 +9,7 @@ tags:
   - type/ipo
 sources:
   - https://www.ft.com/content/f6ecfecd-d797-4d2c-b427-d333297949cb
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "42 секунды"
@@ -100,7 +100,7 @@ Importance: 5/5 — The first-ever frontier-AI-lab public offering, at a $1.5T+ 
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-27]] (2026-10-27).
 <!-- /enrichment:post -->
 
 ## Market Research

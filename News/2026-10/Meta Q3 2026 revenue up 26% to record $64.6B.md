@@ -9,7 +9,7 @@ tags:
   - type/earnings
 sources:
   - https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-Third-Quarter-2026-Results/default.aspx
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "News & Trends by Sber"
@@ -222,7 +222,7 @@ Importance: 4/5 — Meta is a megacap bellwether whose negative-FCF AI capex set
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-27]] (2026-10-27).
 <!-- /enrichment:post -->
 
 ## Market Research

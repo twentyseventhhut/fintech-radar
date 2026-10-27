@@ -10,7 +10,7 @@ tags:
   - type/layoffs
 sources:
   - https://www.techinasia.com/news/israeli-fintech-firm-fireblocks-plans-cut-7-workforce
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -241,7 +241,7 @@ Copyright © 2026 Tech in Asia. All Rights Reserved.
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-27]] (2026-10-27).
 <!-- /enrichment:post -->
 
 ## Market Research

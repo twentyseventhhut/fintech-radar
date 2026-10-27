@@ -11,7 +11,7 @@ tags:
 sources:
   - https://www.dlocal.com
   - https://www.dlocal.com/press-releases/recurring-payments-with-less-friction-and-operational-burden-the-belvodlocal-partnership
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -81,7 +81,7 @@ Importance: 3/5 — Credible, dated, strategically logical distribution deal tha
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-27]] (2026-10-27).
 <!-- /enrichment:post -->
 
 ## Market Research

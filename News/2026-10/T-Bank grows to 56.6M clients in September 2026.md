@@ -9,7 +9,7 @@ tags:
   - type/earnings
 sources:
   - https://www.tbank.ru/about/news/23102026-t-technologies-discloses-the-groups-operating-results-for-september-2026
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "News & Trends by Sber"
@@ -95,7 +95,7 @@ Importance: 2/5 — a routine monthly client-count update for T-Bank: active gro
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-27]] (2026-10-27).
 <!-- /enrichment:post -->
 
 ## Market Research

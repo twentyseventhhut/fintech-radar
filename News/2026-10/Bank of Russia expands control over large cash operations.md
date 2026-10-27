@@ -9,7 +9,7 @@ tags:
   - type/regulation
 sources:
   - http://www.cbr.ru/Crosscut/LawActs/File/12266
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Финтехно"
@@ -495,7 +495,7 @@ Importance: 3/5 — a concrete, well-publicized tightening of Russia's cash AML 
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-27]] (2026-10-27).
 <!-- /enrichment:post -->
 
 ## Market Research

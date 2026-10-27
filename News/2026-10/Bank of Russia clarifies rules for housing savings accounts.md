@@ -9,7 +9,7 @@ tags:
   - type/regulation
 sources:
   - https://asros.ru/dialog/lending-and-deposits/bank-rossii-razyasnil-voprosy-assotsiaii-baknov-rossii-o-poryadke-primeneniya-zakona-230-fz-po-zaklyu
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Финтехно"
@@ -95,7 +95,7 @@ Importance: 3/5 — A concrete, named new Russian retail-banking product (230-FZ
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-27]] (2026-10-27).
 <!-- /enrichment:post -->
 
 ## Market Research

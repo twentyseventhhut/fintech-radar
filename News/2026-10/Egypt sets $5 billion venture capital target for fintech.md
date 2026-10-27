@@ -9,7 +9,7 @@ tags:
   - type/regulation
 sources:
   - https://www.startupresearcher.com/news/egypt-unveils-startup-support-plan-and-usd5-billion-venture-capital-target
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "This Week in Fintech"
@@ -80,7 +80,7 @@ Importance: 3/5 — a credible, well-signalled national policy initiative with r
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-27]] (2026-10-27).
 <!-- /enrichment:post -->
 
 ## Market Research

@@ -10,7 +10,7 @@ tags:
   - type/partnership
 sources:
   - https://www.retailtechinnovationhub.com/home/2026/10/23/affirm-bags-exclusive-and-multi-year-buy-now-pay-later-deal-with-sams-club
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -131,7 +131,7 @@ Sources:
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-27]] (2026-10-27).
 <!-- /enrichment:post -->
 
 ## Market Research

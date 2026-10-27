@@ -8,7 +8,7 @@ tags:
   - type/regulation
 sources:
   - https://crypto.news/south-korea-crypto-transfer-rules-december-2026
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -105,7 +105,7 @@ Following the October 26 public comment deadline, the draft decree must undergo 
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-27]] (2026-10-27).
 <!-- /enrichment:post -->
 
 ## Market Research

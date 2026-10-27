@@ -10,7 +10,7 @@ tags:
   - type/partnership
 sources:
   - https://thepaypers.com/fintech/news/teya-and-finmid-partner-on-sme-financing-in-croatia-and-hungary
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -166,7 +166,7 @@ Two competitive planes here.
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-27]] (2026-10-27).
 <!-- /enrichment:post -->
 
 ## Market Research

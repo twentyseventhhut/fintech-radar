@@ -10,7 +10,7 @@ tags:
   - type/research-report
 sources:
   - https://www.bis.org/publications/working-paper-1385-competing-rails-crossborder-payments-banks-fintechs-and-stablecoins
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Финтехно"
@@ -116,7 +116,7 @@ Duplicate verdict: **FRESH** — new 19 Oct 2026 BIS working paper; no prior cor
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-27]] (2026-10-27).
 <!-- /enrichment:post -->
 
 ## Market Research

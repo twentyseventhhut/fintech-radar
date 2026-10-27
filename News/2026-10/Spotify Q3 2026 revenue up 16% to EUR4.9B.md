@@ -9,7 +9,7 @@ tags:
   - type/earnings
 sources:
   - https://investors.spotify.com/files/content_files/Q3-2026-Shareholder-Deck-FINAL.pdf
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "News & Trends by Sber"
@@ -276,7 +276,7 @@ This note reports **actuals**, so "novelty" is about what the numbers confirm, n
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-27]] (2026-10-27).
 <!-- /enrichment:post -->
 
 ## Market Research

@@ -11,7 +11,7 @@ tags:
   - type/partnership
 sources:
   - https://thepaypers.com/crypto-web3-and-cbdc/news/arf-and-ripple-bring-rlusd-settlement-liquidity-to-the-xrp-ledger
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -133,7 +133,7 @@ Copyright
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-27]] (2026-10-27).
 <!-- /enrichment:post -->
 
 ## Market Research

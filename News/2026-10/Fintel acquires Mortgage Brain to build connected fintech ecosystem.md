@@ -10,7 +10,7 @@ tags:
   - type/m-and-a
 sources:
   - https://ffnews.com/news/fintel-strengthens-software-data-strategy-with-acquisition-of-mortgage-brai-9158f3a5
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -168,7 +168,7 @@ Importance: 3/5 — A clear, fully-funded £38.4m all-cash UK mortgage-tech cons
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-27]] (2026-10-27).
 <!-- /enrichment:post -->
 
 ## Market Research

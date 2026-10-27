@@ -10,7 +10,7 @@ tags:
   - type/expansion
 sources:
   - https://www.reuters.com/world/africa/ethiopias-central-bank-joins-african-payments-system-papss-2026-10-15
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "This Week in Fintech"
@@ -86,7 +86,7 @@ Importance: 3/5 — Ethiopia is Africa's 2nd-largest country (~120M) and a forme
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-27]] (2026-10-27).
 <!-- /enrichment:post -->
 
 ## Market Research

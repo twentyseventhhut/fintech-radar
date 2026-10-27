@@ -11,7 +11,7 @@ tags:
   - type/m-and-a
 sources:
   - https://tradersunion.com/news/institutions/show/3966215-itau-unibanco-acquires-neospace-ai-deal
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -83,7 +83,7 @@ Importance: 4/5 — Largest-of-its-kind ($580M) AI acquisition by LatAm's bigges
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-27]] (2026-10-27).
 <!-- /enrichment:post -->
 
 ## Market Research

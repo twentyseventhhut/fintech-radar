@@ -10,7 +10,7 @@ tags:
   - type/commentary
 sources:
   - https://www.theinformation.com/articles/ramp-investors-went-nuclear-airwallex-doomed-deal
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -389,7 +389,7 @@ Confirm My Choices
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-27]] (2026-10-27).
 <!-- /enrichment:post -->
 
 ## Market Research

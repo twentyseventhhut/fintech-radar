@@ -9,7 +9,7 @@ tags:
   - type/product
 sources:
   - https://rb.ru/news/ozon-bank-otkryl-biznesu-dostup-k-cfa-vsem-yurlicam-servis-stanet-dostupen-do-konca-oktyabrya
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "News & Trends by Sber"
@@ -78,7 +78,7 @@ _(нет загруженного полного текста первоисто
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-27]] (2026-10-27).
 <!-- /enrichment:post -->
 
 ## Market Research
