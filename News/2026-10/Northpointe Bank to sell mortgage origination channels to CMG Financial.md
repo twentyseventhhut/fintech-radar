@@ -10,7 +10,7 @@ tags:
   - type/m-and-a
 sources:
   - https://ir.northpointe.com/news-events/press-releases/detail/128/northpointe-bancshares-inc-reports-third-quarter-2026-results
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "This Week in Fintech"
@@ -294,7 +294,7 @@ Sources: [IR / Q3 2026 results](https://ir.northpointe.com/news-events/press-rel
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-28]] (2026-10-28).
 <!-- /enrichment:post -->
 
 ## Market Research

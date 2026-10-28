@@ -9,7 +9,7 @@ tags:
   - type/research-report
 sources:
   - https://www.ft.com/content/45fbf130-f82c-465d-bc97-5b18c20fbe27
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "42 секунды"
@@ -80,7 +80,7 @@ Sources: [FT](https://www.ft.com/content/45fbf130-f82c-465d-bc97-5b18c20fbe27) �
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-28]] (2026-10-28).
 <!-- /enrichment:post -->
 
 ## Market Research

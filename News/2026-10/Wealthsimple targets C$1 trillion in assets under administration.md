@@ -9,7 +9,7 @@ tags:
   - type/expansion
 sources:
   - https://www.bloomberg.com/news/newsletters/2026-10-23/wealthsimple-ceo-michael-katchen-sets-sights-on-canada-s-biggest-banks
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -82,7 +82,7 @@ Importance: 3/5 — Genuinely notable strategic signaling from Canada's most pro
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-28]] (2026-10-28).
 <!-- /enrichment:post -->
 
 ## Market Research

@@ -9,7 +9,7 @@ tags:
   - type/earnings
 sources:
   - https://investors.sofi.com/news/news-details/2026/SoFi-Reports-Third-Quarter-2026-with-Record-Net-Revenue-of-1-4-Billion-Net-Income-of-241-Million-and-Raises-Full-Year-Guidance/default.aspx
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -963,7 +963,7 @@ Importance: 4/5 — A clean beat-and-raise from one of the few profitable at-sca
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-28]] (2026-10-28).
 <!-- /enrichment:post -->
 
 ## Market Research

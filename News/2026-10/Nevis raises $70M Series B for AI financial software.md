@@ -10,7 +10,7 @@ tags:
   - type/funding
 sources:
   - https://fortune.com/2026/10/26/former-revolut-execs-70-million-financial-advisor-shortage
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -93,7 +93,7 @@ Sources: Fortune (2026-10-26, primary, in-note), BusinessWire/Morningstar (Serie
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-28]] (2026-10-28).
 <!-- /enrichment:post -->
 
 ## Market Research

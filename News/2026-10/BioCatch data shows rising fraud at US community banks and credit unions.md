@@ -11,7 +11,7 @@ tags:
 sources:
   - https://www.biocatch.com/press-release/us-community-banks-and-credit-unions-report-increase-in-money-laundering-sessions
   - https://www.biocatch.com/report-2026-digital-banking-fraud-trends-in-spain
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "This Week in Fintech"
@@ -214,7 +214,7 @@ The mule economy is the cash-out rail for scams (APP/first-party fraud, investme
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-28]] (2026-10-28).
 <!-- /enrichment:post -->
 
 ## Market Research

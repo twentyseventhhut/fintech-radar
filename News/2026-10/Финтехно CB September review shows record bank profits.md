@@ -11,7 +11,7 @@ sources:
   - http://www.cbr.ru/Collection/Collection/File/62467/razv_bs_26_09.pdf
   - https://max.ru/fintexno
   - https://www.cbr.ru/registries/admissionfinmarket
-status: enriched
+status: published
 n_mentions: 3
 channels:
   - "Финтехно"
@@ -1124,7 +1124,7 @@ Sources:
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-28]] (2026-10-28).
 <!-- /enrichment:post -->
 
 ## Market Research

@@ -10,7 +10,7 @@ tags:
   - type/capital-markets
 sources:
   - https://australianfintech.com.au/asx-listed-moneyme-executes-413-5-million-autopay-abs-transaction
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "This Week in Fintech"
@@ -78,7 +78,7 @@ _(нет загруженного полного текста первоисто
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-28]] (2026-10-28).
 <!-- /enrichment:post -->
 
 ## Market Research

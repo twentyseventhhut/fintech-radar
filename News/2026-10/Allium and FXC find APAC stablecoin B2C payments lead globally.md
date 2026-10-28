@@ -10,7 +10,7 @@ tags:
   - type/research-report
 sources:
   - https://asianbusinessreview.com/in-focus/apac-stablecoin-use-skews-53x-towards-b2c-payments
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "This Week in Fintech"
@@ -143,7 +143,7 @@ Importance: 3/5 — rigorous, well-sourced data drop that usefully reframes stab
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-28]] (2026-10-28).
 <!-- /enrichment:post -->
 
 ## Market Research

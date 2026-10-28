@@ -9,7 +9,7 @@ tags:
   - type/commentary
 sources:
   - https://www.vedomosti.ru/business/articles/2026/10/27/1240320-whoosh-perevodit-sotrudnikov
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "42 секунды"
@@ -433,7 +433,7 @@ Sources: [Vedomosti](https://www.vedomosti.ru/business/articles/2026/10/27/12403
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-28]] (2026-10-28).
 <!-- /enrichment:post -->
 
 ## Market Research

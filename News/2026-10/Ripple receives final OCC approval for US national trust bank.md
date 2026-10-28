@@ -9,7 +9,7 @@ tags:
   - type/regulation
 sources:
   - https://www.businesswire.com/news/home/20261026570843/en/Ripple-Receives-Final-OCC-Approval-to-Establish-National-Trust-Bank
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -92,7 +92,7 @@ Importance: 4/5 — a marquee, dated regulatory milestone (final federal trust c
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-28]] (2026-10-28).
 <!-- /enrichment:post -->
 
 ## Market Research

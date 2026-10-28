@@ -10,7 +10,7 @@ tags:
   - type/partnership
 sources:
   - https://finance.biggo.com/news/ec3b5b25-7377-4933-83ba-d1b959282330
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -97,7 +97,7 @@ Sources: finance.biggo.com (note source); theblock.co/news/business/2026-10-26-b
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-28]] (2026-10-28).
 <!-- /enrichment:post -->
 
 ## Market Research

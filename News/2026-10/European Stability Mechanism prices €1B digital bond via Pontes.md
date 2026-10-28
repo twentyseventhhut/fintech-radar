@@ -9,7 +9,7 @@ tags:
   - type/product
 sources:
   - https://fxnewsgroup.com/forex-news/institutional/esm-deutsche-bundesbank-and-clearstream-conduct-first-pontes-transaction
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -85,7 +85,7 @@ Importance: 4/5 — First benchmark-scale (€1bn) DLT bond by a top-tier Europe
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-28]] (2026-10-28).
 <!-- /enrichment:post -->
 
 ## Market Research

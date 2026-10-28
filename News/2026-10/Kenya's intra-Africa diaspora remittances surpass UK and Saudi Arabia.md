@@ -9,7 +9,7 @@ tags:
   - type/research-report
 sources:
   - https://www.businessdailyafrica.com/bd/economy/kenya-s-diaspora-inflows-from-africa-overtake-uk-saudi-arabia-5643082
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "This Week in Fintech"
@@ -382,7 +382,7 @@ Nation Media Group © 2026
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-28]] (2026-10-28).
 <!-- /enrichment:post -->
 
 ## Market Research

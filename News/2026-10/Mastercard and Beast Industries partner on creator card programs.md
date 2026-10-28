@@ -11,7 +11,7 @@ tags:
 sources:
   - https://www.mastercard.com/us/en.html
   - https://www.mastercard.com/us/en/news-and-trends/stories/2026/beast-industries-mastercard-creator-economy.html
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -2466,7 +2466,7 @@ Importance: 3/5 — Big, name-recognizable brand pairing and a directionally mea
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-28]] (2026-10-28).
 <!-- /enrichment:post -->
 
 ## Market Research

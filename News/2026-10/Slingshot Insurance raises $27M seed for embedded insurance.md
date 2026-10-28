@@ -10,7 +10,7 @@ tags:
   - type/funding
 sources:
   - https://www.prnewswire.com/news-releases/slingshot-insurance-emerges-from-stealth-with-27-million-seed-investment-to-build-ai-native-infrastructure-for-embedded-insurance-302914508.html
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "This Week in Fintech"
@@ -130,7 +130,7 @@ Plan: sign more MGAs/vertical-software platforms and prove the unit economics on
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-28]] (2026-10-28).
 <!-- /enrichment:post -->
 
 ## Market Research

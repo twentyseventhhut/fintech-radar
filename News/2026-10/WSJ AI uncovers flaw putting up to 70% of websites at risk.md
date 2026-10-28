@@ -9,7 +9,7 @@ tags:
   - type/outage-security
 sources:
   - https://www.wsj.com/tech/cybersecurity/ai-just-found-a-bug-that-puts-up-to-70-of-the-worlds-websites-at-risk-fd0902ea
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "42 секунды"
@@ -76,7 +76,7 @@ Legitimately significant internet-wide RCE with confirmed active exploitation an
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-28]] (2026-10-28).
 <!-- /enrichment:post -->
 
 ## Market Research

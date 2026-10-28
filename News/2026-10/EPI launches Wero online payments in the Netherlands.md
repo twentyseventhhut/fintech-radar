@@ -9,7 +9,7 @@ tags:
   - type/product
 sources:
   - https://epicompany.eu/media-insights/epi-company-initiates-wero-roll-out-in-the-netherlands
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -123,7 +123,7 @@ Importance: 4/5 — Migrating iDEAL (the dominant Dutch online-payment scheme, ~
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-28]] (2026-10-28).
 <!-- /enrichment:post -->
 
 ## Market Research

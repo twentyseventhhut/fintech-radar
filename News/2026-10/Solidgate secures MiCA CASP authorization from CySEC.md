@@ -10,7 +10,7 @@ tags:
   - type/regulation
 sources:
   - https://www.globenewswire.com/news-release/2026/10/23/3387074/0/en/solidgate-secures-mica-authorization-as-a-crypto-asset-service-provider.html
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "Connecting the Dots in Fintech"
@@ -168,7 +168,7 @@ Importance: 3/5 — A credible, profitable, bootstrapped orchestrator securing i
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-28]] (2026-10-28).
 <!-- /enrichment:post -->
 
 ## Market Research

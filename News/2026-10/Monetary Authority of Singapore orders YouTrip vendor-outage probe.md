@@ -10,7 +10,7 @@ tags:
   - type/outage-security
 sources:
   - https://fintechnews.sg/139156/e-wallets/youtrip-outage-singapore-thailand/
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "This Week in Fintech"
@@ -76,7 +76,7 @@ Importance: 3/5 — A prominent Singapore fintech + an explicit MAS supervisory 
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-28]] (2026-10-28).
 <!-- /enrichment:post -->
 
 ## Market Research

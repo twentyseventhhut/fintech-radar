@@ -9,7 +9,7 @@ tags:
   - type/product
 sources:
   - https://www.vedomosti.ru/technologies/industries_and_markets/news/2026/10/27/1240592-ii-agenta-dlya-ofisnih
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "42 секунды"
@@ -116,7 +116,7 @@ Importance: 3/5 — A substantive, concretely-specced enterprise-AI product laun
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-28]] (2026-10-28).
 <!-- /enrichment:post -->
 
 ## Market Research

@@ -11,7 +11,7 @@ tags:
   - type/funding
 sources:
   - https://cognitivecredit.com/blog/cognitive-credit-announces-40-million-strategic-growth-investment
-status: enriched
+status: published
 n_mentions: 1
 channels:
   - "This Week in Fintech"
@@ -112,7 +112,7 @@ Sources: [cognitivecredit.com blog](https://cognitivecredit.com/blog/cognitive-c
 ## Связь с постом
 
 <!-- enrichment:post -->
-_(пусто)_
+Опубликовано в дайджесте [[digest/2026-10-28]] (2026-10-28).
 <!-- /enrichment:post -->
 
 ## Market Research
